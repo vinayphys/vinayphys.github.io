@@ -14,9 +14,11 @@ I am primarily interested in studying the dynamics of glass forming liquids. In 
 Current Designation: Senior Research Fellow (Theoretical Physics)
 
 Education:
-
+---
 2015-	Integrated PhD	IMSc Chennai
+---
 2012-15	BSc(Hons.) in Applied Physics	Central University of Jharkhand
+---
 
 * Click here for the details of my undergraduate course at CUJ
 * Course-work details at IMSc
