@@ -11,7 +11,7 @@ layout: home
 I am a graduate student at the [Institute of Mathematical Sciences](https://www.imsc.res.in), Chennai, India. I am working in the group led by [Pinaki Chaudhuri](https://www.imsc.res.in/pinaki_chaudhuri).
 
 ## About me
-I completed my 
+I completed my undergraduate studies from  
 
 ## Contact
 email: **vinayv (at) imsc.res.in** or **vinayphys (at) gmail.com**
