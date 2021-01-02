@@ -18,3 +18,11 @@ I am primarily interested in studying the dynamics of glass forming liquids. In 
 * Course-work details at IMSc
 * My MSc thesis: Heat Transport in Glass-Forming Liquids PDF
 * My CV
+
+# Contact Information
+The Institute of Mathematical Sciences  
+*(Autonomous Institute under DAE, Govt. of India)*  
+IV Cross Street, CIT Campus,  
+Taramani, Chennai-600113, India.  
+Phone: +91-44-22543237  
+Email: vinayv [at] imsc.res.in
