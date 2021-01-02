@@ -28,7 +28,7 @@ github_username:  vinayphys
 orcid_username: 0000-0002-6006-9902
 
 # Build settings
-theme: minima
+theme: midnight
 #plugins:
 #        - jekyll-feed
 
