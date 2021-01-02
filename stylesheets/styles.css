@@ -6,6 +6,9 @@ body {
   font-weight:400;
 }
 
+$color-yellow: #FFC107;
+$color-green: #8bc34a;
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px
@@ -35,7 +38,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#e6142d;
+  color:$color-yellow;
   text-decoration:none;
 }
 
