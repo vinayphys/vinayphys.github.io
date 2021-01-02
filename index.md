@@ -25,4 +25,4 @@ Taramani, Chennai-600113, India.
 Phone: +91-44-22543237  
 Email: vinayv [at] imsc.res.in
 
-<img src="imsc.jpg" width = "300">
+<img src="imsc.jpg" width = "900">
