@@ -6,7 +6,7 @@
 layout: home
 
 
-# ![Alt text](images/vinay.jpg?raw=true "Me"){:height="50%" width="50%"}
+# ![Alt text](images/vinay.jpg){:height="50%" width="50%"}
 ---
 I am a graduate student at the [Institute of Mathematical Sciences](https://www.imsc.res.in), Chennai, India. I am working in the group led by [Pinaki Chaudhuri](https://www.imsc.res.in/pinaki_chaudhuri).
 
