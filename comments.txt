@@ -1,0 +1,14 @@
+----Current todos--------
+-Add list of publications
+-add list of teaching
+-Other content?
+
+- Trying to add image to background of the theme. See https://stackoverflow.com/questions/54157109/how-to-render-background-image-in-a-page-generated-by-jekyll/54167308
+-------------------------
+
+
+-----Local testing of modifications to website-----
+modify website and do "bundle exec jekyll serve"
+
+Find the website running at "http://localhost:4000"
+---------------------------------------------------
