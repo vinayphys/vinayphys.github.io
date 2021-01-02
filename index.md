@@ -9,6 +9,8 @@ I am a PhD Candidate in Physics at <a href="https://www.imsc.res.in">The Institu
 # Research Interests
 I am primarily interested in studying the dynamics of glass forming liquids. In particular, we are study the response of a model glass-former under thermal and mechanical perturbation using the techniques of nonequilibrium molecular dynamics simulations. I am also exploring granular systems and driven colloidal systems. For more details see what I'm doing now.
 
+<img src="blj.gif" width = "900">
+
 # Education
 2015-Present:	 Integrated PhD in Physics (IMSc Chennai)  
 2012-2015:	   BSc(Hons.) in Applied Physics (Central University of Jharkhand)
