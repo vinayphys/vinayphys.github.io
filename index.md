@@ -6,12 +6,12 @@
 layout: home
 
 
-# ![Alt text](/images/vinay.jpg){:height="20%" width="20%"}
+# ![Alt text](/images/vinay.jpg?raw=true "Me"){:height="20%" width="20%"}
 ---
 I am a graduate student at the [Institute of Mathematical Sciences](https://www.imsc.res.in), Chennai, India. I am working in the group led by [Pinaki Chaudhuri](https://www.imsc.res.in/pinaki_chaudhuri).
 
 ## About me
-I completed my undergraduate studies from  
+I completed my undergraduate studies from Central University of Jharkhand.  
 
 ## Contact
 email: **vinayv (at) imsc.res.in** or **vinayphys (at) gmail.com**
