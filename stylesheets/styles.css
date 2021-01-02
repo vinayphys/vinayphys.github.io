@@ -1,8 +1,8 @@
 body {
-  background-color: #000000;
+  background-color: #252525;
   padding:50px;
   font: 14px/1.5 "Noto Sans", sans-serif;
-  color:#FFFFFF;
+  color: rgba(255, 255, 255, 0.7);
   font-weight:400;
 }
 
