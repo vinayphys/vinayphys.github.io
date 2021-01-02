@@ -17,7 +17,6 @@ I am primarily interested in studying the dynamics of glass forming liquids. In 
 * Click here for the details of my undergraduate course at CUJ
 * Course-work details at IMSc
 * My MSc thesis: Heat Transport in Glass-Forming Liquids PDF
-* My CV
 
 # Contact Information
 The Institute of Mathematical Sciences  
