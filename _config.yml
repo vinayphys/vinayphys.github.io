@@ -13,7 +13,7 @@ github_username:  vinayphys
 show_downloads: true
 google_analytics:
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 #plugins:
 #        - jekyll-feed
 
