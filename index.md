@@ -15,8 +15,8 @@ Current Designation: Senior Research Fellow (Theoretical Physics)
 
 Education:
 
-| 2015-Present	| Integrated PhD | IMSc Chennai|
-| 2012-2015	| BSc(Hons.) in Applied Physics | Central University of Jharkhand|
+2015-Present	 Integrated PhD in Physics (IMSc Chennai)
+2012-2015	     BSc(Hons.) in Applied Physics (Central University of Jharkhand)
 
 * Click here for the details of my undergraduate course at CUJ
 * Course-work details at IMSc
