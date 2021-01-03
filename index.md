@@ -15,7 +15,7 @@ I am primarily interested in studying the dynamics of glass forming liquids. In 
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
 
 * Click here for the details of my undergraduate course at CUJ
-* Course-work details at IMSc
+* Course-work details at IMSc  
 * MSc thesis: Heat Transport in Glass-Forming Liquids PDF
 
 # Connect with me
