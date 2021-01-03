@@ -25,6 +25,6 @@ The Institute of Mathematical Sciences
 IV Cross Street, CIT Campus,  
 Taramani, Chennai-600113, India.  
 Phone: +91-44-22543237  
-Email: vinayv [at] imsc.res.in
+Email: vinayphys [at] gmail.com or vinayv [at] imsc.res.in
 
 <img src="images/imsc.jpg" width = "900">
