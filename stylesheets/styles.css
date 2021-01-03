@@ -38,12 +38,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:$color-yellow;
+  color:#e6142d;
   text-decoration:none;
 }
 
 a:hover {
-  color:$color-yellow;
+  color:#bd081d;
 }
 
 a small {
