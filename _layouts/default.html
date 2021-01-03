@@ -19,8 +19,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <p>{{ site.contact}}</p>
         
          <br>
         &thinsp;
@@ -32,8 +30,6 @@
         <br>
 
         <h2><a href="{{ "/Research" | absolute_url}}">Research</a></h2>
-
-        <h2><a href="{{ "/Teaching" | absolute_url}}">Teaching</a></h2>
         
       </header>
       <section>
@@ -42,9 +38,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
