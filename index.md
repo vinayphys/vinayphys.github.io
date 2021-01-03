@@ -1,7 +1,3 @@
-<!---
-<img src="photo_profile.jpg" width = "300">
--->
-
 # Welcome !
 
 Hey, I'm Vinay Vaibhav a PhD Candidate in Physics at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a>, under the supervision of <a href="https://www.imsc.res.in/pinaki_chaudhuri">Dr Pinaki Chaudhuri</a>.
@@ -9,7 +5,9 @@ Hey, I'm Vinay Vaibhav a PhD Candidate in Physics at <a href="https://www.imsc.r
 # Research Interests
 I am primarily interested in studying the dynamics of glass forming liquids. In particular, we are study the response of a model glass-former under thermal and mechanical perturbation using the techniques of nonequilibrium molecular dynamics simulations. I am also exploring granular systems and driven colloidal systems. For more details see what I'm doing now.
 
+<!---
 <img src="images/blj.gif" width = "900">
+-->
 
 # Education
 2015-Present:	 Integrated PhD in Physics (IMSc Chennai)  
