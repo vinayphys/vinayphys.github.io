@@ -11,7 +11,7 @@ I am primarily interested in studying the dynamics of glass forming liquids. In 
 
 # Education
 2015-Present:	 Integrated PhD in Physics (IMSc Chennai)  
-2012-2015:	   BSc(Hons.) in Applied Physics (Central University of Jharkhand)
+2012-2015:	   BSc (Hons.) in Applied Physics (CUJ Ranchi)
 
 * Click here for the details of my undergraduate course at CUJ
 * Course-work details at IMSc
