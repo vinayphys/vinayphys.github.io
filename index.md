@@ -9,7 +9,7 @@ I am a PhD Candidate in Physics at <a href="https://www.imsc.res.in">The Institu
 # Research Interests
 I am primarily interested in studying the dynamics of glass forming liquids. In particular, we are study the response of a model glass-former under thermal and mechanical perturbation using the techniques of nonequilibrium molecular dynamics simulations. I am also exploring granular systems and driven colloidal systems. For more details see what I'm doing now.
 
-<img src="blj.gif" width = "900">
+<img src="images/blj.gif" width = "900">
 
 # Education
 2015-Present:	 Integrated PhD in Physics (IMSc Chennai)  
@@ -27,4 +27,4 @@ Taramani, Chennai-600113, India.
 Phone: +91-44-22543237  
 Email: vinayv [at] imsc.res.in
 
-<img src="imsc.jpg" width = "900">
+<img src="images/imsc.jpg" width = "900">
