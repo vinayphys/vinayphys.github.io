@@ -1,7 +1,6 @@
 <!---
 <img src="photo_profile.jpg" width = "300">
 -->
-google-site-verification=2a6gFfNYLu5XteI_bNtpap6pYX9K8tz2cUKHJVzlMiA
 
 # Welcome !
 
