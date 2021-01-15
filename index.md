@@ -10,7 +10,7 @@ I am primarily interested in studying the dynamics of glass-forming liquids. In 
 -->
 
 # Education
-2017-2022:	Integrated PhD in Physics (IMSc Chennai)  
+2017-2022:	  PhD in Physics (IMSc Chennai)  
 2015-2017:	  MSc in Physics (IMSc Chennai)  
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
 
@@ -27,3 +27,5 @@ Phone: +91-44-22543237
 Email: vinayphys [at] gmail.com or vinayv [at] imsc.res.in
 
 <img src="images/imsc.jpg" width = "900">
+
+&copy 2020 Vinay Vaibhav. Last updated: December 2020
