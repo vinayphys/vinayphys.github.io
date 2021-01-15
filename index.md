@@ -28,4 +28,4 @@ Email: vinayphys [at] gmail.com or vinayv [at] imsc.res.in
 
 <img src="images/imsc.jpg" width = "900">
 
-&copy 2020 Vinay Vaibhav. Last updated: December 2020
+copyright @Vinay Vaibhav.   Last updated: December 2020
