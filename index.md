@@ -14,7 +14,7 @@ I am primarily interested in studying the dynamics of glass-forming liquids. In 
 2015-2017:	  MSc in Physics (IMSc Chennai)  
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
 
-* MSc thesis: Heat Transport in Glass-Forming Liquids PDF  
+* MSc thesis: Heat Transport in Glass-Forming Liquids <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/masterThesis_vinayVaibhav.pdf">PDF</a>  
 * MSc-cum-Course work details at IMSc    
 * Details of my undergraduate course at CUJ
 
