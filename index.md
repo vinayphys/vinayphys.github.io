@@ -3,7 +3,10 @@
 Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a>, under the supervision of <a href="https://www.imsc.res.in/pinaki_chaudhuri">Dr Pinaki Chaudhuri</a>.
 
 # Research Interests
-I am primarily interested in studying the dynamics of glass-forming liquids. In particular, we are studying the response of a model glass-former under thermal and mechanical perturbation using the techniques of nonequilibrium molecular dynamics simulations. I am also exploring granular systems and driven colloidal systems. My recent interests are in using Machine learning techniques in soft matter systems. For more details see what I'm doing now.
+* Thermal response of glass-forming systems: Thermophoresis, Coupling of heat and mass transport (Soret effect), Thermal processing of deep glassy states (thermal memory)  
+* Rheology of complex fluids: Micro-response, Macro-response, Structural changes
+* Mechanical response of amorphous materials: Yielding, Plasticity, Shear-banding
+* Flow under confinement: Poiseuille flow, Couette flow
 
 <!---
 <img src="images/blj.gif" width = "900">
