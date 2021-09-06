@@ -23,7 +23,7 @@ Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.
 
 # Connect with me:
 
-[Google-Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao)|[GitHub](https://github.com/vinayphys)|[ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)|[Speaker-Deck](https://speakerdeck.com/vinayphys)|[Blog]()
+[GoogleScholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao)|[GitHub](https://github.com/vinayphys)|[ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)|[Speaker-Deck](https://speakerdeck.com/vinayphys)|[Blog]()
 
 The Institute of Mathematical Sciences  
 *(Autonomous Institute under DAE, Govt. of India)*  
