@@ -1,17 +1,18 @@
 ---
 title: Research
 ---
+# Reserach  
 
-# Thermal Response of Glass-forming Liquids
+## Thermal Response of Glass-forming Liquids
 How does a glass-forming liquid respond to the externally applied temperature gradient? The answer to this question is relevant in the context of many real-life applications. We present a perspective in this direction via our study. As a response to the thermal gradient, two types of current, thermal current and mass current are setup in the system. Depending on the state of the glassy material, mass current can go to zero in steady state and such state can be characterized by measuring a quantity called Soret-coefficient which is the ratio of the thermal diffusion coefficient and inter-diffusion coefficient. We have measured the behaviour of Soret-coefficient in the supercooled regime. Linear-nonliner response of the system is characterised by constructing a phase diagram. We have also measured the response of the system in the glassy state, where we report the absence of any change in concentration profiles within the observed time window. By applying a heating-cooling protocol, we have shown that it is possible to tune the concentration profiles of the glassy states.
 
 
-# Poseuille Flow of Glassy Liquids
+## Poseuille Flow of Glassy Liquids
 
 Poiseuille flow is a pressure induced flow through a confined channel or pipe. The understanding of rheological properties of glasses via Poiseuille flow is important for many applications. In this work, we have studied the impact of two different thermostatting mechanisms to control the temperature of flowing glass by removing the excess heat generated due to the flow. The first one is a wall thermostat where we use the confining walls to thermalize the system. In this case, walls are vibrating and maintained at a fixed temperature. This leads to a steady temperature profile across the channel because of the continuous heat transfer from the center of the channel to the walls. The presence of this temperature gradient results in many non-trivial observations. In the second method, a thermostat DPD thermostat is directly applied to the confining fluid while walls are frozen. In this case, there is no temperature variation across the channel. We compare the steady flow properties of the material in the two thermalization protocols and also with Couette flow under similar conditions. Wall thermostat case shows different branches of flow-curves as the forcing strength is varied. We have also compared the transient behaviour of the flow, where we find that the flow starts early in wall thermostat case compared with DPD thermostat. Different results are also compared with the results from a narrower channel.
 
 
-# Binary Mixture with Large Size Ratio
+## Binary Mixture with Large Size Ratio
 
 In this work, we have studied a binary glassy-forming mixture where the mean diameter ratio between bigger and smaller particles is ~2.86. Bigger particles are polydisperse with mean diameter close to unity while smaller particles are of fixed diameter. Particles in this 50-50 mixture interact via purely repulsive WCA type of interaction. The unperturbed behaviour of this mixture has been studied by Th. Voigtmann and J. Horbach in  [PRL 103, 205901 (2009)], where they show that the large size ratio leads to large separation in relaxation timescales between the two species. Also, as they increase the number density at constant temperature, bigger particles start becoming slow but smaller particles become slow only at very high densities, meaning, two glass transitions in the same system.
 
