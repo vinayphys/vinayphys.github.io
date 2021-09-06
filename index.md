@@ -1,6 +1,6 @@
 # Welcome !
 
-Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a>, under the supervision of <a href="https://www.imsc.res.in/pinaki_chaudhuri">Dr Pinaki Chaudhuri</a>.
+Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a>, under the supervision of <a href="https://www.imsc.res.in/pinaki_chaudhuri">Prof. Pinaki Chaudhuri</a>.
 
 # Research Interests:
 * Thermal response of glass-forming systems: Thermophoresis, Coupling of heat and mass transport (Soret effect), Thermal processing of deep glassy states (thermal memory)  
