@@ -9,7 +9,7 @@ Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
 
 ## Published: 
 
-[Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)
+[Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
 Vinay Vaibhav and Pinaki Chaudhuri  
 Physics of Fluids **33**, 053103 (2021)
 
