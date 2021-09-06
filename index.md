@@ -2,7 +2,7 @@
 
 Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a>, under the supervision of <a href="https://www.imsc.res.in/pinaki_chaudhuri">Dr Pinaki Chaudhuri</a>.
 
-# Research Interests
+# Research Interests:
 * Thermal response of glass-forming systems: Thermophoresis, Coupling of heat and mass transport (Soret effect), Thermal processing of deep glassy states (thermal memory)  
 * Rheology of complex fluids: Micro-response, Macro-response, Structural changes
 * Mechanical response of amorphous materials: Yielding, Plasticity, Shear-banding
@@ -12,7 +12,7 @@ Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.
 <img src="images/blj.gif" width = "900">
 -->
 
-# Education
+# Education:
 2017-2022:	  PhD in Physics (IMSc Chennai)  
 2015-2017:	  MSc in Physics (IMSc Chennai)  
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
@@ -21,7 +21,10 @@ Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.
 * MSc-cum-Course work details at IMSc <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/imsc_courseDetails.pdf">here</a>   
 * Details of my undergraduate course at CUJ <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/cuj_CourseDetails.pdf">here</a>
 
-# Connect with me
+# Connect with me:
+
+[Google Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao) | [GitHub](https://github.com/vinayphys) | [ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav) | [Speaker Deck](https://speakerdeck.com/vinayphys) | [Blog]()
+
 The Institute of Mathematical Sciences  
 *(Autonomous Institute under DAE, Govt. of India)*  
 IV Cross Street, CIT Campus,  
