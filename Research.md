@@ -6,7 +6,7 @@ title: Research
 ## Thermal Response of Glass-forming Liquids
 How does a glass-forming liquid respond to the externally applied temperature gradient? The answer to this question is relevant in the context of many real-life applications. We present a perspective in this direction via our study. As a response to the thermal gradient, two types of current, thermal current and mass current are setup in the system. Depending on the state of the glassy material, mass current can go to zero in steady state and such state can be characterized by measuring a quantity called Soret-coefficient which is the ratio of the thermal diffusion coefficient and inter-diffusion coefficient. We have measured the behaviour of Soret-coefficient in the supercooled regime. Linear-nonliner response of the system is characterised by constructing a phase diagram. We have also measured the response of the system in the glassy state, where we report the absence of any change in concentration profiles within the observed time window. By applying a heating-cooling protocol, we have shown that it is possible to tune the concentration profiles of the glassy states.
 
-<img src="images/heat.png" width = "900">
+<img src="images/heat.png" width = "1000">
 
 
 ## Poseuille Flow of Glassy Liquids
