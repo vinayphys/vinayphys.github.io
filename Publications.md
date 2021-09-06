@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-Publications
+Publications  
 [Google-Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao) | [ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)  
 
 ## Manuscripts under preparation:
