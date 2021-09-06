@@ -13,7 +13,7 @@ How does a glass-forming liquid respond to the externally applied temperature gr
 
 Poiseuille flow is a pressure induced flow through a confined channel or pipe. The understanding of rheological properties of glasses via Poiseuille flow is important for many applications. In this work, we have studied the impact of two different thermostatting mechanisms to control the temperature of flowing glass by removing the excess heat generated due to the flow. The first one is a wall thermostat where we use the confining walls to thermalize the system. In this case, walls are vibrating and maintained at a fixed temperature. This leads to a steady temperature profile across the channel because of the continuous heat transfer from the center of the channel to the walls. The presence of this temperature gradient results in many non-trivial observations. In the second method, a thermostat DPD thermostat is directly applied to the confining fluid while walls are frozen. In this case, there is no temperature variation across the channel. We compare the steady flow properties of the material in the two thermalization protocols and also with Couette flow under similar conditions. Wall thermostat case shows different branches of flow-curves as the forcing strength is varied. We have also compared the transient behaviour of the flow, where we find that the flow starts early in wall thermostat case compared with DPD thermostat. Different results are also compared with the results from a narrower channel.
 
-<img src="images/poiseFlow.png" width = "1000">
+<img src="images/schematicPoiseFlow.jpg" width = "1000">
 
 
 ## Binary Mixture with Large Size Ratio
