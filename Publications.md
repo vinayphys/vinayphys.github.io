@@ -26,7 +26,7 @@ arXiv:2202.12189 (2022)
 Vinay Vaibhav and Pinaki Chaudhuri  
 Physics of Fluids 33, 053103 (2021)
 
-[Response of Glassy Liquids to Thermal Gradients](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605)  
+[Response of glassy liquids to thermal gradients](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605)  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
 Phys. Rev. E 101, 022605 (2020)
 
