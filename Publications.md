@@ -7,17 +7,17 @@ title: Publications
 
 ## Ongoing:
 
-[Mechanical response of thermally processed glass]()
+[Mechanical response of thermally processed glass](). 
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
 
 ## Submitted:
 
 [Rheological response of a glass-forming liquid having large bidispersity](https://arxiv.org/abs/2202.12612)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri. 
 ArXiv:2202.12612 (2022)
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://arxiv.org/abs/2202.12189)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri. 
 ArXiv:2202.12189 (2022)
 
 ## Published: 
