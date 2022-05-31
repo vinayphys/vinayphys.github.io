@@ -13,7 +13,7 @@ Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
 ## Published:
 
 [Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
 Soft Matter, 2022, DOI: 10.1039/D2SM00326K  
 [arXiv:2202.12612](https://arxiv.org/abs/2202.12612)
 
