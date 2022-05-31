@@ -10,6 +10,9 @@ title: Publications
 [Mechanical response of thermally processed glass]()   
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
 
+[Consequences of inhomogeneous annealing of glass]()   
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
+
 ## Published:
 
 [Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
