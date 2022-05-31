@@ -10,17 +10,16 @@ title: Publications
 [Mechanical response of thermally processed glass]()   
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
 
-## Submitted:
+## Published:
 
-[Rheological response of a glass-forming liquid having large bidispersity](https://arxiv.org/abs/2202.12612)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri   
-arXiv:2202.12612 (2022)
+[Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
+Soft Matter, 2022, DOI: 10.1039/D2SM00326K
+[arXiv:2202.12612](https://arxiv.org/abs/2202.12612)
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://arxiv.org/abs/2202.12189)  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
-arXiv:2202.12189 (2022)
-
-## Published: 
+arXiv:2202.12189 (2022) 
 
 [Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
 Vinay Vaibhav and Pinaki Chaudhuri  
