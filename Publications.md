@@ -7,10 +7,7 @@ title: Publications
 
 ## Ongoing:
 
-[Mechanical response of thermally processed glass]()   
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
-
-[Consequences of inhomogeneous annealing of glass]()   
+[Controlled Mechanical Failure in Heterogeneous Glasses]()   
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
 
 ## Published:
