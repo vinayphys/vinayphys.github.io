@@ -1,7 +1,7 @@
 ---
 title: Research
 ---
-# Reserach  
+# Research  
 
 During the course of Ph.D. research, I have gained experience in studying the response of glassy systems to thermal and mechanical perturbations, in the form of a temperature gradient and shear respectively. Study of such thermal or mechanical response not only leads to the development of various important applications but also helps in understanding the out-of-equilibrium behaviour of amorphous systems, in general. I have mostly used large scale computer simulations to put a model system under the influence of a thermal gradient or mechanical drive, then to record the spatio-temporal response with microscopic details, soon after applying the perturbation and also after long time in steady state if it can be reached. As a part of different studies, many analytical approaches and their codes have been developed and tested, along with the use of open source softwares.
 
