@@ -1,6 +1,6 @@
 # Welcome !
 
-Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a>, under the supervision of <a href="https://www.imsc.res.in/pinaki_chaudhuri">Prof. Pinaki Chaudhuri</a>.
+Hey, I'm Vinay Vaibhav, a researcher mostly interested in the theoretical aspects of soft-condernsed matter systems. I have just finished my PhD under the supervision of <a href="https://www.imsc.res.in/pinaki_chaudhuri">Prof. Pinaki Chaudhuri</a> at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a> Chennai, India. I will be soon joining a postdoctoral position in the group of <a href="https://www.unimi.it/en/ugov/person/alessio-zaccone">Prof. Alessio Zaccone</a> at the University of Milan, Italy.
 
 # Research Interests:
 * Thermal response of glass-forming systems: Thermophoresis, Coupling of heat and mass transport (Soret effect), Thermal processing of deep glassy states (thermal memory)  
