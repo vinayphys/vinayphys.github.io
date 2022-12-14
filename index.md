@@ -17,6 +17,7 @@ Hey, I'm Vinay Vaibhav, a PhD candidate in Physics at <a href="https://www.imsc.
 2015-2017:	  MSc in Physics (IMSc Chennai)  
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
 
+* PhD thesis: Thermo-mechanical Response of Glassy Systems <a href="https://www.imsc.res.in/xmlui/handle/123456789/606">PDF</a>
 * MSc thesis: Heat Transport in Glass-Forming Liquids <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/masterThesis_vinayVaibhav.pdf">PDF</a>  
 * MSc-cum-Course work details at IMSc <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/imsc_courseDetails.pdf">here</a>   
 * Details of my undergraduate course at CUJ <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/cuj_CourseDetails.pdf">here</a>
