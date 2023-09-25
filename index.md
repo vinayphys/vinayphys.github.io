@@ -30,7 +30,7 @@ I am a Post-doctoral researcher (funded by an ERC grant) at the University of Mi
 [Google Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao)|[GitHub](https://github.com/vinayphys)|[ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)|[SpeakerDeck](https://speakerdeck.com/vinayphys)|[Blog]()
 
 Universita’ degli Studi di Milano  
-Dipartimento di Fisica “A. Pontremoli” 
+Dipartimento di Fisica “A. Pontremoli”  
 Via Celoria 16, Milan, Italy.   
 Email: vinayphys [at] gmail.com or vinay.vaibhav [at] unimi.it
 
