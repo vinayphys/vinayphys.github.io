@@ -7,7 +7,8 @@ title: Publications
 
 ## Ongoing:
 
-
+Viscoelastic response of cross-linked epoxy  
+Vinay Vaibhav, Timothy Sirk and Alessio Zaccone.
 
 ## Published:
 
