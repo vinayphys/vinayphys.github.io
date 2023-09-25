@@ -31,8 +31,7 @@ I am a Post-doctoral researcher (funded by an ERC grant) at the University of Mi
 
 Universita’ degli Studi di Milano  
 Dipartimento di Fisica “A. Pontremoli” 
-Via Celoria 16,  
-Milan, Italy.   
+Via Celoria 16, Milan, Italy.   
 Email: vinayphys [at] gmail.com or vinay.vaibhav [at] unimi.it
 
 <!---
