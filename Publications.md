@@ -7,19 +7,22 @@ title: Publications
 
 ## Ongoing:
 
-[Controlled Mechanical Failure in Heterogeneous Glasses]()   
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri
+
 
 ## Published:
 
+[Controlled Mechanical Failure in Heterogeneous Glasses](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601)   
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
+Phys. Rev. Materials 7, 095601 (2023).
+
 [Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
-Soft Matter, 2022, DOI: 10.1039/D2SM00326K  
+Soft Matter 18, 4427-4436 (2022). 
 [arXiv:2202.12612](https://arxiv.org/abs/2202.12612)
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://aip.scitation.org/doi/10.1063/5.0090330)  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
-JCP, 2022, DOI: 10.1063/5.0090330  
+J. Chem. Phys. 156 (24), 244501 (2022). 
 [arXiv:2202.12189](https://arxiv.org/abs/2202.12189)
 
 [Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
