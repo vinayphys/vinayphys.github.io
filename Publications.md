@@ -27,12 +27,12 @@ J. Chem. Phys. 156 (24), 244501 (2022).
 
 [Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
 Vinay Vaibhav and Pinaki Chaudhuri  
-Physics of Fluids 33, 053103 (2021)
+Phys. of Fluids 33, 053103 (2021).
 
 [Response of glassy liquids to thermal gradients](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605)  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
-Phys. Rev. E 101, 022605 (2020)
+Phys. Rev. E 101, 022605 (2020).
 
 [Equilibrium properties of blackbody radiation with an ultraviolet energy cut-off](https://doi.org/10.1016/j.aop.2017.08.004)  
 Dheeraj Kumar Mishra, Nitin Chandra and Vinay Vaibhav  
-Annals of Physics 385, 605 (2017)
+Annals of Phys. 385, 605 (2017).
