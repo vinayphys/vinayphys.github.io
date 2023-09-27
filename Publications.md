@@ -7,6 +7,10 @@ title: Publications
 
 ## Ongoing:
 
+Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid  
+Vinay Vaibhav and Suman Dutta  
+[arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
+
 Viscoelastic response of cross-linked epoxy  
 Vinay Vaibhav, Timothy Sirk and Alessio Zaccone.
 
