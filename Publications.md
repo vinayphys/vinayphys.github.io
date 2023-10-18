@@ -12,7 +12,10 @@ Vinay Vaibhav and Suman Dutta
 [arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
 
 Viscoelastic response of cross-linked epoxy  
-Vinay Vaibhav, Timothy Sirk and Alessio Zaccone.
+Vinay Vaibhav, Timothy Sirk and Alessio Zaccone.  
+
+Local melting of glass  
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri.
 
 ## Published:
 
@@ -26,7 +29,7 @@ Soft Matter 18, 4427-4436 (2022).
 [arXiv:2202.12612](https://arxiv.org/abs/2202.12612)
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://aip.scitation.org/doi/10.1063/5.0090330)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
+Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri 
 J. Chem. Phys. 156 (24), 244501 (2022). 
 [arXiv:2202.12189](https://arxiv.org/abs/2202.12189)
 
