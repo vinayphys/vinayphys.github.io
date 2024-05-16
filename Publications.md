@@ -7,6 +7,10 @@ title: Publications
 
 ## Ongoing:
 
+Experimental identification of topological defects in 2D colloidal glass  
+Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim and Alessio Zaccone  
+[arXiv:2405.06494](https://arxiv.org/abs/2405.06494)
+
 Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid  
 Vinay Vaibhav and Suman Dutta  
 [arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
