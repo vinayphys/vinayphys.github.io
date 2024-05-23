@@ -11,17 +11,21 @@ Experimental identification of topological defects in 2D colloidal glass
 Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim and Alessio Zaccone  
 [arXiv:2405.06494](https://arxiv.org/abs/2405.06494)
 
-Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid  
-Vinay Vaibhav and Suman Dutta  
-[arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
+Random close packing of binary hard spheres predicts the stability of atomic nuclei 
+Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone
+[arXiv:2405.11268](https://arxiv.org/abs/2405.11268)
 
-Viscoelastic response of cross-linked epoxy  
-Vinay Vaibhav, Timothy Sirk and Alessio Zaccone.  
+Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory  
+Vinay Vaibhav, Timothy W. Sirk and Alessio Zaccone.  
 
 Local melting of glass  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri.
 
 ## Published:
+[Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://journals.aps.org/pre/accepted/cd076Yd2W4918d8ac5466f951dac969173ad2fccd)
+Vinay Vaibhav and Suman Dutta  
+Phys. Rev. E Letter (in press) (2024)
+[arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
 
 [Controlled Mechanical Failure in Heterogeneous Glasses](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601)   
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
