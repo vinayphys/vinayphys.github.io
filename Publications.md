@@ -11,7 +11,7 @@ Experimental identification of topological defects in 2D colloidal glass
 Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim and Alessio Zaccone  
 [arXiv:2405.06494](https://arxiv.org/abs/2405.06494)
 
-Random close packing of binary hard spheres predicts the stability of atomic nuclei 
+Random close packing of binary hard spheres predicts the stability of atomic nuclei  
 Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone
 [arXiv:2405.11268](https://arxiv.org/abs/2405.11268)
 
