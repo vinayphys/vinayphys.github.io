@@ -22,7 +22,7 @@ Local melting of glass
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri.
 
 ## Published:
-[Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://journals.aps.org/pre/accepted/cd076Yd2W4918d8ac5466f951dac969173ad2fccd)
+[Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://journals.aps.org/pre/accepted/cd076Yd2W4918d8ac5466f951dac969173ad2fccd)  
 Vinay Vaibhav and Suman Dutta  
 Phys. Rev. E Letter (in press) (2024). 
 [arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
