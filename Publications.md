@@ -9,11 +9,11 @@ title: Publications
 
 Experimental identification of topological defects in 2D colloidal glass  
 Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim and Alessio Zaccone  
-[arXiv:2405.06494](https://arxiv.org/abs/2405.06494)
+[arXiv:2405.06494](https://arxiv.org/abs/2405.06494) (2024).
 
 Random close packing of binary hard spheres predicts the stability of atomic nuclei  
 Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone  
-[arXiv:2405.11268](https://arxiv.org/abs/2405.11268)
+[arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
 
 Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory  
 Vinay Vaibhav, Timothy W. Sirk and Alessio Zaccone.  
@@ -38,7 +38,7 @@ Soft Matter 18, 4427-4436 (2022).
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://aip.scitation.org/doi/10.1063/5.0090330)  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri 
-J. Chem. Phys. 156 (24), 244501 (2022). 
+J. Chem. Phys. 156 (24), 244501 (2022).  
 [arXiv:2202.12189](https://arxiv.org/abs/2202.12189)
 
 [Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
