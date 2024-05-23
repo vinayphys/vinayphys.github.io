@@ -24,7 +24,7 @@ Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri.
 ## Published:
 [Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://journals.aps.org/pre/accepted/cd076Yd2W4918d8ac5466f951dac969173ad2fccd)
 Vinay Vaibhav and Suman Dutta  
-Phys. Rev. E Letter (in press) (2024)
+Phys. Rev. E Letter (in press) (2024). 
 [arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
 
 [Controlled Mechanical Failure in Heterogeneous Glasses](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601)   
@@ -33,7 +33,7 @@ Phys. Rev. Materials 7, 095601 (2023).
 
 [Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
-Soft Matter 18, 4427-4436 (2022). 
+Soft Matter 18, 4427-4436 (2022).  
 [arXiv:2202.12612](https://arxiv.org/abs/2202.12612)
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://aip.scitation.org/doi/10.1063/5.0090330)  
