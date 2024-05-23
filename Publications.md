@@ -12,7 +12,7 @@ Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim and 
 [arXiv:2405.06494](https://arxiv.org/abs/2405.06494) (2024).
 
 Random close packing of binary hard spheres predicts the stability of atomic nuclei  
-Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone  
+Carmine Anzivino, Vinay Vaibhav and Alessio Zaccone  
 [arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
 
 Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory  
