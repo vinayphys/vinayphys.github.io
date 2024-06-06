@@ -16,7 +16,7 @@ Carmine Anzivino, Vinay Vaibhav and Alessio Zaccone
 [arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
 
 Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory  
-Vinay Vaibhav, Timothy W. Sirk and Alessio Zaccone. 
+Vinay Vaibhav, Timothy W. Sirk and Alessio Zaccone.  
 [arXiv:2406.02113](https://arxiv.org/abs/2406.02113) (2024).
 
 Local melting of glass  
