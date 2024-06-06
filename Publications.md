@@ -16,15 +16,16 @@ Carmine Anzivino, Vinay Vaibhav and Alessio Zaccone
 [arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
 
 Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory  
-Vinay Vaibhav, Timothy W. Sirk and Alessio Zaccone.  
+Vinay Vaibhav, Timothy W. Sirk and Alessio Zaccone. 
+[arXiv:2406.02113](https://arxiv.org/abs/2406.02113) (2024).
 
 Local melting of glass  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri.
 
 ## Published:
-[Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://journals.aps.org/pre/accepted/cd076Yd2W4918d8ac5466f951dac969173ad2fccd)  
+[Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://doi.org/10.1103/PhysRevE.109.L062102)  
 Vinay Vaibhav and Suman Dutta  
-Phys. Rev. E Letter (in press) (2024).  
+Phys. Rev. E 109, L062102 (2024).  
 [arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
 
 [Controlled Mechanical Failure in Heterogeneous Glasses](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601)   
