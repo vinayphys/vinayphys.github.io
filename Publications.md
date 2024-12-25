@@ -7,7 +7,17 @@ title: Publications
 
 ## Ongoing:
 
-Random close packing of binary hard spheres predicts the stability of atomic nuclei  
+Random close packing of hard spheres: the effect of skewness in diameter distribution
+revealed by the bidisperse limit  
+Carmine Anzivino, Vinay Vaibhav and Alessio Zaccone  
+
+Viscoelastic response of thermoplastics and PMMA polymers  
+Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
+
+Non-affine lattice dynamics approach to measure viscosity of polymeric systems  
+Ankit Singh, Vinay Vaibhav, and Alessio Zaccone  
+
+Random close packing of binary hard spheres favors the stability of neutron-rich atomic nuclei  
 Carmine Anzivino, Vinay Vaibhav and Alessio Zaccone  
 [arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
 
