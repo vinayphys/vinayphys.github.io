@@ -24,6 +24,7 @@ I am a Post-doctoral researcher (funded by an ERC grant) at the University of Mi
 * MSc thesis: Heat Transport in Glass-Forming Liquids <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/masterThesis_vinayVaibhav.pdf">PDF</a>  
 * MSc-cum-Course work details at IMSc <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/imsc_courseDetails.pdf">here</a>   
 * Details of my undergraduate course at CUJ <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/cuj_CourseDetails.pdf">here</a>
+* My CV <a href="https://drive.google.com/file/d/1LzZbA-qHgz7alsBnoGWh-vhnZv838gOG/view?usp=share_link">here</a>
 
 # Connect with me:
 
