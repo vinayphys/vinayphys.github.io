@@ -18,12 +18,12 @@ Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri.
 
 Experimental identification of topological defects in 2D colloidal glass  
 Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, and Alessio Zaccone  
-Nature Communications, in press (2024).
+Nature Communications, in press (2024).  
 [arXiv:2405.06494](https://arxiv.org/abs/2405.06494)
 
 [Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory](https://doi.org/10.1021/acs.macromol.4c01360)  
 Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
-Macromolecules 57(23), 10885 (2024).
+Macromolecules 57(23), 10885 (2024).  
 [arXiv:2406.02113](https://arxiv.org/abs/2406.02113)
 
 [Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://doi.org/10.1103/PhysRevE.109.L062102)  
