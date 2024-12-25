@@ -7,49 +7,52 @@ title: Publications
 
 ## Ongoing:
 
-Experimental identification of topological defects in 2D colloidal glass  
-Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim and Alessio Zaccone  
-[arXiv:2405.06494](https://arxiv.org/abs/2405.06494) (2024).
-
 Random close packing of binary hard spheres predicts the stability of atomic nuclei  
 Carmine Anzivino, Vinay Vaibhav and Alessio Zaccone  
 [arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
-
-Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory  
-Vinay Vaibhav, Timothy W. Sirk and Alessio Zaccone.  
-[arXiv:2406.02113](https://arxiv.org/abs/2406.02113) (2024).
 
 Local melting of glass  
 Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri.
 
 ## Published:
+
+Experimental identification of topological defects in 2D colloidal glass  
+Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, and Alessio Zaccone  
+Nature Communications, in press (2024).
+[arXiv:2405.06494](https://arxiv.org/abs/2405.06494)
+
+[Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory](https://doi.org/10.1021/acs.macromol.4c01360)  
+Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
+Macromolecules 57(23), 10885 (2024).
+[arXiv:2406.02113](https://arxiv.org/abs/2406.02113)
+
 [Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://doi.org/10.1103/PhysRevE.109.L062102)  
-Vinay Vaibhav and Suman Dutta  
+Vinay Vaibhav, and Suman Dutta  
 Phys. Rev. E 109, L062102 (2024).  
 [arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
 
 [Controlled Mechanical Failure in Heterogeneous Glasses](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601)   
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
+Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
 Phys. Rev. Materials 7, 095601 (2023).
 
 [Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
+Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
 Soft Matter 18, 4427-4436 (2022).  
 [arXiv:2202.12612](https://arxiv.org/abs/2202.12612)
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://aip.scitation.org/doi/10.1063/5.0090330)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
+Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
 J. Chem. Phys. 156 (24), 244501 (2022).  
 [arXiv:2202.12189](https://arxiv.org/abs/2202.12189)
 
 [Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
-Vinay Vaibhav and Pinaki Chaudhuri  
+Vinay Vaibhav, and Pinaki Chaudhuri  
 Phys. of Fluids 33, 053103 (2021).
 
 [Response of glassy liquids to thermal gradients](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605)  
-Vinay Vaibhav, Juergen Horbach and Pinaki Chaudhuri  
+Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
 Phys. Rev. E 101, 022605 (2020).
 
 [Equilibrium properties of blackbody radiation with an ultraviolet energy cut-off](https://doi.org/10.1016/j.aop.2017.08.004)  
-Dheeraj Kumar Mishra, Nitin Chandra and Vinay Vaibhav  
+Dheeraj Kumar Mishra, Nitin Chandra, and Vinay Vaibhav  
 Annals of Phys. 385, 605 (2017).
