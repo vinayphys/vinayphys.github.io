@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  max-width: 900px; /* Adjust this value to your preferred width */
+  max-width: 1200px; /* Adjust this value to your preferred width */
   width: 90%; /* Ensures responsiveness */
   margin: 0 auto;
 }
