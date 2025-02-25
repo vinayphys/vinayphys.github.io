@@ -7,11 +7,10 @@ title: Publications
 
 ## Ongoing:
 
-Random close packing of hard spheres: the effect of skewness in diameter distribution
-revealed by the bidisperse limit  
-Carmine Anzivino, Vinay Vaibhav and Alessio Zaccone  
+Theory of distribution skewness effect on polydisperse random close packing  
+Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone  
 
-Viscoelastic response of thermoplastics and PMMA polymers  
+Viscoelastic response of thermoplastics polymers  
 Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
 
 Non-affine lattice dynamics approach to measure viscosity of polymeric systems  
