@@ -10,7 +10,7 @@ title: Publications
 Theory of distribution skewness effect on polydisperse random close packing  
 Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone  
 
-Viscoelastic response of thermoplastics polymers  
+Viscoelastic response of thermoplastic polymers  
 Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
 
 Non-affine lattice dynamics approach to measure viscosity of polymeric systems  
