@@ -11,7 +11,7 @@ Theory of distribution skewness effect on polydisperse random close packing
 Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone   
 
 Viscosity of polymer melts using non-affine theory based on vibrational modes  
-Ankit Singh, Vinay Vaibhav, and Alessio Zaccone  
+Ankit Singh, Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
 [arXiv:2503.02806](https://arxiv.org/abs/2503.02806) (2025).
 
 Random close packing of binary hard spheres favors the stability of neutron-rich atomic nuclei  
