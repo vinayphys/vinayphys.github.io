@@ -8,7 +8,7 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 * Vibrational properties of amorphous solids
 * Mechanical response of amorphous materials: Yielding, Plasticity, Shear-banding, Modulus
 * Inhomogeneity in glassy systems and its mechanical consequences
-* Thermal response of glass-forming systems: Thermophoresis: Coupling of heat and mass transport (Soret effect), Thermal processing of deep glassy states (thermal memory)  
+* Thermal response of glass-forming systems: Thermophoresis, Local heating/cooling, Thermal processing  
 * Rheology of complex fluids: Micro-response, Macro-response, Structural changes
 * Flow under confinement: Poiseuille flow, Couette flow
 
