@@ -1,9 +1,10 @@
 # Welcome !
 
-I am a Post-doctoral researcher (funded by an ERC grant) at the University of Milan (Italy), working in the group of <a href="https://www.unimi.it/en/ugov/person/alessio-zaccone">Prof. Alessio Zaccone</a> to primarily explore the mechanical and vibrational properties of amorphous solids. During my Ph.D. at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a> Chennai (India), I worked with  <a href="https://www.imsc.res.in/pinaki_chaudhuri">Prof. Pinaki Chaudhuri</a> to understand the thermal and mechanical response of glassy systems, mostly using large-scale simulations. But in general, I am interested in the broad area of soft matter systems.
+I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-August-Universität Göttingen (Germany), working in the group of <a href="https://www.uni-goettingen.de/en/588919.html">Prof. Peter Sollich</a> to primarily explore the mechanical response of active amorphous solids. During my Ph.D. at <a href="https://www.imsc.res.in">The Institute of Mathematical Sciences</a> Chennai (India), I worked with  <a href="https://www.imsc.res.in/pinaki_chaudhuri">Prof. Pinaki Chaudhuri</a> to understand the thermal and mechanical response of glassy systems, mostly using large-scale simulations. But in general, I am interested in the broad area of soft matter systems.
 
 
-# Research Interests:  
+# Research Interests: 
+* Active amorphous materials
 * Vibrational properties of amorphous solids
 * Mechanical response of amorphous materials: Yielding, Plasticity, Shear-banding, Modulus
 * Inhomogeneity in glassy systems and its mechanical consequences
@@ -30,13 +31,13 @@ I am a Post-doctoral researcher (funded by an ERC grant) at the University of Mi
 
 [Google Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao)|[GitHub](https://github.com/vinayphys)|[ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)|[SpeakerDeck](https://speakerdeck.com/vinayphys)|[Blog]()
 
-Universita’ degli Studi di Milano  
-Dipartimento di Fisica “A. Pontremoli”  
-Via Celoria 16, Milan, Italy.   
-Email: vinayphys [at] gmail.com or vinay.vaibhav [at] unimi.it
+Georg-August-Universität Göttingen
+Institut für Theoretische Physik   
+Friedrich-Hund-Platz 1, Göttingen 37077, Germany.   
+Email: vinayphys [at] gmail.com or vinay.vaibhav [at] uni-goettingen.de
 
 <!---
 <img src="images/imsc.jpg" width = "900">
 -->
 
-Copyright @Vinay Vaibhav.   Last updated: April 2023
+Copyright @Vinay Vaibhav.   Last updated: April 2025
