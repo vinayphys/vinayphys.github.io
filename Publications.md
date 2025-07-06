@@ -10,10 +10,6 @@ title: Publications
 Theory of distribution skewness effect on polydisperse random close packing  
 Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone   
 
-Viscosity of polymer melts using non-affine theory based on vibrational modes  
-Ankit Singh, Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
-[arXiv:2503.02806](https://arxiv.org/abs/2503.02806) (2025).
-
 Random close packing of binary hard spheres favors the stability of neutron-rich atomic nuclei  
 Carmine Anzivino, Vinay Vaibhav, and Alessio Zaccone  
 [arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
@@ -29,6 +25,10 @@ Local melting of glass
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 
 ## Published:
+
+[Viscosity of polymer melts using non-affine theory based on vibrational modes](https://doi.org/10.1063/5.0272171)  
+Ankit Singh, Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
+[arXiv:2503.02806](https://arxiv.org/abs/2503.02806) (2025).
 
 [Experimental identification of topological defects in 2D colloidal glass](https://rdcu.be/d5pSW)  
 Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, and Alessio Zaccone  
