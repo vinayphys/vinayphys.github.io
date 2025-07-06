@@ -16,7 +16,9 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 <img src="images/blj.gif" width = "900">
 -->
 
-# Education:
+# Education and employment:  
+2025-Present: Post-doctoral reseracher, University of Göttingen (Germany)
+2023-2025:    Post-doctoral reseracher, University of MIlan (Italy)
 2017-2022:	  PhD in Physics (IMSc Chennai)  
 2015-2017:	  MSc in Physics (IMSc Chennai)  
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
