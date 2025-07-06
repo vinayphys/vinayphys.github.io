@@ -31,7 +31,7 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 
 [Google Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao)|[GitHub](https://github.com/vinayphys)|[ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)|[SpeakerDeck](https://speakerdeck.com/vinayphys)|[Blog]()
 
-Georg-August-Universität Göttingen
+Georg-August-Universität Göttingen  
 Institut für Theoretische Physik   
 Friedrich-Hund-Platz 1, Göttingen 37077, Germany.   
 Email: vinayphys [at] gmail.com or vinay.vaibhav [at] uni-goettingen.de
