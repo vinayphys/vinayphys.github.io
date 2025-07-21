@@ -7,22 +7,18 @@ title: Publications
 
 ## Ongoing:
 
-Theory of distribution skewness effect on polydisperse random close packing  
-Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone   
+Local melting of glass  
+Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 
-Random close packing of binary hard spheres favors the stability of neutron-rich atomic nuclei  
-Carmine Anzivino, Vinay Vaibhav, and Alessio Zaccone  
-[arXiv:2405.11268](https://arxiv.org/abs/2405.11268) (2024).
+Viscoelastic response of thermoplastic polymers  
+Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone.
+
+Theory of distribution skewness effect on polydisperse random close packing  
+Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.  
 
 Microscopic origin of liquid viscosity from unstable localized modes  
 Long-Zhou Huang, Bingyu Cui, Vinay Vaibhav, Matteo Baggioli, and Yun-Jiang Wang  
 [arXiv:2408.07937](https://arxiv.org/abs/2408.07937) (2024).
-
-Viscoelastic response of thermoplastic polymers  
-Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone 
-
-Local melting of glass  
-Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 
 ## Published:
 
