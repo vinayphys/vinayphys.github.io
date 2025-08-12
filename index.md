@@ -16,7 +16,7 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 <img src="images/blj.gif" width = "900">
 -->
 
-# Education and employment:  
+# Education and Employment:  
 2025-Present: Post-doctoral researcher, University of Göttingen (Germany)  
 2023-2025:    Post-doctoral researcher, University of MIlan (Italy)  
 2017-2022:	  PhD in Physics (IMSc Chennai)  
