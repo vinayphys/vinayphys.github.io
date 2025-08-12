@@ -66,3 +66,11 @@ Phys. Rev. E 101, 022605 (2020).
 [Equilibrium properties of blackbody radiation with an ultraviolet energy cut-off](https://doi.org/10.1016/j.aop.2017.08.004)  
 Dheeraj Kumar Mishra, Nitin Chandra, and Vinay Vaibhav  
 Annals of Phys. 385, 605 (2017).
+
+
+# News Coverage
+[A new atomistic route to viscosity—even near the glass transition](https://phys.org/news/2025-06-atomistic-route-viscosity-glass-transition.html)  
+
+[Physicists experimentally observe topological defects in glasses for the first time](https://phys.org/news/2025-01-physicists-experimentally-topological-defects-glasses.html)  
+[Scientists solve one of the hardest problems in the computational atomic-scale mechanics of materials](https://phys.org/news/2024-12-scientists-hardest-problems-atomic-scale.html)  
+
