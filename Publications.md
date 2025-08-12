@@ -7,7 +7,7 @@ title: Publications
 
 ## Ongoing:
 
-Local melting of glass  
+Local heating/cooling of glassy matter  
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 
 Viscoelastic response of thermoplastic polymers  
