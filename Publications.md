@@ -17,10 +17,6 @@ Vinay Vaibhav, Ankit Singh, Timothy W. Sirk, Caterina Czibula, and Alessio Zacco
 Theory of distribution skewness effect on polydisperse random close packing  
 Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.  
 
-Microscopic origin of liquid viscosity from unstable localized modes  
-Long-Zhou Huang, Bingyu Cui, Vinay Vaibhav, Matteo Baggioli, and Yun-Jiang Wang  
-[arXiv:2408.07937](https://arxiv.org/abs/2408.07937) (2024).
-
 ## Published:
 
 [Viscosity of polymer melts using non-affine theory based on vibrational modes](https://doi.org/10.1063/5.0272171)  
