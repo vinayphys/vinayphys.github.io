@@ -67,6 +67,8 @@ Annals of Phys. 385, 605 (2017).
 
 # News Coverage  
 ---
+[Unveiling Information Hidden in Glassy Liquids](https://synapsebyicts.blog/2024/06/07/unveiling-information-hidden-in-glassy-liquids/)  
+
 [A new atomistic route to viscosity—even near the glass transition](https://phys.org/news/2025-06-atomistic-route-viscosity-glass-transition.html)  
 
 [Physicists experimentally observe topological defects in glasses for the first time](https://phys.org/news/2025-01-physicists-experimentally-topological-defects-glasses.html)  
