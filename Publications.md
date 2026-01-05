@@ -11,7 +11,7 @@ title: Publications
 Local heating of glassy matter  
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 
-Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades
+Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades  
 Ankit Singh, Vinay Vaibhav, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W Sirk, and Alessio Zaccone.  
 [arXiv:2511.18406](https://arxiv.org/abs/2511.18406)
 
