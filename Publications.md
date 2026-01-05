@@ -34,7 +34,6 @@ Vinay Vaibhav, Tamoghna Das, and Suman Dutta.
 [Viscosity of polymer melts using non-affine theory based on vibrational modes](https://doi.org/10.1063/5.0272171)  
 Ankit Singh, Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
 J. Chem. Phys. 162, 244504 (2025).  
-[arXiv:2503.02806](https://arxiv.org/abs/2503.02806)
 
 [Experimental identification of topological defects in 2D colloidal glass](https://rdcu.be/d5pSW)  
 Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, and Alessio Zaccone  
@@ -43,12 +42,10 @@ Nature Communications 16, 55 (2025).
 [Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory](https://doi.org/10.1021/acs.macromol.4c01360)  
 Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
 Macromolecules 57(23), 10885 (2024).  
-[arXiv:2406.02113](https://arxiv.org/abs/2406.02113)
 
 [Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://doi.org/10.1103/PhysRevE.109.L062102)  
 Vinay Vaibhav, and Suman Dutta  
 Phys. Rev. E 109, L062102 (2024).  
-[arXiv:2308.13720](https://arxiv.org/abs/2308.13720)
 
 [Controlled Mechanical Failure in Heterogeneous Glasses](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601)   
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
@@ -57,12 +54,10 @@ Phys. Rev. Materials 7, 095601 (2023).
 [Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
 Soft Matter 18, 4427-4436 (2022).  
-[arXiv:2202.12612](https://arxiv.org/abs/2202.12612)
 
 [Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://aip.scitation.org/doi/10.1063/5.0090330)  
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
 J. Chem. Phys. 156 (24), 244501 (2022).  
-[arXiv:2202.12189](https://arxiv.org/abs/2202.12189)
 
 [Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
 Vinay Vaibhav, and Pinaki Chaudhuri  
