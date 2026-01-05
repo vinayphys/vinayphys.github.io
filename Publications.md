@@ -20,7 +20,10 @@ Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.
 Under review  
 
 Jamming in dense active matter  
-Vinay Vaibhav, Peter Sollich, and Pinaki Chaudhuri.  
+Vinay Vaibhav, Peter Sollich, and Pinaki Chaudhuri. 
+
+Avalanches in dense active matter  
+Vinay Vaibhav, and Peter Sollich.
 
 Slowing down of dynamics and the density scaling in soft spheres glass formers  
 Vinay Vaibhav, Ankit Singh, Swarn Lata Singh, and Yashwant Singh.  
