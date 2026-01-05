@@ -11,11 +11,16 @@ title: Publications
 Local heating/cooling of glassy matter  
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 
-Viscoelastic response of PMMA polymers  
-Vinay Vaibhav, Ankit Singh, Timothy W. Sirk, Caterina Czibula, and Alessio Zaccone.
+Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades
+Ankit Singh, Vinay Vaibhav, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W Sirk, and Alessio Zaccone.  
+[arXiv:2511.18406](https://arxiv.org/abs/2511.18406)
 
 Theory of distribution skewness effect on polydisperse random close packing  
 Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.  
+Under review  
+
+Jamming in dense active matter  
+Vinay Vaibhav, Peter Sollich, and Pinaki Chaudhuri.
 
 ## Published:
 
