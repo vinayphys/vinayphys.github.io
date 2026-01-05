@@ -8,7 +8,7 @@ title: Publications
 
 ## Ongoing:
 
-Local heating/cooling of glassy matter  
+Local heating of glassy matter  
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 
 Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades
@@ -20,7 +20,14 @@ Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.
 Under review  
 
 Jamming in dense active matter  
-Vinay Vaibhav, Peter Sollich, and Pinaki Chaudhuri.
+Vinay Vaibhav, Peter Sollich, and Pinaki Chaudhuri.  
+
+Slowing down of dynamics and the density scaling in soft spheres glass formers  
+Vinay Vaibhav, Ankit Singh, Swarn Lata Singh, and Yashwant Singh.  
+
+Persistently Non-Gaussian Metastable Liquids  
+Vinay Vaibhav, Tamoghna Das, and Suman Dutta.  
+[arXiv:2511.07951](https://arxiv.org/abs/2511.07951)
 
 ## Published:
 
