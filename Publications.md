@@ -30,7 +30,7 @@ Vinay Vaibhav, Ankit Singh, Swarn Lata Singh, and Yashwant Singh.
 
 ## Published:
 [Persistently Non-Gaussian Metastable Liquids](https://doi.org/10.1002/andp.202500247)  
-Vinay Vaibhav, Tamoghna Das, and Suman Dutta
+Vinay Vaibhav, Tamoghna Das, and Suman Dutta  
 Annalen der Physik 538 (4), e00247 (2026).
 
 [Viscosity of polymer melts using non-affine theory based on vibrational modes](https://doi.org/10.1063/5.0272171)  
