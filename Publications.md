@@ -25,7 +25,7 @@ Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.
 Under review  
 
 Slowing down of dynamics and the density scaling in soft spheres glass formers  
-Vinay Vaibhav, Ankit Singh, Swarn Lata Singh, and Yashwant Singh.  
+Ankit Singh, Vinay Vaibhav, Swarn Lata Singh, and Yashwant Singh.  
 
 Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades  
 Ankit Singh, Vinay Vaibhav, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W Sirk, and Alessio Zaccone.  
