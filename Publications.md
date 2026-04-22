@@ -6,27 +6,30 @@ title: Publications
 ---
 [Google-Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao) | [ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)  
 
-## Ongoing:
-
-Local heating of glassy matter  
-Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
-
-Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades  
-Ankit Singh, Vinay Vaibhav, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W Sirk, and Alessio Zaccone.  
-[arXiv:2511.18406](https://arxiv.org/abs/2511.18406)
-
-Theory of distribution skewness effect on polydisperse random close packing  
-Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.  
-Under review  
+## Ongoing:  
 
 Jamming in dense active matter  
 Vinay Vaibhav, Peter Sollich, and Pinaki Chaudhuri. 
 
 Avalanches in dense active matter  
-Vinay Vaibhav, and Peter Sollich.
+Vinay Vaibhav, and Peter Sollich.  
+
+Local heating of glassy matter  
+Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.  
+
+Microtubule network as amorphous matter  
+Claudia Marcelli, Raffaele Mendozza, Vinay Vaibhav, Shanay Zafari, Yuzhen Feng, Ruben Haag, Peter Sollich, and Sarah Köster.  
+
+Theory of distribution skewness effect on polydisperse random close packing  
+Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.  
+Under review  
 
 Slowing down of dynamics and the density scaling in soft spheres glass formers  
 Vinay Vaibhav, Ankit Singh, Swarn Lata Singh, and Yashwant Singh.  
+
+Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades  
+Ankit Singh, Vinay Vaibhav, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W Sirk, and Alessio Zaccone.  
+[arXiv:2511.18406](https://arxiv.org/abs/2511.18406)
 
 ## Published:
 [Persistently Non-Gaussian Metastable Liquids](https://doi.org/10.1002/andp.202500247)  
