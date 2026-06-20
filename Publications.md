@@ -20,12 +20,12 @@ Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.
 Microtubule network as amorphous matter  
 Claudia Marcelli, Raffaele Mendozza, Vinay Vaibhav, Shanay Zafari, Yuzhen Feng, Ruben Haag, Peter Sollich, and Sarah Köster.  
 
+Slowing down of dynamics and the density scaling in soft spheres glass formers  
+Ankit Singh, Vinay Vaibhav, Swarn Lata Singh, and Yashwant Singh. 
+
 Theory of distribution skewness effect on polydisperse random close packing  
 Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.  
-Under review  
-
-Slowing down of dynamics and the density scaling in soft spheres glass formers  
-Ankit Singh, Vinay Vaibhav, Swarn Lata Singh, and Yashwant Singh.  
+[arXiv:2605.30185](https://arxiv.org/abs/2605.30185) 
 
 Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades  
 Ankit Singh, Vinay Vaibhav, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W Sirk, and Alessio Zaccone.  
