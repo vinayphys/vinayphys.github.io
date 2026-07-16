@@ -9,7 +9,7 @@ title: Publications
 ## Ongoing:  
 
 Jamming in dense active matter  
-Vinay Vaibhav, Peter Sollich, and Pinaki Chaudhuri. 
+Vinay Vaibhav, Pinaki Chaudhuri, and Peter Sollich. 
 
 Avalanches in dense active matter  
 Vinay Vaibhav, and Peter Sollich.  
@@ -18,7 +18,7 @@ Local heating of glassy matter
 Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.  
 
 Microtubule network as amorphous matter  
-Claudia Marcelli, Raffaele Mendozza, Vinay Vaibhav, Shanay Zafari, Yuzhen Feng, Ruben Haag, Peter Sollich, and Sarah Köster.  
+Claudia Marcelli, Raffaele Mendozza, Vinay Vaibhav, Peter Sollich, and Sarah Köster.  
 
 Slowing down of dynamics and the density scaling in soft spheres glass formers  
 Ankit Singh, Vinay Vaibhav, Swarn Lata Singh, and Yashwant Singh. 
