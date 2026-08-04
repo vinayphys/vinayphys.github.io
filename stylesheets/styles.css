@@ -1,3 +1,12 @@
+/* in stylesheets/ */
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.profile-header img:first-child { width: 225px; }
+.profile-header img:last-child { width: 825px; }
+
 body {
   background-color: #010101;
   padding:20px 20px 20px 50px;
