@@ -51,7 +51,7 @@ small {
   font-size: 11px;
 }
 
-/* Base Links */
+/* Base Links (General Inline Text Links) */
 a {
   color: #EF4444; /* Modern Crimson */
   text-decoration: none;
@@ -101,6 +101,7 @@ header ul.nav-bar li {
 
 /* Shared styling for Navigation Bar & Social/Action Buttons */
 header ul.nav-bar a,
+header ul.nav-bar li a,
 .social-btn,
 .btn-link,
 .social-link {
@@ -120,12 +121,13 @@ header ul.nav-bar a,
 
 /* Red Highlight Hover on All Buttons */
 header ul.nav-bar a:hover,
+header ul.nav-bar li a:hover,
 .social-btn:hover,
 .btn-link:hover,
 .social-link:hover {
-  background-color: #334155;
-  border-color: #EF4444; /* Crimson hover border */
-  color: #ffffff;
+  background-color: #334155 !important;
+  border-color: #EF4444 !important; /* Crimson hover border */
+  color: #ffffff !important;
 }
 
 /* Media & Dividers */
@@ -197,6 +199,7 @@ th {
   }
   
   header ul.nav-bar a,
+  header ul.nav-bar li a,
   .social-btn,
   .btn-link,
   .social-link {
