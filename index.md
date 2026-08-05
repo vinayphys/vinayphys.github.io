@@ -50,7 +50,8 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
   <a href="mailto:vinayphys@gmail.com" class="social-btn">
     <i class="fa-solid fa-envelope"></i> Email
   </a>
-</div>
+</div>  
+
 
 Georg-August-Universität Göttingen  
 Institut für Theoretische Physik   
