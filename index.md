@@ -31,7 +31,7 @@ I am a Postdoctoral researcher at the Institut für Theoretische Physik, Georg-A
 ## Connect with me
 
 <div class="social-bar">
-  <a href="https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao" class="social-btn" target="_blank">
+  <a href="https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=en" class="social-btn" target="_blank">
     <i class="ai ai-google-scholar"></i> Google Scholar
   </a>
   <a href="https://github.com/vinayphys" class="social-btn" target="_blank">
