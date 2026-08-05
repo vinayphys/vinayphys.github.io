@@ -56,7 +56,7 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 Georg-August-Universität Göttingen  
 Institut für Theoretische Physik   
 Friedrich-Hund-Platz 1, Göttingen 37077, Germany.   
-Email: vinayphys [at] gmail.com or vinay.vaibhav [at] uni-goettingen.de
+Email: vinay.vaibhav [at] uni-goettingen.de
 
 <!---
 <img src="images/imsc.jpg" width = "900">
