@@ -29,9 +29,28 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 * Details of my undergraduate course at CUJ <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/cuj_CourseDetails.pdf">here</a>
 * My CV <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/one-page_cv.pdf">here</a>
 
-# Connect with me:
+# Connect with me
 
-[Google Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao)|[GitHub](https://github.com/vinayphys)|[ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)|[SpeakerDeck](https://speakerdeck.com/vinayphys)|[Blog]()
+<div class="social-bar">
+  <a href="https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao" class="social-btn" target="_blank">
+    <i class="ai ai-google-scholar"></i> Google Scholar
+  </a>
+  <a href="https://github.com/vinayphys" class="social-btn" target="_blank">
+    <i class="fa-brands fa-github"></i> GitHub
+  </a>
+  <a href="https://www.researchgate.net/profile/Vinay_Vaibhav" class="social-btn" target="_blank">
+    <i class="ai ai-researchgate"></i> ResearchGate
+  </a>
+  <a href="https://speakerdeck.com/vinayphys" class="social-btn" target="_blank">
+    <i class="fa-solid fa-person-chalkboard"></i> SpeakerDeck
+  </a>
+  <a href="https://orcid.org/0009-0002-5243-3708" class="social-btn" target="_blank">
+    <i class="ai ai-orcid"></i> ORCID
+  </a>
+  <a href="mailto:vinayphys@gmail.com" class="social-btn">
+    <i class="fa-solid fa-envelope"></i> Email
+  </a>
+</div>
 
 Georg-August-Universität Göttingen  
 Institut für Theoretische Physik   
