@@ -5,3 +5,7 @@ show_downloads: false
 # Build options
 markdown: kramdown
 highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-sitemap
