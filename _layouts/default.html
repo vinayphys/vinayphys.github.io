@@ -8,56 +8,147 @@
 
     {% seo %}
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" href="/files/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="/files/favicon.svg" />
-    <link rel="shortcut icon" href="/files/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/files/apple-touch-icon.png" />
-    <link rel="manifest" href="/files/site.webmanifest" />
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="{{ '/files/favicon-96x96.png' | relative_url }}" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="{{ '/files/favicon.svg' | relative_url }}" />
+    <link rel="shortcut icon" href="{{ '/files/favicon.ico' | relative_url }}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/files/apple-touch-icon.png' | relative_url }}" />
+    <link rel="manifest" href="{{ '/files/site.webmanifest' | relative_url }}" />
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{ '/stylesheets/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/stylesheets/pygment_trac.css' | relative_url }}">
+    
+    <!-- FontAwesome & Academicons for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <style>
+      /* Custom tweaks for academic profile layout */
+      .profile-img {
+        width: 100%;
+        max-width: 180px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        margin: 10px 0 15px 0;
+      }
+      .nav-menu {
+        margin: 15px 0;
+        padding: 0;
+        list-style: none;
+      }
+      .nav-menu li {
+        margin-bottom: 8px;
+      }
+      .nav-menu a {
+        display: block;
+        padding: 6px 12px;
+        background: #f4f4f4;
+        border-radius: 4px;
+        text-decoration: none;
+        font-weight: 600;
+        color: #333;
+        transition: background 0.2s;
+      }
+      .nav-menu a:hover {
+        background: #393939;
+        color: #fff;
+      }
+      .subtitle-box {
+        background: #f8f9fa;
+        border-left: 4px solid #2e7d32;
+        padding: 12px 16px;
+        margin-bottom: 25px;
+        border-radius: 0 4px 4px 0;
+      }
+      .hero-banner {
+        width: 100%;
+        max-height: 220px;
+        object-fit: cover;
+        border-radius: 6px;
+        margin-bottom: 20px;
+      }
+      .social-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 15px;
+      }
+      .social-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        font-size: 0.82rem;
+        padding: 4px 8px;
+        background: #eee;
+        border-radius: 4px;
+        color: #333;
+        text-decoration: none;
+      }
+      .social-btn:hover { background: #ddd; }
+    </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <!-- Profile Photo inside Sidebar -->
+        <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-img" alt="Vinay Vaibhav profile photo"/>
+
+        <p><strong>Postdoctoral Researcher in Physics</strong><br>
+        <small>Georg-August-Universität Göttingen</small></p>
+
+        <!-- Navigation Menu -->
+        <ul class="nav-menu">
+          <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house"></i> Home</a></li>
+          <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-book-open"></i> Publications</a></li>
+          <li><a href="{{ '/Software_development' | absolute_url }}"><i class="fa-solid fa-code"></i> Software</a></li>
+          <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard"></i> Presentations</a></li>
+        </ul>
+
+        <!-- Connect / Social Links -->
+        <div class="social-links">
+          <a href="https://scholar.google.com/" class="social-btn" target="_blank"><i class="ai ai-google-scholar"></i> Scholar</a>
+          <a href="https://github.com/vinayphys" class="social-btn" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
+          <a href="mailto:vinayphys@gmail.com" class="social-btn"><i class="fa-solid fa-envelope"></i> Email</a>
+        </div>
+      </header>
+
+      <section>
+        <!-- Banner Animation placed at the top of main content area (avoids sidebar overflow) -->
+        {% if page.url == "/" or page.url == "/index.html" %}
+          <div class="subtitle-box">
+            <h3 style="margin: 0; color: #2e7d32; font-size: 1.15rem;">
+              Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics
+            </h3>
+            <p style="margin: 4px 0 0 0; color: #666; font-size: 0.95rem; font-style: italic;">
+              Georg-August-Universität Göttingen | Institut für Theoretische Physik
+            </p>
+          </div>
+
+          <img src="{{ 'images/abp.gif' | relative_url }}" class="hero-banner" alt="Animation of active amorphous solids simulation"/>
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        <div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-        <img src="images/photo_profile2.jpeg" width="225" alt="Vinay Vaibhav profile photo"/>
-        <img src="images/abp.gif" width="825" alt="Animation of active amorphous solids simulation"/>
-        </div>
-
-        <hr>
-        <h2><a href="{{ "/Publications" | absolute_url}}">PUBLICATIONS</a></h2>
-        <h2><a href="{{ "/Software_development" | absolute_url}}">SOFTWARE DEVELOPMENT</a></h2>
-        <h2><a href="https://speakerdeck.com/vinayphys">PRESENTATIONS</a></h2>
-        
-      </header>
-      <section>
-
-      {{ content }}
+        {{ content }}
 
       </section>
+
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
+
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    
+    <!-- Modern GA4 Google Analytics Snippet -->
+    {% if site.google_analytics and site.google_analytics != true %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
     </script>
     {% endif %}
   </body>
