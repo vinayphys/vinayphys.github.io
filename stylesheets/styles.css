@@ -73,12 +73,13 @@ footer {
   color: #888;
 }
 
-/* Navigation & Action Button Styles (Navbar + Connect Buttons) */
-header ul.nav-bar {
+/* Flex Container Layouts (Navbar & Social Bar) */
+header ul.nav-bar,
+.social-bar {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin: 15px 0;
+  margin: 15px 0 20px;
   padding: 0;
   list-style: none;
 }
@@ -90,6 +91,7 @@ header ul.nav-bar li {
 
 /* Shared styling for Navigation Bar & Social/Action Buttons */
 header ul.nav-bar a,
+.social-btn,
 .btn-link,
 .social-link {
   display: inline-flex;
@@ -108,6 +110,7 @@ header ul.nav-bar a,
 
 /* Red Highlight Hover on All Buttons */
 header ul.nav-bar a:hover,
+.social-btn:hover,
 .btn-link:hover,
 .social-link:hover {
   background-color: #334155;
@@ -177,12 +180,14 @@ th {
     width: 100%;
   }
   
-  header ul.nav-bar {
+  header ul.nav-bar,
+  .social-bar {
     flex-direction: column;
     gap: 6px;
   }
   
   header ul.nav-bar a,
+  .social-btn,
   .btn-link,
   .social-link {
     width: 100%;
