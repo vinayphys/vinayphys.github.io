@@ -18,7 +18,7 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 
 # Education and Employment:  
 2025-Present: Post-doctoral researcher, University of Göttingen (Germany)  
-2023-2025:    Post-doctoral researcher, University of MIlan (Italy)  
+2023-2025:    Post-doctoral researcher, University of Milan (Italy)  
 2017-2022:	  PhD in Physics (IMSc Chennai)  
 2015-2017:	  MSc in Physics (IMSc Chennai)  
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
@@ -62,4 +62,4 @@ Email: vinay.vaibhav [at] uni-goettingen.de
 <img src="images/imsc.jpg" width = "900">
 -->
 
-Copyright @Vinay Vaibhav.   Last updated: April 2025
+Copyright @Vinay Vaibhav.   Last updated: April 2026
