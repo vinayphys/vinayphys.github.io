@@ -17,7 +17,7 @@ body {
 
 /* Headings & Typography */
 h1, h2, h3, h4, h5, h6 {
-  color: #EF4444; /* Refined Modern Crimson */
+  color: #EF4444; /* Modern Crimson */
   margin: 0 0 15px;
   line-height: 1.2;
   font-weight: bold;
@@ -43,13 +43,13 @@ small {
 
 /* Links */
 a {
-  color: #EF4444; /* Refined Modern Crimson */
+  color: #EF4444; /* Modern Crimson */
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #F87171; /* Softer, highly legible rose-red hover */
+  color: #F87171; /* Rose Red */
 }
 
 a small {
@@ -59,7 +59,7 @@ a small {
   display: block;
 }
 
-/* Reset Theme Header Constraints (Fixes Button Overlap) */
+/* Reset Theme Header Constraints */
 header {
   width: 100%;
   float: none;
@@ -120,11 +120,12 @@ header ul.nav-bar a {
   white-space: nowrap !important;
   height: auto !important;
   line-height: normal !important;
+  transition: background-color 0.2s ease, border-color 0.2s ease !important;
 }
 
 header ul.nav-bar a:hover {
   background-color: #334155 !important;
-  border-color: #475569 !important;
+  border-color: #EF4444 !important; /* Subtle modern red highlight on button hover */
   color: #ffffff !important;
 }
 
@@ -156,7 +157,7 @@ pre {
 }
 
 blockquote {
-  border-left: 3px solid #E94B3C;
+  border-left: 3px solid #EF4444; /* Updated from legacy red */
   margin: 0 0 20px 0;
   padding: 0 0 0 15px;
   color: #cbd5e1;
