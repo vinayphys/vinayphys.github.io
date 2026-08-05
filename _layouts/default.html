@@ -19,73 +19,103 @@
     <link rel="stylesheet" href="{{ '/stylesheets/styles.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/stylesheets/pygment_trac.css' | relative_url }}">
     
-    <!-- FontAwesome & Academicons for Icons -->
+    <!-- FontAwesome & Academicons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
     <style>
-      /* Custom tweaks for academic profile layout */
+      /* Layout & Responsive Tweaks */
       .profile-img {
         width: 100%;
         max-width: 180px;
         border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        box-shadow: 0 4px 10px rgba(0,0,0,0.5);
         margin: 10px 0 15px 0;
       }
+      
+      /* Fixed contrast for dark theme text under photo */
+      .sidebar-bio {
+        color: #d1d5db !important;
+        font-size: 0.95rem;
+        line-height: 1.4;
+        margin-bottom: 15px;
+      }
+      .sidebar-bio small {
+        color: #9ca3af !important;
+      }
+
+      /* Clean grid-based navigation menu */
       .nav-menu {
         margin: 15px 0;
         padding: 0;
         list-style: none;
-      }
-      .nav-menu li {
-        margin-bottom: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
       }
       .nav-menu a {
         display: block;
-        padding: 6px 12px;
-        background: #f4f4f4;
-        border-radius: 4px;
+        padding: 8px 12px;
+        background: #1e293b;
+        border: 1px solid #334155;
+        border-radius: 6px;
         text-decoration: none;
-        font-weight: 600;
-        color: #333;
-        transition: background 0.2s;
+        font-weight: 500;
+        color: #f1f5f9;
+        white-space: nowrap; /* Prevents text from wrapping into two lines */
+        transition: background 0.2s, border-color 0.2s;
       }
       .nav-menu a:hover {
-        background: #393939;
-        color: #fff;
+        background: #334155;
+        border-color: #475569;
+        color: #ffffff;
       }
-      .subtitle-box {
-        background: #f8f9fa;
-        border-left: 4px solid #2e7d32;
-        padding: 12px 16px;
-        margin-bottom: 25px;
-        border-radius: 0 4px 4px 0;
-      }
-      .hero-banner {
-        width: 100%;
-        max-height: 220px;
-        object-fit: cover;
-        border-radius: 6px;
-        margin-bottom: 20px;
-      }
+
+      /* Social buttons container */
       .social-links {
         display: flex;
         flex-wrap: wrap;
-        gap: 8px;
+        gap: 6px;
         margin-top: 15px;
       }
       .social-btn {
         display: inline-flex;
         align-items: center;
-        gap: 5px;
-        font-size: 0.82rem;
-        padding: 4px 8px;
-        background: #eee;
-        border-radius: 4px;
-        color: #333;
+        gap: 6px;
+        font-size: 0.85rem;
+        padding: 6px 10px;
+        background: #1e293b;
+        border: 1px solid #334155;
+        border-radius: 6px;
+        color: #cbd5e1;
         text-decoration: none;
+        white-space: nowrap;
       }
-      .social-btn:hover { background: #ddd; }
+      .social-btn:hover { 
+        background: #334155; 
+        color: #ffffff;
+      }
+
+      /* Dark-theme friendly Hero Subtitle Box */
+      .subtitle-box {
+        background: #111827;
+        border-left: 4px solid #4ade80;
+        border-top: 1px solid #1f2937;
+        border-right: 1px solid #1f2937;
+        border-bottom: 1px solid #1f2937;
+        padding: 14px 18px;
+        margin-bottom: 20px;
+        border-radius: 0 6px 6px 0;
+      }
+      
+      .hero-banner {
+        width: 100%;
+        max-height: 240px;
+        object-fit: cover;
+        border-radius: 6px;
+        border: 1px solid #1f2937;
+        margin-bottom: 20px;
+      }
     </style>
   </head>
   <body>
@@ -93,21 +123,24 @@
       <header>
         <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <!-- Profile Photo inside Sidebar -->
+        <!-- Profile Photo -->
         <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-img" alt="Vinay Vaibhav profile photo"/>
 
-        <p><strong>Postdoctoral Researcher in Physics</strong><br>
-        <small>Georg-August-Universität Göttingen</small></p>
+        <!-- High contrast text -->
+        <p class="sidebar-bio">
+          <strong>Postdoctoral Researcher in Physics</strong><br>
+          <small>Georg-August-Universität Göttingen</small>
+        </p>
 
-        <!-- Navigation Menu -->
+        <!-- Vertical Menu (Prevents text breaking) -->
         <ul class="nav-menu">
-          <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house"></i> Home</a></li>
-          <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-book-open"></i> Publications</a></li>
-          <li><a href="{{ '/Software_development' | absolute_url }}"><i class="fa-solid fa-code"></i> Software</a></li>
-          <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard"></i> Presentations</a></li>
+          <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house" style="margin-right: 6px;"></i> Home</a></li>
+          <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-book-open" style="margin-right: 6px;"></i> Publications</a></li>
+          <li><a href="{{ '/Software_development' | absolute_url }}"><i class="fa-solid fa-code" style="margin-right: 6px;"></i> Software</a></li>
+          <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard" style="margin-right: 6px;"></i> Presentations</a></li>
         </ul>
 
-        <!-- Connect / Social Links -->
+        <!-- Social Badges -->
         <div class="social-links">
           <a href="https://scholar.google.com/" class="social-btn" target="_blank"><i class="ai ai-google-scholar"></i> Scholar</a>
           <a href="https://github.com/vinayphys" class="social-btn" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
@@ -116,13 +149,12 @@
       </header>
 
       <section>
-        <!-- Banner Animation placed at the top of main content area (avoids sidebar overflow) -->
         {% if page.url == "/" or page.url == "/index.html" %}
           <div class="subtitle-box">
-            <h3 style="margin: 0; color: #2e7d32; font-size: 1.15rem;">
+            <h3 style="margin: 0; color: #4ade80; font-size: 1.15rem; font-weight: 600;">
               Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics
             </h3>
-            <p style="margin: 4px 0 0 0; color: #666; font-size: 0.95rem; font-style: italic;">
+            <p style="margin: 6px 0 0 0; color: #9ca3af; font-size: 0.95rem; font-style: italic;">
               Georg-August-Universität Göttingen | Institut für Theoretische Physik
             </p>
           </div>
@@ -141,7 +173,6 @@
 
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     
-    <!-- Modern GA4 Google Analytics Snippet -->
     {% if site.google_analytics and site.google_analytics != true %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
