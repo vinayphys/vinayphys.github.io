@@ -24,16 +24,46 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
     <style>
-      /* Layout & Responsive Tweaks */
-      .profile-img {
+      /* Side-by-side header banner container */
+      .media-header {
+        display: flex;
+        align-items: stretch;
+        gap: 15px;
+        margin: 15px 0 20px 0;
         width: 100%;
-        max-width: 180px;
-        border-radius: 8px;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-        margin: 10px 0 15px 0;
       }
-      
-      /* Fixed contrast for dark theme text under photo */
+      .media-header .profile-photo {
+        width: 180px;
+        height: auto;
+        object-fit: cover;
+        border-radius: 8px;
+        border: 1px solid #334155;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        flex-shrink: 0;
+      }
+      .media-header .gif-banner {
+        flex-grow: 1;
+        width: 100%;
+        max-height: 200px;
+        object-fit: cover;
+        border-radius: 8px;
+        border: 1px solid #334155;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+      }
+
+      /* Dark-theme Subtitle Banner Box */
+      .subtitle-box {
+        background: #111827;
+        border-left: 4px solid #4ade80;
+        border-top: 1px solid #1f2937;
+        border-right: 1px solid #1f2937;
+        border-bottom: 1px solid #1f2937;
+        padding: 14px 18px;
+        margin-bottom: 20px;
+        border-radius: 0 6px 6px 0;
+      }
+
+      /* Sidebar navigation and button styling */
       .sidebar-bio {
         color: #d1d5db !important;
         font-size: 0.95rem;
@@ -43,8 +73,6 @@
       .sidebar-bio small {
         color: #9ca3af !important;
       }
-
-      /* Clean grid-based navigation menu */
       .nav-menu {
         margin: 15px 0;
         padding: 0;
@@ -62,7 +90,7 @@
         text-decoration: none;
         font-weight: 500;
         color: #f1f5f9;
-        white-space: nowrap; /* Prevents text from wrapping into two lines */
+        white-space: nowrap;
         transition: background 0.2s, border-color 0.2s;
       }
       .nav-menu a:hover {
@@ -70,8 +98,6 @@
         border-color: #475569;
         color: #ffffff;
       }
-
-      /* Social buttons container */
       .social-links {
         display: flex;
         flex-wrap: wrap;
@@ -96,25 +122,15 @@
         color: #ffffff;
       }
 
-      /* Dark-theme friendly Hero Subtitle Box */
-      .subtitle-box {
-        background: #111827;
-        border-left: 4px solid #4ade80;
-        border-top: 1px solid #1f2937;
-        border-right: 1px solid #1f2937;
-        border-bottom: 1px solid #1f2937;
-        padding: 14px 18px;
-        margin-bottom: 20px;
-        border-radius: 0 6px 6px 0;
-      }
-      
-      .hero-banner {
-        width: 100%;
-        max-height: 240px;
-        object-fit: cover;
-        border-radius: 6px;
-        border: 1px solid #1f2937;
-        margin-bottom: 20px;
+      /* Mobile responsiveness: stack photo and GIF vertically on smaller screens */
+      @media (max-width: 768px) {
+        .media-header {
+          flex-direction: column;
+        }
+        .media-header .profile-photo {
+          width: 100%;
+          max-width: 200px;
+        }
       }
     </style>
   </head>
@@ -123,16 +139,13 @@
       <header>
         <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <!-- Profile Photo -->
-        <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-img" alt="Vinay Vaibhav profile photo"/>
-
-        <!-- High contrast text -->
+        <!-- Subtitle & Role details inside sidebar -->
         <p class="sidebar-bio">
           <strong>Postdoctoral Researcher in Physics</strong><br>
           <small>Georg-August-Universität Göttingen</small>
         </p>
 
-        <!-- Vertical Menu (Prevents text breaking) -->
+        <!-- Navigation Links -->
         <ul class="nav-menu">
           <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house" style="margin-right: 6px;"></i> Home</a></li>
           <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-book-open" style="margin-right: 6px;"></i> Publications</a></li>
@@ -140,7 +153,7 @@
           <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard" style="margin-right: 6px;"></i> Presentations</a></li>
         </ul>
 
-        <!-- Social Badges -->
+        <!-- Connect Buttons -->
         <div class="social-links">
           <a href="https://scholar.google.com/" class="social-btn" target="_blank"><i class="ai ai-google-scholar"></i> Scholar</a>
           <a href="https://github.com/vinayphys" class="social-btn" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
@@ -150,6 +163,7 @@
 
       <section>
         {% if page.url == "/" or page.url == "/index.html" %}
+          <!-- Subtitle Green Box -->
           <div class="subtitle-box">
             <h3 style="margin: 0; color: #4ade80; font-size: 1.15rem; font-weight: 600;">
               Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics
@@ -159,7 +173,11 @@
             </p>
           </div>
 
-          <img src="{{ 'images/abp.gif' | relative_url }}" class="hero-banner" alt="Animation of active amorphous solids simulation"/>
+          <!-- Side-By-Side Image Container (Profile Photo Left, GIF Right) -->
+          <div class="media-header">
+            <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
+            <img src="{{ 'images/abp.gif' | relative_url }}" class="gif-banner" alt="Animation of active amorphous solids simulation"/>
+          </div>
         {% endif %}
 
         {{ content }}
