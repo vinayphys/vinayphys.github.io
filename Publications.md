@@ -4,7 +4,7 @@ title: Publications
 
 # Publications  
 ---
-[Google-Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao) | [ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)  
+[Google-Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)  
 
 ## Ongoing:  
 
