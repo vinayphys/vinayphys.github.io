@@ -17,7 +17,7 @@ body {
 
 /* Headings & Typography */
 h1, h2, h3, h4, h5, h6 {
-  color: #E94B3C;
+  color: #EF4444; /* Refined Modern Crimson */
   margin: 0 0 15px;
   line-height: 1.2;
   font-weight: bold;
@@ -43,12 +43,13 @@ small {
 
 /* Links */
 a {
-  color: #E94B3C;
+  color: #EF4444; /* Refined Modern Crimson */
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #ff6b5b;
+  color: #F87171; /* Softer, highly legible rose-red hover */
 }
 
 a small {
