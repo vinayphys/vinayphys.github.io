@@ -1,5 +1,7 @@
-theme: jekyll-theme-minimal
 title: Vinay VAIBHAV
-description: Post-doctoral researcher in Physics at the Georg-August-Universität Göttingen (Germany).
+description: Postdoctoral Researcher in Physics at the Georg-August-Universität Göttingen (Germany).
 show_downloads: false
-google_analytics: true
+
+# Build options
+markdown: kramdown
+highlighter: rouge
