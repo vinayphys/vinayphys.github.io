@@ -24,10 +24,10 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 2012-2015:	  BSc (Hons.) in Applied Physics (CUJ Ranchi)
 
 * **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})
-* **Ph.D. Thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)
-* **M.Sc. Thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})
-* **M.Sc. Coursework:** [IMSc Details (PDF)]({{ '/files/imsc_courseDetails.pdf' | relative_url }})
-* **B.Sc. Coursework:** [CUJ Details (PDF)]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})
+* **PhD Thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)
+* **MSc Thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})
+* **MSc Coursework:** [IMSc Details (PDF)]({{ '/files/imsc_courseDetails.pdf' | relative_url }})
+* **BSc Coursework:** [CUJ Details (PDF)]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})
 
 # Connect with me:
 
