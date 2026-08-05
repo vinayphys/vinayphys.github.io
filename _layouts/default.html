@@ -162,23 +162,21 @@
       </header>
 
       <section>
-        {% if page.url == "/" or page.url == "/index.html" %}
-          <!-- Subtitle Green Box -->
-          <div class="subtitle-box">
-            <h3 style="margin: 0; color: #4ade80; font-size: 1.15rem; font-weight: 600;">
-              Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics
-            </h3>
-            <p style="margin: 6px 0 0 0; color: #9ca3af; font-size: 0.95rem; font-style: italic;">
-              Georg-August-Universität Göttingen | Institut für Theoretische Physik
-            </p>
-          </div>
+        <!-- Subtitle Green Box -->
+        <div class="subtitle-box">
+          <h3 style="margin: 0; color: #4ade80; font-size: 1.15rem; font-weight: 600;">
+            Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics
+          </h3>
+          <p style="margin: 6px 0 0 0; color: #9ca3af; font-size: 0.95rem; font-style: italic;">
+            Georg-August-Universität Göttingen | Institut für Theoretische Physik
+          </p>
+        </div>
 
-          <!-- Side-By-Side Image Container (Profile Photo Left, GIF Right) -->
-          <div class="media-header">
-            <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
-            <img src="{{ 'images/abp.gif' | relative_url }}" class="gif-banner" alt="Animation of active amorphous solids simulation"/>
-          </div>
-        {% endif %}
+        <!-- Side-By-Side Header Banner (Appears on ALL pages) -->
+        <div class="media-header">
+          <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
+          <img src="{{ 'images/abp.gif' | relative_url }}" class="gif-banner" alt="Animation of active amorphous solids simulation"/>
+        </div>
 
         {{ content }}
 
