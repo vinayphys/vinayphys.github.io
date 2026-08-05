@@ -29,7 +29,7 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 * Details of my undergraduate course at CUJ <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/cuj_CourseDetails.pdf">here</a>
 * My CV <a href="https://github.com/vinayphys/vinayphys.github.io/blob/master/files/one-page_cv.pdf">here</a>
 
-# Connect with me
+# Connect with me:
 
 <div class="social-bar">
   <a href="https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=hi&oi=ao" class="social-btn" target="_blank">
