@@ -32,7 +32,7 @@ p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
 
-strong {
+strong, dt {
   color: #ffffff;
   font-weight: bold;
 }
@@ -41,7 +41,7 @@ small {
   font-size: 11px;
 }
 
-/* Links */
+/* Base Links */
 a {
   color: #EF4444; /* Modern Crimson */
   text-decoration: none;
@@ -59,77 +59,63 @@ a small {
   display: block;
 }
 
-/* Reset Theme Header Constraints */
+/* Structural Layout */
 header {
-  width: 100%;
-  float: none;
-  position: static;
   margin-bottom: 20px;
 }
 
 section {
-  width: 100%;
-  float: none;
   padding-bottom: 50px;
 }
 
 footer {
-  width: 100%;
-  float: none;
-  position: static;
   padding: 20px 0;
   color: #888;
 }
 
-/* Clean Flex Navigation Bar */
+/* Navigation & Action Button Styles (Navbar + Connect Buttons) */
 header ul.nav-bar {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  gap: 10px !important;
-  margin: 15px 0 !important;
-  padding: 0 !important;
-  list-style: none !important;
-  background: none !important;
-  border: none !important;
-  height: auto !important;
-  width: 100% !important;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 15px 0;
+  padding: 0;
+  list-style: none;
 }
 
 header ul.nav-bar li {
-  display: inline-block !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: none !important;
-  background: none !important;
-  float: none !important;
-  width: auto !important;
-  height: auto !important;
+  margin: 0;
+  padding: 0;
 }
 
-header ul.nav-bar a {
-  display: inline-flex !important;
-  align-items: center !important;
-  gap: 8px !important;
-  padding: 8px 16px !important;
-  background-color: #1e293b !important;
-  border: 1px solid #334155 !important;
-  border-radius: 6px !important;
-  color: #f1f5f9 !important;
-  font-size: 0.95rem !important;
-  text-decoration: none !important;
-  white-space: nowrap !important;
-  height: auto !important;
-  line-height: normal !important;
-  transition: background-color 0.2s ease, border-color 0.2s ease !important;
+/* Shared styling for Navigation Bar & Social/Action Buttons */
+header ul.nav-bar a,
+.btn-link,
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  color: #f1f5f9;
+  font-size: 0.95rem;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
 }
 
-header ul.nav-bar a:hover {
-  background-color: #334155 !important;
-  border-color: #EF4444 !important; /* Subtle modern red highlight on button hover */
-  color: #ffffff !important;
+/* Red Highlight Hover on All Buttons */
+header ul.nav-bar a:hover,
+.btn-link:hover,
+.social-link:hover {
+  background-color: #334155;
+  border-color: #EF4444; /* Crimson hover border */
+  color: #ffffff;
 }
 
-/* Media Elements */
+/* Media & Dividers */
 img {
   max-width: 100%;
   height: auto;
@@ -142,9 +128,9 @@ hr {
   margin: 0 0 20px;
 }
 
-/* Code Blocks & Tables */
+/* Code Blocks & Blockquotes */
 code, pre {
-  font-family: Monaco, Consolas, "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace;
+  font-family: inherit;
   color: #e2e8f0;
 }
 
@@ -157,13 +143,14 @@ pre {
 }
 
 blockquote {
-  border-left: 3px solid #EF4444; /* Updated from legacy red */
+  border-left: 3px solid #EF4444;
   margin: 0 0 20px 0;
   padding: 0 0 0 15px;
   color: #cbd5e1;
   font-style: italic;
 }
 
+/* Tables */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -180,24 +167,24 @@ th {
   font-weight: bold;
 }
 
-dt {
-  color: #ffffff;
-  font-weight: bold;
-}
-
 /* Mobile Responsiveness */
 @media screen and (max-width: 600px) {
   body {
     padding: 10px;
   }
+  
   .wrapper {
     width: 100%;
   }
+  
   header ul.nav-bar {
     flex-direction: column;
-    gap: 6px !important;
+    gap: 6px;
   }
-  header ul.nav-bar a {
+  
+  header ul.nav-bar a,
+  .btn-link,
+  .social-link {
     width: 100%;
     box-sizing: border-box;
     justify-content: center;
