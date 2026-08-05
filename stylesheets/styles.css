@@ -28,7 +28,17 @@ h1 {
   font-size: 28px;
 }
 
-p, ul, ol, table, pre, dl {
+/* Justified Paragraphs with Hyphenation */
+p {
+  margin: 0 0 20px;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+/* Other Block Elements (Left-aligned by default) */
+ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
 
