@@ -22,8 +22,6 @@ I am a Post-doctoral researcher at the Institut für Theoretische Physik, Georg-
 
 ---
 
-#### Academic Documents
-
 * **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})
 * **PhD Thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)
 * **MSc Thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})
