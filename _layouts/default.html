@@ -21,157 +21,31 @@
     <!-- FontAwesome & Academicons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-    <style>
-      /* Reset default theme header constraints that cause overflow */
-      header {
-        float: none !important;
-        position: static !important;
-        width: 100% !important;
-        margin-bottom: 20px !important;
-      }
-
-      /* Clean Top Header Layout */
-      .top-header-title h1 {
-        margin: 0 0 5px 0 !important;
-        font-size: 2.2rem !important;
-      }
-      
-      /* Navigation Bar Styling */
-      .nav-bar {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin: 15px 0;
-        padding: 0 !important;
-        list-style: none !important;
-      }
-      .nav-bar li {
-        margin: 0 !important;
-        padding: 0 !important;
-        list-style: none !important;
-      }
-      .nav-bar a {
-        display: inline-flex !important;
-        align-items: center;
-        gap: 8px;
-        padding: 8px 16px !important;
-        background: #1e293b !important;
-        border: 1px solid #334155 !important;
-        border-radius: 6px !important;
-        text-decoration: none !important;
-        font-weight: 500 !important;
-        color: #f1f5f9 !important;
-        font-size: 0.95rem !important;
-        white-space: nowrap;
-        transition: background 0.2s, border-color 0.2s;
-      }
-      .nav-bar a:hover {
-        background: #334155 !important;
-        border-color: #475569 !important;
-        color: #ffffff !important;
-      }
-
-      /* Social Links Styling */
-      .social-bar {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 8px;
-        margin: 10px 0 20px 0;
-      }
-      .social-btn {
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        font-size: 0.85rem;
-        padding: 5px 12px;
-        background: #0f172a;
-        border: 1px solid #334155;
-        border-radius: 6px;
-        color: #cbd5e1;
-        text-decoration: none;
-      }
-      .social-btn:hover {
-        background: #1e293b;
-        color: #fff;
-      }
-
-      /* Green Subtitle Header Box */
-      .subtitle-box {
-        background: #111827;
-        border-left: 4px solid #4ade80;
-        border-top: 1px solid #1f2937;
-        border-right: 1px solid #1f2937;
-        border-bottom: 1px solid #1f2937;
-        padding: 14px 18px;
-        margin-bottom: 20px;
-        border-radius: 0 6px 6px 0;
-      }
-
-      /* Media Box (Photo Left, GIF Right) */
-      .media-header {
-        display: flex;
-        align-items: stretch;
-        gap: 15px;
-        margin-bottom: 25px;
-        width: 100%;
-      }
-      .media-header .profile-photo {
-        width: 180px;
-        height: auto;
-        object-fit: cover;
-        border-radius: 8px;
-        border: 1px solid #334155;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-        flex-shrink: 0;
-      }
-      .media-header .gif-banner {
-        flex-grow: 1;
-        width: 100%;
-        max-height: 220px;
-        object-fit: cover;
-        border-radius: 8px;
-        border: 1px solid #334155;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-      }
-
-      /* Mobile adjustment */
-      @media (max-width: 768px) {
-        .media-header {
-          flex-direction: column;
-        }
-        .media-header .profile-photo {
-          width: 100%;
-          max-width: 200px;
-        }
-      }
-    </style>
   </head>
   <body>
-    <div class="wrapper" style="max-width: 960px; margin: 0 auto; padding: 20px;">
+    <div class="wrapper">
       
       <!-- Top Section -->
       <header class="top-header-title">
-        <h1><a href="{{ '/' | absolute_url }}" style="color: #ef4444; text-decoration: none;">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>
+          <a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+        </h1>
 
-      <!-- Navigation Buttons Bar -->
-      <ul class="nav-bar">
-      <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house"></i> Home</a></li>
-      <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-book-open"></i> Publications</a></li>
-      <li><a href="{{ '/Software_development' | absolute_url }}"><i class="fa-solid fa-code"></i> Software Developments</a></li>
-      <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard"></i> Presentations</a></li>
-      </ul>
-        
+        <!-- Navigation Buttons Bar -->
+        <ul class="nav-bar">
+          <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house"></i> Home</a></li>
+          <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-book-open"></i> Publications</a></li>
+          <li><a href="{{ '/Software_development' | absolute_url }}"><i class="fa-solid fa-code"></i> Software Developments</a></li>
+          <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard"></i> Presentations</a></li>
+        </ul>
       </header>
 
       <section>
         <!-- Green Subtitle Card -->
         <div class="subtitle-box">
-          <h3 style="margin: 0; color: #4ade80; font-size: 1.15rem; font-weight: 600;">
-            Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics
-          </h3>
-          <p style="margin: 6px 0 0 0; color: #9ca3af; font-size: 0.95rem; font-style: italic;">
-          Georg-August-Universität Göttingen <span style="font-style: normal;">|</span> Institut für Theoretische Physik
+          <h3>Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics</h3>
+          <p>
+            Georg-August-Universität Göttingen <span>|</span> Institut für Theoretische Physik
           </p>
         </div>
 
@@ -185,10 +59,6 @@
         {{ content }}
 
       </section>
-
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
 
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
