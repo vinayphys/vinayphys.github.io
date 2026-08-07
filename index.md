@@ -1,4 +1,4 @@
-# Welcome
+# Welcome !
 
 I am a postdoctoral researcher at the Institut für Theoretische Physik, Georg-August-Universität Göttingen (Germany), in the group of <a href="https://www.uni-goettingen.de/en/588919.html" target="_blank">Prof. Peter Sollich</a>. My work focuses on the mechanical response of active amorphous solids.
 
@@ -10,7 +10,7 @@ Broadly, I am interested in soft matter and disordered systems.
 
 ---
 
-### Research Interests
+## Research Interests
 
 - Active amorphous materials  
 - Vibrational properties of amorphous solids  
@@ -22,7 +22,7 @@ Broadly, I am interested in soft matter and disordered systems.
 
 ---
 
-### Education and Employment
+## Education and Employment
 
 * **2025–Present**: Postdoctoral researcher, University of Göttingen (Germany)  
 * **2023–2025**: Postdoctoral researcher, University of Milan (Italy)  
@@ -40,7 +40,7 @@ Broadly, I am interested in soft matter and disordered systems.
 
 ---
 
-### Connect with Me
+## Connect with Me
 
 <div class="social-bar">
   <a href="https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=en" class="social-btn" target="_blank">
