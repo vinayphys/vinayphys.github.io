@@ -82,9 +82,9 @@ A comprehensive suite of parallelized post-processing scripts for simulation tra
 
 - **Languages:** C++, Python
 - **Key Features:**
-  - **Structural order:** partial pair-correlation functions $g_{ij}(r)$, static/dynamic structure factors $S(q)$, bond-orientational order parameters ($\psi_6$), spatial correlation functions, and cluster identification.
-  - **Dynamics:** mean-squared displacement (MSD), two- and four-point space–time correlations (van Hove functions, overlap parameters, intermediate scattering functions), and non-affine displacement analysis ($D^2_{\min}$) under sheared periodic boundaries.
-  - **Thermal response:** heat-flux autocorrelation and thermal conductivity.
+  - **Structural order:** partial pair-correlation functions $g_{ij}(r)$, static/dynamic structure factors $S(q)$, bond-orientational order parameters in 2D and 3D, spatial correlation functions, and cluster identification.
+  - **Dynamics:** mean-squared displacement, two- and four-point space–time correlations (van Hove functions, overlap parameters, intermediate scattering functions, etc), and non-affine displacement analysis ($D^2_{\min}$) under sheared periodic boundaries.
+  - **Thermal response:** heat-flux; thermal conductivity.
   - **Mechanics:** shear and bulk moduli via fluctuation formulas and stress–strain protocols; shear-band identification.
   - **Scientific Visualization:** render and post-process trajectory data using tools like **OVITO**, **VMD**, and **Matplotlib**.
 
