@@ -26,7 +26,7 @@ An implementation of Non-affine Lattice Dynamics for coarse-grained and all-atom
 - **Repositories:**
   - [All-Atom Polymer System](https://github.com/ZacconeAlessio/NALD_atomistic)
   - [Coarse-Grained Polymer System](https://github.com/ZacconeAlessio/NALD_coarse-grained)
-- **Language:** C++
+- **Language:** C++/Python
 - **Key Features:**
   - Validated against analytical and numerical benchmarks.
   - Efficient computation of non-affine mobility matrices and elastic constants.
