@@ -1,31 +1,47 @@
-# Welcome !
+# Welcome
 
-I am a Postdoctoral researcher at the Institut für Theoretische Physik, Georg-August-Universität Göttingen (Germany), working in the group of <a href="https://www.uni-goettingen.de/en/588919.html" target="_blank">Prof. Peter Sollich</a>, where my primary focus is on investigating the mechanical response of active amorphous solids. Previously, I held a post-doctoral position in the group of Prof. Alessio Zaccone at the University of Milan (Italy), studying the mechanical and vibrational properties of amorphous materials. During my Ph.D. at <a href="https://www.imsc.res.in" target="_blank">The Institute of Mathematical Sciences</a> Chennai (India), I worked with <a href="https://www.imsc.res.in/pinaki_chaudhuri" target="_blank">Prof. Pinaki Chaudhuri</a> to understand the thermal and mechanical response of glassy systems, mostly using large-scale simulations. In general, I am interested in the broad area of soft matter systems.
+I am a postdoctoral researcher at the Institut für Theoretische Physik, Georg-August-Universität Göttingen (Germany), in the group of <a href="https://www.uni-goettingen.de/en/588919.html" target="_blank">Prof. Peter Sollich</a>. My work focuses on the mechanical response of active amorphous solids.
 
-## Research Interests
+Previously, I was a postdoctoral researcher in the group of Prof. Alessio Zaccone at the University of Milan (Italy), where I studied the mechanical and vibrational properties of amorphous materials.  
 
-* Active amorphous materials
-* Vibrational properties of amorphous solids
-* Mechanical response of amorphous materials: Yielding, Plasticity, Shear-banding, Modulus
-* Inhomogeneity in glassy systems and its mechanical consequences
-* Thermal response of glass-forming systems: Thermophoresis, Local heating/cooling, Thermal processing
-* Rheology of complex fluids: Micro-response, Macro-response, Structural changes
-* Flow under confinement: Poiseuille flow, Couette flow
+During my PhD at <a href="https://www.imsc.res.in" target="_blank">The Institute of Mathematical Sciences</a>, Chennai (India), supervised by <a href="https://www.imsc.res.in/pinaki_chaudhuri" target="_blank">Prof. Pinaki Chaudhuri</a>, I investigated the thermal and mechanical response of glassy systems using large-scale simulations.
 
-## Education and Employment
+Broadly, I am interested in soft matter and disordered systems.
 
-* **2025–Present:** Postdoctoral researcher, University of Göttingen (Germany)
-* **2023–2025:** Postdoctoral researcher, University of Milan (Italy)
-* **2017–2022:** PhD in Physics (IMSc Chennai)
-* **2015–2017:** MSc in Physics (IMSc Chennai)
-* **2012–2015:** BSc (Hons.) in Applied Physics (CUJ Ranchi)
+---
 
-  - **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})
-  - **PhD Thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)
-  - **MSc Thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})
-  - **BSc and MSc Coursework details:** At CUJ [PDF]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})   At IMSc [PDF]({{ '/files/imsc_courseDetails.pdf' | relative_url }})  
- 
-## Connect with me
+### Research Interests
+
+- Active amorphous materials  
+- Vibrational properties of amorphous solids  
+- Mechanical response of amorphous materials: yielding, plasticity, shear banding, modulus  
+- Inhomogeneity in glassy systems and its mechanical consequences  
+- Thermal response of glass-forming systems: thermophoresis, local heating/cooling, thermal processing  
+- Rheology of complex fluids: microscopic response, macroscopic response, structural changes  
+- Flow under confinement: Poiseuille flow, Couette flow  
+
+---
+
+### Education and Employment
+
+- **2025–Present** – Postdoctoral researcher, University of Göttingen (Germany)  
+- **2023–2025** – Postdoctoral researcher, University of Milan (Italy)  
+- **2017–2022** – PhD in Physics, IMSc Chennai (India)  
+- **2015–2017** – MSc in Physics, IMSc Chennai (India)  
+- **2012–2015** – BSc (Hons.) in Applied Physics, Central University of Jharkhand (CUJ), Ranchi (India)
+
+**Documents**
+
+- **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})  
+- **PhD thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)  
+- **MSc thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})  
+- **Coursework details:**  
+  - CUJ — [PDF]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})  
+  - IMSc — [PDF]({{ '/files/imsc_courseDetails.pdf' | relative_url }})  
+
+---
+
+### Connect with Me
 
 <div class="social-bar">
   <a href="https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=en" class="social-btn" target="_blank">
@@ -50,10 +66,13 @@ I am a Postdoctoral researcher at the Institut für Theoretische Physik, Georg-A
 
 ---
 
-**Address:**  
+**Address**  
 Georg-August-Universität Göttingen  
 Institut für Theoretische Physik  
-Friedrich-Hund-Platz 1, Göttingen 37077, Germany.  
-**Email:** vinay.vaibhav [at] uni-goettingen.de
+Friedrich-Hund-Platz 1  
+37077 Göttingen, Germany  
+
+**Email**  
+vinay.vaibhav [at] uni-goettingen.de  
 
 <small>Copyright © Vinay Vaibhav. Last updated: May 2026</small>
