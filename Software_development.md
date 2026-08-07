@@ -22,8 +22,8 @@ A specialized custom implementation in [LAMMPS](https://www.lammps.org/) (Large-
 Implemented NALD (Non-affine Lattice Dynamics) for coarse-grained and full atom polymer models to calculate frequency dependent modulus as a function of external frequency across multiple decades.   
 
 Please have a look at the following dedicated Github repositories to which I fundamentally contributed:
-[Full atom polymer system]()
-[Coarse-grained polymer system]()
+[Full atom polymer system](https://github.com/ZacconeAlessio/NALD_atomistic)  
+[Coarse-grained polymer system](https://github.com/ZacconeAlessio/NALD_coarse-grained)
 
 * **Language:** C++
 * **Key Features:**
