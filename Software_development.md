@@ -86,6 +86,7 @@ A comprehensive suite of parallelized post-processing scripts for simulation tra
   - **Dynamics:** mean-squared displacement (MSD), two- and four-point space–time correlations (van Hove functions, overlap parameters, intermediate scattering functions), and non-affine displacement analysis ($D^2_{\min}$) under sheared periodic boundaries.
   - **Thermal response:** heat-flux autocorrelation and thermal conductivity.
   - **Mechanics:** shear and bulk moduli via fluctuation formulas and stress–strain protocols; shear-band identification.
+  - **Scientific Visualization:** render and post-process trajectory data using tools like **OVITO**, **VMD**, and **Matplotlib**.
 
 ---
 
