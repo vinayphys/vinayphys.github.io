@@ -24,11 +24,11 @@ Broadly, I am interested in soft matter and disordered systems.
 
 ### Education and Employment
 
-- **2025–Present** – Postdoctoral researcher, University of Göttingen (Germany)  
-- **2023–2025** – Postdoctoral researcher, University of Milan (Italy)  
-- **2017–2022** – PhD in Physics, IMSc Chennai (India)  
-- **2015–2017** – MSc in Physics, IMSc Chennai (India)  
-- **2012–2015** – BSc (Hons.) in Applied Physics, Central University of Jharkhand (CUJ), Ranchi (India)
+- **2025–Present**: Postdoctoral researcher, University of Göttingen (Germany)  
+- **2023–2025**: Postdoctoral researcher, University of Milan (Italy)  
+- **2017–2022**: PhD in Physics, IMSc Chennai (India)  
+- **2015–2017**: MSc in Physics, IMSc Chennai (India)  
+- **2012–2015**: BSc (Hons.) in Applied Physics, CUJ Ranchi (India)
 
 **Documents**
 
