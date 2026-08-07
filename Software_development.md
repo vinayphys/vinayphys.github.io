@@ -5,78 +5,94 @@ title: Software Developments
 
 # Software Developments
 
-Over the years as a part of my PhD research and postdoctoral employment, I have developed a number of codes to simulate a variety of systems, from glasses to polymers to active matter, for large-scale simulations and analysis tools to investigate structure, dynamics, thermal response, mechanical properties, topological defects, etc.
+During my PhD and postdoctoral work, I have developed specialized computational tools and simulation packages for complex soft-matter systems. My software spans large-scale molecular dynamics (MD), hybrid Monte Carlo–MD schemes, and customized continuum/lattice solvers for glasses, polymers, and active matter. I also maintain analysis suites for structural order, nonequilibrium dynamics, thermal transport, mechanical response, and topological defects.
 
 ---
 
-### Active Matter Simulation Framework  
-A specialized custom implementation in [LAMMPS](https://www.lammps.org/) (Large-scale Atomic/Molecular Massively Parallel Simulator) to simulate different activity dynamics, like ABP (finite or infinite persistence) or AOUP in 2D or 3D, along with the quasistaic activity limits ADD (Activity Driven Dynamics) and AQRD (Athermal Quasistaic Random Displacement).
+### Active Matter Simulation Framework
+A set of LAMMPS extensions to simulate active dynamics, including Active Brownian Particles (ABP, with tunable persistence) and Active Ornstein–Uhlenbeck Processes (AOUP) in 2D and 3D. It also covers quasistatic activity limits such as Activity-Driven Dynamics (ADD) and Athermal Quasistatic Random Displacements (AQRD).
 
-* **Language:** C++
-* **Key Features:**
-  * Tried and tested against various benchmark studies and presently being used in different research projects
-  * Integrates with the default LAMMPS package, making easier to implement for existing users
-  * Can be used by adding a single line in the input script specifying the parameters like, type of activity, persistence time, activity strength, etc
+- **Language:** C++
+- **Key Features:**
+  - Production-tested across multiple projects and currently deployed in ongoing studies.
+  - Drop-in integration with the standard LAMMPS source for straightforward compilation.
+  - One-line invocation in LAMMPS input scripts (activity type, persistence time, strength, etc.).
 
-### Non-affine Lattice Dynamics  
-Implemented NALD (Non-affine Lattice Dynamics) for coarse-grained and full atom polymer models to calculate frequency dependent modulus as a function of external frequency across multiple decades.   
+---
 
-Please have a look at the following dedicated Github repositories to which I fundamentally contributed:
-[Full atom polymer system](https://github.com/ZacconeAlessio/NALD_atomistic)  
-[Coarse-grained polymer system](https://github.com/ZacconeAlessio/NALD_coarse-grained)
+### Non-affine Lattice Dynamics (NALD)
+An implementation of Non-affine Lattice Dynamics for coarse-grained and all-atom polymer models. It computes frequency-dependent viscoelastic moduli over many decades in frequency.
 
-* **Language:** C++
-* **Key Features:**
-  * Tried and tested against various benchmark studies and presently being used in different research projects
-  * Integrates with the default LAMMPS package, making easier to implement for existing users
-  * Can be used by adding a single line in the input script specifying the parameters like, type of activity, persistence time, activity strength, etc
+- **Repositories:**
+  - [All-Atom Polymer System](https://github.com/ZacconeAlessio/NALD_atomistic)
+  - [Coarse-Grained Polymer System](https://github.com/ZacconeAlessio/NALD_coarse-grained)
+- **Language:** C++
+- **Key Features:**
+  - Validated against analytical and numerical benchmarks.
+  - Efficient computation of non-affine mobility matrices and elastic constants.
+  - Direct integration into LAMMPS routines for high-throughput calculations.
 
-### Hybrid Swap Monte-Carlo Molecular Dynamics   
-A specialized custom implementation in [LAMMPS](https://www.lammps.org/) to simulate Hybrid Swap Monte-Carlo Molecular Dynamics that performs a number of diameter swap attempts among the polydisperse particles based on Metropolis criterion at a given interval of MD steps.  
+---
 
-* **Language:** C++
-* **Key Features:**
-  * Tried and tested against various benchmark studies including a homegrown MC-MD code; used this feature in various published research
-  * Integrates with the default LAMMPS package, making easier to implement for existing users   
+### Hybrid Swap Monte Carlo–Molecular Dynamics
+A specialized LAMMPS extension implementing hybrid Swap MC–MD for polydisperse particle packings. Diameter swaps are attempted at user-defined MD intervals with Metropolis acceptance, accelerating equilibration in dense glassy states.
 
+- **Language:** C++
+- **Key Features:**
+  - Rigorously validated against standalone MC–MD solvers and used in published research.
+  - Fully integrated into the native LAMMPS framework.
+  - Significantly reduces equilibration times in polydisperse glasses.
 
-### Custom implementation of various force fields, diameter polydispersityin LAMMPS
-I have developed a custom implementation in [LAMMPS](https://www.lammps.org/) to simulate different size polydispersity and pair-potentials 
+---
 
-* **Language:** C++
-* **Key Features:**
-  * Tried and tested against various benchmark studies; used in various published research
-  * Integrates with the default LAMMPS package, making easier to implement for existing users  
-  * For size polydispersit, a list of diameters of particles written in a file is required
-  * Some example pair-potential implementations: Hertzian, Inverse power law (including LP potential)
+### Topological Defect Identification
+Python tools to identify topological defects (charges) in 2D fields. Developed for normal-mode fields but applicable to generic scalar or vector fields.
 
+- **Language:** Python
+- **Key Features:**
+  - Efficient detection and classification of topological defects/charges.
+  - Multiscale coarse-graining to probe different length scales.
 
-### Normal Mode Analysis
-In different research projects, I have performed normal mode (frequency) analysis in glassy and polymeric systems that requires creation of dynamical matrix (Hessian) and its diagonalization to get eigenfrequencies and eigenmodes.
+---
 
-* **Language:** C/C++/Python
-* **Key Features:**
-  * First principle implementation to construct the dynamical matrix for different pair-potentials and its efficient storage in sparse format
-  * C/C++ implementation to diagonalise the matrix; Via LAPACK if full spectrum is required; For partial spectrum, via SPECTRA with EIGEN package 
-  * Tested for short-range potential (sparse Hessian) for a few million particles; for long-range potential (for example, full atom polymer models) upto 20 thousand particles
+### Custom Force Fields & Size Polydispersity in LAMMPS
+Custom pair styles and fixes in LAMMPS for arbitrary continuous size-polydispersity distributions and specialized pair potentials.
 
+- **Language:** C++
+- **Key Features:**
+  - Production-tested and used in multiple peer-reviewed publications.
+  - Reads arbitrary particle-diameter distributions directly from external files.
+  - Supported pair potentials include Hertzian, inverse power law (IPL), and Lennard-Jones-like (e.g., LP) interactions.
 
-### Analysis Tools
-Developed and implemented various analysis tools, many of them to run in a parallel. I have also worked with experimental data in some reserach projects that involve specialized tools different from those used in simulations.
+---
 
-* **Language:** C/C++/Python
-* **Key Features:**
-  * Structure: Pair-correlation function (g11(r), g22(r), etc), Structure factor (Static, Dynamical), Bond orientational order parameter including Hexatic order parameter and its spatial correlation, Cluster analysis 
-  * Dynamics: Mean-squared displacement, Various two-point and four-point correlation functions in real and Fourier's space (von-Hove, Ovrelap, Intermediate scattering, etc), Non-affine displacement (D2min) in deformed periodic boundary condition
-  * Thermal response: Heat-flux, Thermal conductivity, etc
-  * Mechanics: Shear/Bulk modulus, 
+### Normal Mode Analysis & Vibrational Spectra
+Algorithms for vibrational analysis in glassy and polymeric materials via explicit construction of the dynamical matrix (Hessian) and eigen-decomposition to obtain eigenfrequencies and eigenmodes.
 
+- **Languages:** C++, C, Python
+- **Key Features:**
+  - Efficient construction and storage of large sparse Hessians for arbitrary pair potentials.
+  - Diagonalization via LAPACK (full spectra) and Spectra with the Eigen headers (targeted partial spectra).
+  - Scales to millions of particles for short-range interactions (sparse Hessians) and up to ~20,000 particles for long-range/all-atom systems.
 
-### High Performance Computing
-.... 
+---
 
-* **Language:** Shell/Python
-* **Key Features:**
-  * Job Scheduler: SLURM, PBS, CONDOR
-  * Efficient management computing jobs 
+### Analysis & Diagnostic Tools
+A comprehensive suite of parallelized post-processing scripts for simulation trajectories and experimental datasets.
 
+- **Languages:** C++, Python
+- **Key Features:**
+  - **Structural order:** partial pair-correlation functions $g_{ij}(r)$, static/dynamic structure factors $S(q)$, bond-orientational order parameters ($\psi_6$), spatial correlation functions, and cluster identification.
+  - **Dynamics:** mean-squared displacement (MSD), two- and four-point space–time correlations (van Hove functions, overlap parameters, intermediate scattering functions), and non-affine displacement analysis ($D^2_{\min}$) under sheared periodic boundaries.
+  - **Thermal response:** heat-flux autocorrelation and thermal conductivity.
+  - **Mechanics:** shear and bulk moduli via fluctuation formulas and stress–strain protocols; shear-band identification.
+
+---
+
+### High-Performance Computing (HPC) & Workflow Automation
+Automated pipelines for high-throughput computing across supercomputing clusters and distributed infrastructure.
+
+- **Languages:** Bash/Shell, Python
+- **Key Features:**
+  - Experience with SLURM, PBS, and HTCondor.
+  - Automated job submission, checkpointing, parameter sweeps, and data aggregation.
