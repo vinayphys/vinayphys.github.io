@@ -24,20 +24,19 @@ Broadly, I am interested in soft matter and disordered systems.
 
 ### Education and Employment
 
-- **2025–Present**: Postdoctoral researcher, University of Göttingen (Germany)  
-- **2023–2025**: Postdoctoral researcher, University of Milan (Italy)  
-- **2017–2022**: PhD in Physics, IMSc Chennai (India)  
-- **2015–2017**: MSc in Physics, IMSc Chennai (India)  
-- **2012–2015**: BSc (Hons.) in Applied Physics, CUJ Ranchi (India)
+* **2025–Present**: Postdoctoral researcher, University of Göttingen (Germany)  
+* **2023–2025**: Postdoctoral researcher, University of Milan (Italy)  
+* **2017–2022**: PhD in Physics, IMSc Chennai (India)  
+* **2015–2017**: MSc in Physics, IMSc Chennai (India)  
+* **2012–2015**: BSc (Hons.) in Applied Physics, CUJ Ranchi (India)
 
-**Documents**
 
-- **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})  
-- **PhD thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)  
-- **MSc thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})  
-- **Coursework details:**  
-  - CUJ — [PDF]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})  
-  - IMSc — [PDF]({{ '/files/imsc_courseDetails.pdf' | relative_url }})  
+  - **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})  
+  - **PhD thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)  
+  - **MSc thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})  
+  - **Coursework details:**  
+    - CUJ — [PDF]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})  
+    - IMSc — [PDF]({{ '/files/imsc_courseDetails.pdf' | relative_url }})  
 
 ---
 
