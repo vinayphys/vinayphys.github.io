@@ -22,11 +22,11 @@ I am a Postdoctoral researcher at the Institut für Theoretische Physik, Georg-A
 
 ---
 
-* **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})
-* **PhD Thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)
-* **MSc Thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})
-* **MSc Coursework:** [IMSc Details (PDF)]({{ '/files/imsc_courseDetails.pdf' | relative_url }})
-* **BSc Coursework:** [CUJ Details (PDF)]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})
+- **Curriculum Vitae:** [Compact CV (PDF)]({{ '/files/one-page_cv.pdf#zoom=300' | relative_url }})
+- **PhD Thesis:** *Thermo-mechanical Response of Glassy Systems* — [IMSc Repository](https://www.imsc.res.in/xmlui/handle/123456789/606)
+- **MSc Thesis:** *Heat Transport in Glass-Forming Liquids* — [Download PDF]({{ '/files/masterThesis_vinayVaibhav.pdf' | relative_url }})
+- **MSc Coursework:** [IMSc Details (PDF)]({{ '/files/imsc_courseDetails.pdf' | relative_url }})
+- **BSc Coursework:** [CUJ Details (PDF)]({{ '/files/cuj_CourseDetails.pdf' | relative_url }})
 
 ## Connect with me
 
