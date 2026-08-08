@@ -1,12 +1,12 @@
 # Welcome !
 
-I am a postdoctoral researcher at the Institut für Theoretische Physik, Georg-August-Universität Göttingen (Germany), in the group of <a href="https://www.uni-goettingen.de/en/588919.html" target="_blank">Prof. Peter Sollich</a>. My work focuses on the mechanical response of active amorphous solids.
+I am a postdoctoral researcher in the group of <a href="https://www.uni-goettingen.de/en/588919.html" target="_blank">Prof. Peter Sollich</a> at the University of Göttingen, mainly working on the mechanical and dynamical properties of dense active matter.
 
 Previously, I was a postdoctoral researcher in the group of Prof. Alessio Zaccone at the University of Milan (Italy), where I studied the mechanical and vibrational properties of amorphous materials.  
 
 During my PhD at <a href="https://www.imsc.res.in" target="_blank">The Institute of Mathematical Sciences</a>, Chennai (India), supervised by <a href="https://www.imsc.res.in/pinaki_chaudhuri" target="_blank">Prof. Pinaki Chaudhuri</a>, I investigated the thermal and mechanical response of glassy systems using large-scale simulations.
 
-Broadly, I am interested in soft matter and disordered systems.
+Broadly, I am interested in soft matter, statistical physics, and disordered systems.
 
 ---
 
