@@ -9,7 +9,7 @@ My research focuses on the physics of soft and disordered materials—including 
 
 ---
 
-## Dense Active Matter: Jamming and Fluidization
+## Dense Active Matter: Jamming, Fluidization, Avalanches
 
 I investigate how dense active materials—systems composed of self-propelled entities—transition between jammed, solid-like states and fluidized, flowing states. In ongoing studies on dense athermal active glasses [1–3], I explore how increasing self-propulsion destabilizes highly stable amorphous solids, how thermal or processing history dictates the critical activity threshold required for fluidization, and how collective rearrangements and avalanches develop near this transition. A central theme of this work is establishing parallels between activity-induced fluidization and yielding in conventional amorphous solids, particularly in how dynamic heterogeneity manifests across both regimes.
 
