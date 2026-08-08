@@ -71,7 +71,6 @@ Institut für Theoretische Physik
 Friedrich-Hund-Platz 1  
 37077 Göttingen, Germany  
 
-**Email**  
-vinay.vaibhav [at] uni-goettingen.de  
+**Email:** vinay.vaibhav [at] uni-goettingen.de  
 
 <small>Copyright © Vinay Vaibhav. Last updated: May 2026</small>
