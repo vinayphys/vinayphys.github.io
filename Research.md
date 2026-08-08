@@ -54,10 +54,10 @@ Related publications:
 
 ## Supercooled Glassy Liquids and Dynamic Heterogeneity
 
-I study how dynamics slow and become heterogeneous near the glass transition, and how this depends on interactions, density, and temperature. In disparate-size mixtures [1], I showed that apparent transport of slow particles can be dominated by collective motion, and demonstrated how removing center-of-mass drift reveals true localization and glassy signatures. With collaborators [2–3], I use information-theoretic measures (negentropy) of displacement distributions to define entropic timescales of dynamic heterogeneity, compare them with moment-based metrics, and analyze “Brownian yet non-Gaussian” diffusion and persistent non-Gaussian tails. In inverse-power-law glass-formers [4], I explore density–temperature scaling, crossover temperatures, and master-curve collapses that unify thermodynamics and dynamics across densities.
+I study how dynamics slow and become heterogeneous near the glass transition, and how this depends on interactions, density, and temperature. In disparate-size mixtures [1], I showed that apparent transport of slow particles can be dominated by collective motion, and that removing center-of-mass drift reveals the true localization and glassy signatures. With collaborators [2–3], I use information-theoretic measures (negentropy) of displacement distributions to define entropic timescales of dynamic heterogeneity and to analyze “Brownian yet non-Gaussian” diffusion. In inverse-power-law glass-formers [4], I explore density–temperature scaling and crossover temperatures that unify thermodynamics and dynamics across densities.
 
-Related publications:
-1. V. Vaibhav, J. Horbach, and P. Chaudhuri, J. Chem. Phys. 156, 244501 (2022).
-2. V. Vaibhav and S. Dutta, Phys. Rev. E 109, L062102 (2024).
-3. V. Vaibhav, T. Das, and S. Dutta, Annalen der Physik 538 (4), e00247 (2026).
-4. A. Singh, V. Vaibhav, S. L. Singh, and Y. Singh, Glassy dynamics, crossover temperature and density scaling in fragile glass-formers (ongoing).
+Related publications:  
+1. V. Vaibhav, J. Horbach, and P. Chaudhuri, *J. Chem. Phys.* **156**, 244501 (2022).  
+2. V. Vaibhav and S. Dutta, *Phys. Rev. E* **109**, L062102 (2024).  
+3. V. Vaibhav, T. Das, and S. Dutta, *Annalen der Physik* **538** (4), e00247 (2026).  
+4. A. Singh, V. Vaibhav, S. L. Singh, and Y. Singh, *Glassy dynamics, crossover temperature and density scaling in fragile glass-formers* (ongoing).  
