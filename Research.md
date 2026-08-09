@@ -5,64 +5,64 @@ title: Research
 
 # Research
 
-I study the physics of soft and disordered materials—glassy liquids, amorphous solids, polymers, and dense active matter—using large-scale simulations and theory, often in close collaboration with experiments. Across these areas, I am interested in how disorder, activity, and external driving shape structure, dynamics, and mechanical response in complex materials.
+I study the physics of soft and disordered materials—glassy liquids, amorphous solids, polymers, and dense active matter—using large-scale computer simulations and analytical theory, often in close collaboration with experimental groups. Across these domains, my work focuses on how structural disorder, self-propulsion, and external mechanical or thermal driving dictate macroscopic transport, relaxation, and failure modes in complex material systems.
 
 ---
 
-## Dense Active Matter: Jamming, Fluidization, Avalanches
+## Dense Active Matter: Jamming, Fluidization, and Avalanches
 
-I examine how dense active materials—made of self-propelled particles—switch between jammed, solid-like states and flowing, fluidized states. In athermal active glasses [1–3], I probe how self-propulsion destabilizes stable amorphous solids, how thermal or processing history sets the activity threshold for fluidization, and how collective rearrangements and avalanches emerge near this transition. A key goal is to connect activity-induced fluidization with yielding in passive amorphous solids, especially through shared signatures of dynamic heterogeneity.
+I examine how dense active materials—comprising self-propelled units—undergo transitions between jammed, solid-like states and flowing, fluidized states. In athermal active glasses, I investigate how microscopic activity destabilizes amorphous solids, how thermal and mechanical processing histories dictate the fluidization threshold, and how collective particle rearrangements organize into spatio-temporal avalanches near yielding. A central objective is to establish a unified statistical mechanics framework connecting activity-induced fluidization with shear-induced yielding in passive glassy solids via dynamic heterogeneity signatures.
 
-**Related publications:**  
-1. *Jamming-to-Fluidization Transition in Dense Athermal Active Matter* (in preparation, 2026).  
-2. *Avalanches in Dense Active Matter* (in preparation, 2026).  
-3. *Dynamic Heterogeneity in Active Liquids* (in preparation, 2026).  
+**Related Publications:**
+1. V. Vaibhav et al., *Jamming-to-Fluidization Transition in Dense Athermal Active Matter* (in preparation, 2026).
+2. V. Vaibhav et al., *Avalanches in Dense Active Matter* (in preparation, 2026).
+3. V. Vaibhav et al., *Dynamic Heterogeneity in Active Liquids* (in preparation, 2026).
 
-<div style="text-align: center; margin: 25px 0;">
+<div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/dense_active_matter.png' | relative_url }}" 
-       alt="AOUP vs ABP dynamics, avalanche size scaling, and activity-induced fluidization" 
-       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em><strong>Figure: Dense Active Matter Dynamics. Microscopic vector configurations of Active Ornstein-Uhlenbeck (AOUP) and Active Brownian Particles (ABP). Finite-size scaling collapse of avalanche sizes $S_{\text{RF}}$ demonstrating power-law kinetics. Spatiotemporal progression of activity-induced fluidization from localized rearrangements (blue) to bulk flowing states (red).</em>
+       alt="AOUP vs ABP dynamics, finite-size scaling collapse, and activity-induced fluidization" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+  <p style="font-size: 0.85rem; color: #555; margin-top: 10px; line-height: 1.45;">
+    <em><strong>Figure 1: Dense Active Matter Dynamics.</strong> Microscopic propulsion force configurations comparing Active Ornstein-Uhlenbeck (AOUP) and Active Brownian Particle (ABP) models. Finite-size scaling collapse of active rearrangement region sizes $S_{\text{RF}}$, demonstrating power-law kinetics ($P(S_{\text{RF}}) \sim S^{-1.387}$). Spatiotemporal evolution of activity-induced fluidization from localized rearrangements in a jammed matrix (blue) to bulk flowing states (red).</em>
   </p>
 </div>
 
 ---
 
-## Polymer Viscoelasticity from Non-affine Lattice Dynamics
+## Polymer Viscoelasticity from Non-Affine Lattice Dynamics
 
-With experimental and industrial partners, I link atomistic polymer structure to macroscopic mechanical response. Using non-affine lattice dynamics [1–3], we predict viscosity and viscoelastic moduli across many decades in frequency—from fast molecular vibrations to slow mechanical tests. This scale-bridging framework lets us interpret data on epoxy resins and glassy polymers directly in terms of microscopic structure and relaxation.
+In collaboration with experimental and industrial research partners, I link atomistic chemical structures directly to macroscopic viscoelastic properties. Utilizing Non-Affine Lattice Dynamics (NALD), we calculate frequency-dependent dynamic shear moduli ($G', G''$) and viscosity across more than twenty frequency decades—spanning high-frequency molecular vibrations down to quasi-static mechanical response. This scale-bridging theoretical framework enables direct interpretation of experimental spectra for epoxy thermosets and amorphous polymers without relying on phenomenological fit parameters.
 
-**Related publications:**  
-1. V. Vaibhav, T. W. Sirk, and A. Zaccone, *Macromolecules* **57**, 10885 (2024).  
-2. A. Singh, V. Vaibhav, T. W. Sirk, and A. Zaccone, *J. Chem. Phys.* **162**, 244504 (2025).  
-3. A. Singh, V. Vaibhav, et al., *Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades*, arXiv:2511.18406 (2026).  
+**Related Publications:**
+1. V. Vaibhav, T. W. Sirk, and A. Zaccone, *Macromolecules* **57**, 10885 (2024).
+2. A. Singh, V. Vaibhav, T. W. Sirk, and A. Zaccone, *J. Chem. Phys.* **162**, 244504 (2025).
+3. A. Singh, V. Vaibhav, T. W. Sirk, and A. Zaccone, *Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades*, arXiv:2511.18406 (2026).
 
-<div style="text-align: center; margin: 25px 0;">
+<div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/nald_viscoelasticity.png' | relative_url }}" 
-       alt="Polymer viscoelastic moduli across frequency decades via NALD" 
-       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure: Scale-bridging non-affine lattice dynamics (NALD) predicting complex (storage $G'$ and loss $G''$) moduli across many frequency decades.</em>
+       alt="Polymer viscoelastic spectra across frequency decades via NALD framework" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+  <p style="font-size: 0.85rem; color: #555; margin-top: 10px; line-height: 1.45;">
+    <em><strong>Figure 2: Non-Affine Lattice Dynamics (NALD) of Polymers.</strong> Multiscale link between chemical structure (PMMA/Epoxy) and spectrum-wide viscoelasticity. Analytical formulations for storage ($G'$) and loss ($G''$) moduli capture molecular dissipation features across decades of frequency ($\Omega$).</em>
   </p>
 </div>
 
----  
+---
 
 ## Thermal Response of Glassy Systems
 
-I study how glasses respond to temperature gradients and local heating, with implications for transport and processing. In a binary Lennard-Jones glass [1], I showed that heat and mass transport decouple near the glass transition, driving strong composition gradients (Soret effect) and nonlinear thermal responses. In ultrastable polydisperse glasses [2], I investigate how local heating nucleates a melting front, when melting proceeds via a propagating interface versus homogeneous melting, and what controls front dynamics.
+I study how glass-forming systems respond to steady-state temperature gradients and localized thermal perturbations. In binary Lennard-Jones glasses, I demonstrated that heat and mass transport strongly decouple in the supercooled regime, inducing composition gradients via thermal diffusion (the Soret effect, $S_T$). In ultrastable polydisperse glasses, I model front propagation during local heat melting to determine when melting occurs via planar interface propagation versus volumetric thermal breakdown.
 
-**Related publications:**  
-1. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Phys. Rev. E* **101**, 022605 (2020).  
+**Related Publications:**
+1. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Phys. Rev. E* **101**, 022605 (2020).
 2. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Front Propagation During Melting of Glass via Local Heating* (in preparation, 2026).
 
-<div style="text-align: center; margin: 25px 0;">
+<div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/temperature_gradient.png' | relative_url }}" 
-       alt="Soret effect and local heating response in glasses" 
-       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure: Thermal response and Soret coefficient $S_T$ behavior in supercooled glass-forming mixtures under thermal gradients.</em>
+       alt="Soret effect and local thermal response in glass-forming systems" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
+    <em><strong>Figure 3: Thermal Response and Non-Equilibrium Transport.</strong> Soret coefficient $S_T$ temperature dependence in binary mixtures under imposed thermal gradients, alongside non-equilibrium heat current profiles ($\vec{J}^z$) and localized thermal melting response.</em>
   </p>
 </div>
 
@@ -70,19 +70,19 @@ I study how glasses respond to temperature gradients and local heating, with imp
 
 ## Rheology and Failure of Glassy and Complex Liquids
 
-I analyze how amorphous solids and complex liquids deform, flow, and fail. In size-polydisperse mixtures [1], I identified a rigid network of large particles coexisting with mobile small particles, and showed how this dynamic partitioning shapes bulk rheology. In confined Poiseuille flow [2], I clarified how stress gradients, boundaries, and thermalization alter local flow relative to bulk behavior. Recent work engineers controlled spatial inhomogeneities in glasses [3] to direct shear bands and failure pathways, linking microscopic stability contrasts to macroscopic failure.
+My research addresses the physics of mechanical deformation, flow localization, and structural failure in disordered solids and complex fluids. In size-polydisperse systems, I identified a dynamic partitioning mechanism where a rigid matrix of large particles coexists with mobile small particles to govern bulk viscosity. In confined Poiseuille flows, I quantified how stress gradients and boundary walls modify local viscosity profiles relative to bulk shear. Recent work uses targeted spatial heterogeneity to direct shear band nucleation and control macroscopic failure pathways in glassy solids.
 
-**Related publications:**  
-1. V. Vaibhav and P. Chaudhuri, *Phys. Fluids* **33**, 053103 (2021).  
-2. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Soft Matter* **18**, 4427–4436 (2022).  
-3. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Phys. Rev. Materials* **7**, 095601 (2023).  
+**Related Publications:**
+1. V. Vaibhav and P. Chaudhuri, *Phys. Fluids* **33**, 053103 (2021).
+2. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Soft Matter* **18**, 4427–4436 (2022).
+3. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Phys. Rev. Materials* **7**, 095601 (2023).
 
-<div style="text-align: center; margin: 25px 0;">
+<div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/shear_rheology.png' | relative_url }}" 
-       alt="Shear deformation, Poiseuille flow, and shear banding" 
-       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure: Shear deformation, non-uniform velocity/stress profiles in Poiseuille flow, and emergent shear-banding failure pathways.</em>
+       alt="Shear deformation, Poiseuille flow, and shear banding failure" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
+    <em><strong>Figure 4: Amorphous Rheology and Shear Banding.</strong> Atomistic deformation box geometry, continuum velocity profiles in confined Poiseuille flow showing plug-like cores, and strain localization during shear band formation.</em>
   </p>
 </div>
 
@@ -90,19 +90,19 @@ I analyze how amorphous solids and complex liquids deform, flow, and fail. In si
 
 ## Supercooled Glassy Liquids and Dynamic Heterogeneity
 
-I study how dynamics slow and become heterogeneous near the glass transition, and how this depends on interactions, density, and temperature. In disparate-size mixtures [1], I showed that apparent transport of slow particles can be dominated by collective motion, and that removing center-of-mass drift reveals the true localization and glassy signatures. With collaborators [2–3], I use information-theoretic measures (negentropy) of displacement distributions to define entropic timescales of dynamic heterogeneity and to analyze “Brownian yet non-Gaussian” diffusion. In inverse-power-law glass-formers [4], I explore density–temperature scaling and crossover temperatures that unify thermodynamics and dynamics across densities.
+I analyze relaxation dynamics and dynamic heterogeneity near the glass transition across varying interaction potentials, densities, and temperatures. In disparate-size particle mixtures, I demonstrated that removing global center-of-mass drift isolates genuine spatial localization signatures from collective motion. Using information-theoretic metrics (such as negentropy of displacement distributions $G_s(x,t)$), we define entropic timescales that characterize non-Gaussian, intermittent transport in supercooled states. In soft-sphere systems, I investigate thermodynamic density scaling to establish universal crossover markers across the phase diagram.
 
-**Related publications:**  
-1. V. Vaibhav, J. Horbach, and P. Chaudhuri, *J. Chem. Phys.* **156**, 244501 (2022).  
-2. V. Vaibhav and S. Dutta, *Phys. Rev. E* **109**, L062102 (2024).  
-3. V. Vaibhav, T. Das, and S. Dutta, *Annalen der Physik* **538** (4), e00247 (2026).  
-4. A. Singh, V. Vaibhav, S. L. Singh, and Y. Singh, *Glassy Dynamics, Crossover Temperature and Density Scaling in Fragile Glass-formers* (ongoing).  
+**Related Publications:**
+1. V. Vaibhav, J. Horbach, and P. Chaudhuri, *J. Chem. Phys.* **156**, 244501 (2022).
+2. V. Vaibhav and S. Dutta, *Phys. Rev. E* **109**, L062102 (2024).
+3. V. Vaibhav, T. Das, and S. Dutta, *Annalen der Physik* **538** (4), e00247 (2026).
+4. A. Singh, V. Vaibhav, S. L. Singh, and Y. Singh, *Glassy Dynamics, Crossover Temperature and Density Scaling in Fragile Glass-formers* (in preparation).
 
-<div style="text-align: center; margin: 25px 0;">
+<div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/dynamic_heterogeneity.png' | relative_url }}" 
        alt="Mean squared displacement and self-intermediate scattering function tails" 
-       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure: Heterogeneous dynamics and non-Gaussian displacement distributions $G_s(x,t)$ in supercooled liquids.</em>
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
+    <em><strong>Figure 5: Dynamic Heterogeneity in Supercooled Liquids.</strong> Mean squared displacements and self-part of the van Hove distribution function $G_s(x,t)$, highlighting non-Gaussian exponential tails that mark intermittent, heterogeneous structural relaxation.</em>
   </p>
 </div>
