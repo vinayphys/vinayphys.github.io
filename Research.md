@@ -47,7 +47,7 @@ With experimental and industrial partners, I link atomistic polymer structure to
   </p>
 </div>
 
----
+---  
 
 ## Thermal Response of Glassy Systems
 
