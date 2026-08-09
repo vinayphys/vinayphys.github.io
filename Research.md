@@ -18,6 +18,15 @@ I examine how dense active materials—made of self-propelled particles—switch
 2. *Avalanches in Dense Active Matter* (in preparation, 2026).  
 3. *Dynamic Heterogeneity in Active Liquids* (in preparation, 2026).  
 
+<div style="text-align: center; margin: 25px 0;">
+  <img src="{{ 'images/dense_active_matter.png' | relative_url }}" 
+       alt="AOUP vs ABP dynamics, avalanche size scaling, and activity-induced fluidization" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <p style="font-size: 0.85rem; color: #555; margin-top: 10px; line-height: 1.4;">
+    <em><strong>Figure: Dense Active Matter Dynamics. Microscopic vector configurations of Active Ornstein-Uhlenbeck (AOUP) and Active Brownian Particles (ABP). Finite-size scaling collapse of avalanche sizes $S_{\text{RF}}$ demonstrating power-law kinetics. Spatiotemporal progression of activity-induced fluidization from localized rearrangements (blue) to bulk flowing states (red).</em>
+  </p>
+</div>
+
 ---
 
 ## Polymer Viscoelasticity from Non-affine Lattice Dynamics
