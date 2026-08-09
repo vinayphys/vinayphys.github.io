@@ -23,7 +23,7 @@ I examine how dense active materials—comprising self-propelled units—undergo
        alt="AOUP vs ABP dynamics, finite-size scaling collapse, and activity-induced fluidization" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #555; margin-top: 10px; line-height: 1.45;">
-    <em><strong>Figure 1: Dense Active Matter Dynamics.</strong> Microscopic propulsion force configurations comparing Active Ornstein-Uhlenbeck (AOUP) and Active Brownian Particle (ABP) models. Finite-size scaling collapse of active rearrangement region sizes $S_{\text{RF}}$, demonstrating power-law kinetics ($P(S_{\text{RF}}) \sim S^{-1.387}$). Spatiotemporal evolution of activity-induced fluidization from localized rearrangements in a jammed matrix (blue) to bulk flowing states (red).</em>
+    <em><strong>Figure 1: Dense Active Matter Dynamics.</strong> Microscopic propulsion force configurations comparing Active Ornstein-Uhlenbeck (AOUP) and Active Brownian Particle (ABP) models. Finite-size scaling collapse of active rearrangement region sizes $S_{\text{RF}}$, demonstrating power-law kinetics. Spatiotemporal evolution of activity-induced fluidization from localized rearrangements in a jammed matrix (blue) to bulk flowing states (red).</em>
   </p>
 </div>
 
@@ -43,7 +43,7 @@ In collaboration with experimental and industrial research partners, I link atom
        alt="Polymer viscoelastic spectra across frequency decades via NALD framework" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #555; margin-top: 10px; line-height: 1.45;">
-    <em><strong>Figure 2: Non-Affine Lattice Dynamics (NALD) of Polymers.</strong> Multiscale link between chemical structure (PMMA/Epoxy) and spectrum-wide viscoelasticity. Analytical formulations for storage ($G'$) and loss ($G''$) moduli capture molecular dissipation features across decades of frequency ($\Omega$).</em>
+    <em><strong>Figure 2: Non-Affine Lattice Dynamics (NALD) of Polymers.</strong> Multiscale link between chemical structure (PMMA/Epoxy) and spectrum-wide viscoelasticity. Analytical formulations for complex viscoelastic modulus $G$ (also storage $G'$ and loss $G''$ moduli) capture molecular dissipation features across many decades of frequency ($\Omega$).</em>
   </p>
 </div>
 
@@ -62,7 +62,7 @@ I study how glass-forming systems respond to steady-state temperature gradients 
        alt="Soret effect and local thermal response in glass-forming systems" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
-    <em><strong>Figure 3: Thermal Response and Non-Equilibrium Transport.</strong> Soret coefficient $S_T$ temperature dependence in binary mixtures under imposed thermal gradients, alongside non-equilibrium heat current profiles ($\vec{J}^z$) and localized thermal melting response.</em>
+    <em><strong>Figure 3: Thermal Response and Non-Equilibrium Transport.</strong> Soret coefficient $S_T$ temperature dependence in binary mixtures under imposed thermal gradients and localized thermal melting response.</em>
   </p>
 </div>
 
@@ -82,7 +82,7 @@ My research addresses the physics of mechanical deformation, flow localization, 
        alt="Shear deformation, Poiseuille flow, and shear banding failure" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
-    <em><strong>Figure 4: Amorphous Rheology and Shear Banding.</strong> Atomistic deformation box geometry, continuum velocity profiles in confined Poiseuille flow showing plug-like cores, and strain localization during shear band formation.</em>
+    <em><strong>Figure 4: Amorphous Rheology and Shear Banding.</strong> Shear deformation, non-uniform velocity/stress profiles in Poiseuille flow, and emergent shear-banding failure pathways.</em>
   </p>
 </div>
 
