@@ -29,6 +29,15 @@ With experimental and industrial partners, I link atomistic polymer structure to
 2. A. Singh, V. Vaibhav, T. W. Sirk, and A. Zaccone, *J. Chem. Phys.* **162**, 244504 (2025).  
 3. A. Singh, V. Vaibhav, et al., *Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades*, arXiv:2511.18406 (2026).  
 
+<div style="text-align: center; margin: 25px 0;">
+  <img src="{{ 'images/nald_viscoelasticity.png' | relative_url }}" 
+       alt="Polymer viscoelastic moduli across frequency decades via NALD" 
+       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
+    <em>Figure 3: Scale-bridging non-affine lattice dynamics (NALD) predicting storage ($G'$) and loss ($G''$) moduli across 20 frequency decades.</em>
+  </p>
+</div>
+
 ---
 
 ## Thermal Response of Glassy Systems
