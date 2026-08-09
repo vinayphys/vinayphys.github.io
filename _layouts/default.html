@@ -15,12 +15,35 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/files/apple-touch-icon.png' | relative_url }}" />
     <link rel="manifest" href="{{ '/files/site.webmanifest' | relative_url }}" />
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="{{ '/stylesheets/styles.css' | relative_url }}">
+    <!-- Stylesheets with Cache-Busting -->
+    <link rel="stylesheet" href="{{ '/stylesheets/styles.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     
     <!-- FontAwesome & Academicons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <!-- MathJax for LaTeX Support -->
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+      };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <!-- Google Analytics GA4 -->
+    {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
   </head>
   <body>
     <div class="wrapper">
@@ -34,8 +57,8 @@
         <!-- Navigation Buttons Bar -->
         <ul class="nav-bar">
           <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house"></i> Home</a></li>
-          <li><a href="{{ '/Research' | absolute_url }}"><i class="fa-solid fa-microscope"></i> Research</a></li>
-          <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-file-lines"></i> Publications</a></li>
+          <li><a href="{{ '/Research' | absolute_url }}"><i class="fa-solid fa-book-open"></i> Research</a></li>
+          <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-book-open"></i> Publications</a></li>
           <li><a href="{{ '/Software_development' | absolute_url }}"><i class="fa-solid fa-code"></i> Software Developments</a></li>
           <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard"></i> Presentations</a></li>
         </ul>
@@ -61,19 +84,5 @@
 
       </section>
     </div>
-
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    
-    {% if site.google_analytics %}
-      <!-- Google tag (gtag.js) -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
   </body>
 </html>
