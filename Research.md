@@ -103,6 +103,6 @@ I analyze relaxation dynamics and dynamic heterogeneity near the glass transitio
        alt="Mean squared displacement and self-intermediate scattering function tails" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
-    <em><strong>Figure 5: Dynamic Heterogeneity in Supercooled Liquids.</strong> Mean squared displacements and self-part of the van Hove distribution function $G_s(x,t)$, highlighting non-Gaussian exponential tails that mark intermittent, heterogeneous structural relaxation.</em>
+    <em><strong>Figure 5: Dynamics in Supercooled Liquids.</strong> Mean squared displacements and self-part of the van Hove distribution function $G_s(x,t)$, highlighting non-Gaussian exponential tails that mark intermittent, heterogeneous structural relaxation.</em>
   </p>
 </div>
