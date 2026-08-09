@@ -46,7 +46,16 @@ I study how glasses respond to temperature gradients and local heating, with imp
 
 **Related publications:**  
 1. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Phys. Rev. E* **101**, 022605 (2020).  
-2. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Front Propagation During Melting of Glass via Local Heating* (in preparation, 2026).  
+2. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Front Propagation During Melting of Glass via Local Heating* (in preparation, 2026).
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="{{ 'images/soret_effect.png' | relative_url }}" 
+       alt="Soret effect and local heating response in glasses" 
+       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
+    <em>Figure 1: Thermal response and Soret coefficient $S_T$ behavior in supercooled glass-forming mixtures under thermal gradients.</em>
+  </p>
+</div>
 
 ---
 
@@ -58,6 +67,15 @@ I analyze how amorphous solids and complex liquids deform, flow, and fail. In si
 1. V. Vaibhav and P. Chaudhuri, *Phys. Fluids* **33**, 053103 (2021).  
 2. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Soft Matter* **18**, 4427–4436 (2022).  
 3. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Phys. Rev. Materials* **7**, 095601 (2023).  
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="{{ 'images/shear_rheology.png' | relative_url }}" 
+       alt="Shear deformation, Poiseuille flow, and shear banding" 
+       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
+    <em>Figure 2: Microscopic boundary deformation, non-uniform velocity/stress profiles in Poiseuille flow, and emergent shear-banding failure pathways.</em>
+  </p>
+</div>
 
 ---
 
