@@ -34,7 +34,7 @@ With experimental and industrial partners, I link atomistic polymer structure to
        alt="Polymer viscoelastic moduli across frequency decades via NALD" 
        style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure 3: Scale-bridging non-affine lattice dynamics (NALD) predicting storage ($G'$) and loss ($G''$) moduli across 20 frequency decades.</em>
+    <em>Figure: Scale-bridging non-affine lattice dynamics (NALD) predicting complex (storage $G'$ and loss $G''$) moduli across many frequency decades.</em>
   </p>
 </div>
 
@@ -49,11 +49,11 @@ I study how glasses respond to temperature gradients and local heating, with imp
 2. V. Vaibhav, J. Horbach, and P. Chaudhuri, *Front Propagation During Melting of Glass via Local Heating* (in preparation, 2026).
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="{{ 'images/soret_effect.png' | relative_url }}" 
+  <img src="{{ 'images/temperature_gradient.png' | relative_url }}" 
        alt="Soret effect and local heating response in glasses" 
        style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure 1: Thermal response and Soret coefficient $S_T$ behavior in supercooled glass-forming mixtures under thermal gradients.</em>
+    <em>Figure: Thermal response and Soret coefficient $S_T$ behavior in supercooled glass-forming mixtures under thermal gradients.</em>
   </p>
 </div>
 
@@ -73,7 +73,7 @@ I analyze how amorphous solids and complex liquids deform, flow, and fail. In si
        alt="Shear deformation, Poiseuille flow, and shear banding" 
        style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure 2: Microscopic boundary deformation, non-uniform velocity/stress profiles in Poiseuille flow, and emergent shear-banding failure pathways.</em>
+    <em>Figure: Shear deformation, non-uniform velocity/stress profiles in Poiseuille flow, and emergent shear-banding failure pathways.</em>
   </p>
 </div>
 
@@ -94,6 +94,6 @@ I study how dynamics slow and become heterogeneous near the glass transition, an
        alt="Mean squared displacement and self-intermediate scattering function tails" 
        style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
-    <em>Figure 4: Intermittent particle transport and non-Gaussian displacement distributions $G_s(x,t)$ in supercooled liquids.</em>
+    <em>Figure: Heterogeneous dynamics and non-Gaussian displacement distributions $G_s(x,t)$ in supercooled liquids.</em>
   </p>
 </div>
