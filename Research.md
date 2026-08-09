@@ -61,3 +61,12 @@ I study how dynamics slow and become heterogeneous near the glass transition, an
 2. V. Vaibhav and S. Dutta, *Phys. Rev. E* **109**, L062102 (2024).  
 3. V. Vaibhav, T. Das, and S. Dutta, *Annalen der Physik* **538** (4), e00247 (2026).  
 4. A. Singh, V. Vaibhav, S. L. Singh, and Y. Singh, *Glassy Dynamics, Crossover Temperature and Density Scaling in Fragile Glass-formers* (ongoing).  
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="{{ 'images/dynamic_heterogeneity.png' | relative_url }}" 
+       alt="Mean squared displacement and self-intermediate scattering function tails" 
+       style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 8px;">
+    <em>Figure 4: Intermittent particle transport and non-Gaussian displacement distributions $G_s(x,t)$ in supercooled liquids.</em>
+  </p>
+</div>
