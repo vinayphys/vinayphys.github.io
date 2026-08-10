@@ -49,7 +49,7 @@ p {
   hyphens: auto;
 }
 
-/* Other Block Elements */
+/* Block Elements */
 ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
@@ -153,26 +153,27 @@ section {
   box-shadow: 0 4px 10px rgba(0,0,0,0.5);
 }
 
-/* Flex Container Layouts (Navbar & Social Bar) */
-header ul.nav-bar,
+/* Navigation & Social Bar Flex Containers */
+ul.nav-bar,
 .social-bar {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 10px;
   margin: 15px 0 20px;
   padding: 0;
   list-style: none;
 }
 
-header ul.nav-bar li {
+ul.nav-bar li {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-/* Shared Button Base Styles */
-header ul.nav-bar a,
-header ul.nav-bar li a,
+/* Navigation Button Base Styles */
+ul.nav-bar a,
+ul.nav-bar li a,
 .social-btn,
 .btn-link,
 .social-link {
@@ -185,20 +186,32 @@ header ul.nav-bar li a,
   border-radius: 6px;
   color: #f1f5f9;
   font-size: 0.95rem;
+  font-weight: 500;
   text-decoration: none;
   white-space: nowrap;
-  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Red Highlight Hover on All Buttons */
-header ul.nav-bar a:hover,
-header ul.nav-bar li a:hover,
+/* Hover & Focus State */
+ul.nav-bar a:hover,
+ul.nav-bar li a:hover,
 .social-btn:hover,
 .btn-link:hover,
 .social-link:hover {
   background-color: #334155;
   border-color: #EF4444; /* Crimson hover border */
   color: #ffffff;
+}
+
+/* Active Highlight Button State */
+.nav-bar a.active {
+  color: #ffffff !important;
+  background-color: #EF4444 !important; /* Crimson background highlight */
+  border-color: #EF4444 !important;
+  font-weight: bold;
+  box-shadow: 0 0 10px rgba(239, 68, 68, 0.6);
+  border-radius: 6px;
+  pointer-events: none; /* Disables clicking on active link */
 }
 
 /* Media & Dividers */
@@ -275,14 +288,14 @@ th {
     padding: 10px;
   }
   
-  header ul.nav-bar,
+  ul.nav-bar,
   .social-bar {
     flex-direction: column;
     gap: 6px;
   }
   
-  header ul.nav-bar a,
-  header ul.nav-bar li a,
+  ul.nav-bar a,
+  ul.nav-bar li a,
   .social-btn,
   .btn-link,
   .social-link {
