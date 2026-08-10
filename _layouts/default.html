@@ -51,21 +51,43 @@
       <!-- Top Section -->
       <header class="top-header-title">
         <h1>
-          <a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+          <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
         </h1>
 
-        <!-- Navigation Buttons Bar -->
-        <ul class="nav-bar">
-          <li><a href="{{ '/' | absolute_url }}"><i class="fa-solid fa-house"></i> Home</a></li>
-          <li><a href="{{ '/Research' | absolute_url }}"><i class="fa-solid fa-microscope"></i> Research</a></li>
-          <li><a href="{{ '/Publications' | absolute_url }}"><i class="fa-solid fa-file-lines"></i> Publications</a></li>
-          <li><a href="{{ '/Software_development' | absolute_url }}"><i class="fa-solid fa-code"></i> Software Developments</a></li>
-          <li><a href="https://speakerdeck.com/vinayphys" target="_blank"><i class="fa-solid fa-person-chalkboard"></i> Presentations</a></li>
-        </ul>
+        <!-- Navigation Bar -->
+        <nav aria-label="Primary navigation">
+          <ul class="nav-bar">
+            <li>
+              <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">
+                <i class="fa-solid fa-house" aria-hidden="true"></i> Home
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/Research' | relative_url }}" class="{% if page.url contains '/Research' or page.url contains '/research' %}active{% endif %}">
+                <i class="fa-solid fa-microscope" aria-hidden="true"></i> Research
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/Publications' | relative_url }}" class="{% if page.url contains '/Publications' or page.url contains '/publications' %}active{% endif %}">
+                <i class="fa-solid fa-file-lines" aria-hidden="true"></i> Publications
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/Software_development' | relative_url }}" class="{% if page.url contains '/Software_development' or page.url contains '/software_development' %}active{% endif %}">
+                <i class="fa-solid fa-code" aria-hidden="true"></i> Software Developments
+              </a>
+            </li>
+            <li>
+              <a href="https://speakerdeck.com/vinayphys" target="_blank" rel="noopener noreferrer">
+                <i class="fa-solid fa-person-chalkboard" aria-hidden="true"></i> Presentations
+              </a>
+            </li>
+          </ul>
+        </nav>
       </header>
 
       <section>
-        <!-- Green Subtitle Card -->
+        <!-- Subtitle Card -->
         <div class="subtitle-box">
           <h3>Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics</h3>
           <p>
@@ -73,13 +95,13 @@
           </p>
         </div>
 
-        <!-- Side-by-Side Images Header -->
+        <!-- Media Header -->
         <div class="media-header">
           <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
           <img src="{{ 'images/abp.gif' | relative_url }}" class="gif-banner" alt="Animation of active amorphous solids simulation"/>
         </div>
 
-        <!-- Main Page Content -->
+        <!-- Main Content -->
         {{ content }}
 
       </section>
