@@ -1,90 +1,235 @@
 ---
+layout: default
 title: Publications
 ---
 
-# Publications  
+# Publications
+
+<div class="social-bar" style="margin-bottom: 25px;">
+  <a href="https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="social-btn">
+    <i class="ai ai-google-scholar"></i> Google Scholar
+  </a>
+  <a href="https://www.researchgate.net/profile/Vinay_Vaibhav" target="_blank" rel="noopener noreferrer" class="social-btn">
+    <i class="ai ai-researchgate"></i> ResearchGate
+  </a>
+  <a href="https://orcid.org" target="_blank" rel="noopener noreferrer" class="social-btn">
+    <i class="ai ai-orcid"></i> ORCID
+  </a>
+</div>
+
 ---
-[Google-Scholar](https://scholar.google.com/citations?user=AicxZvsAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Vinay_Vaibhav)  
 
-## Ongoing:  
+## Manuscripts & Preprints
 
-Jamming in dense active matter  
-Vinay Vaibhav, Pinaki Chaudhuri, and Peter Sollich. 
+<div class="pub-card">
+  <div class="pub-title">Theory of distribution skewness effect on polydisperse random close packing</div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Carmine Anzivino, and Alessio Zaccone</div>
+  <div class="pub-journal"><em>arXiv Preprint</em> (2026)</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2605.30185" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="ai ai-arxiv"></i> arXiv:2605.30185</a>
+  </div>
+</div>
 
-Avalanches in dense active matter  
-Vinay Vaibhav, and Peter Sollich.  
+<div class="pub-card">
+  <div class="pub-title">Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades</div>
+  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W. Sirk, and Alessio Zaccone</div>
+  <div class="pub-journal"><em>arXiv Preprint</em> (2025)</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2511.18406" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="ai ai-arxiv"></i> arXiv:2511.18406</a>
+  </div>
+</div>
 
-Local heating of glassy matter  
-Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri.  
+<div class="pub-card">
+  <div class="pub-title">Jamming in dense active matter</div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Pinaki Chaudhuri, and Peter Sollich</div>
+  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
+</div>
 
-Microtubule network as amorphous matter  
-Claudia Marcelli, Raffaele Mendozza, Vinay Vaibhav, Peter Sollich, and Sarah Köster.  
+<div class="pub-card">
+  <div class="pub-title">Avalanches in dense active matter</div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong> and Peter Sollich</div>
+  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
+</div>
 
-Slowing down of dynamics and the density scaling in soft spheres glass formers  
-Ankit Singh, Vinay Vaibhav, Swarn Lata Singh, and Yashwant Singh. 
+<div class="pub-card">
+  <div class="pub-title">Local heating of glassy matter</div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
+  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
+</div>
 
-Theory of distribution skewness effect on polydisperse random close packing  
-Vinay Vaibhav, Carmine Anzivino, and Alessio Zaccone.  
-[arXiv:2605.30185](https://arxiv.org/abs/2605.30185) 
+<div class="pub-card">
+  <div class="pub-title">Microtubule network as amorphous matter</div>
+  <div class="pub-authors">Claudia Marcelli, Raffaele Mendozza, <strong>Vinay Vaibhav</strong>, Peter Sollich, and Sarah Köster</div>
+  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
+</div>
 
-Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades  
-Ankit Singh, Vinay Vaibhav, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W Sirk, and Alessio Zaccone.  
-[arXiv:2511.18406](https://arxiv.org/abs/2511.18406)
+<div class="pub-card">
+  <div class="pub-title">Slowing down of dynamics and the density scaling in soft spheres glass formers</div>
+  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Swarn Lata Singh, and Yashwant Singh</div>
+  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
+</div>
 
-## Published:
-[Persistently Non-Gaussian Metastable Liquids](https://doi.org/10.1002/andp.202500247)  
-Vinay Vaibhav, Tamoghna Das, and Suman Dutta  
-Annalen der Physik 538 (4), e00247 (2026).
-
-[Viscosity of polymer melts using non-affine theory based on vibrational modes](https://doi.org/10.1063/5.0272171)  
-Ankit Singh, Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
-J. Chem. Phys. 162, 244504 (2025).  
-
-[Experimental identification of topological defects in 2D colloidal glass](https://rdcu.be/d5pSW)  
-Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, and Alessio Zaccone  
-Nature Communications 16, 55 (2025).  
-
-[Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory](https://doi.org/10.1021/acs.macromol.4c01360)  
-Vinay Vaibhav, Timothy W. Sirk, and Alessio Zaccone  
-Macromolecules 57(23), 10885 (2024).  
-
-[Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid](https://doi.org/10.1103/PhysRevE.109.L062102)  
-Vinay Vaibhav, and Suman Dutta  
-Phys. Rev. E 109, L062102 (2024).  
-
-[Controlled Mechanical Failure in Heterogeneous Glasses](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601)   
-Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
-Phys. Rev. Materials 7, 095601 (2023).
-
-[Rheological response of a glass-forming liquid having large bidispersity](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K)  
-Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
-Soft Matter 18, 4427-4436 (2022).  
-
-[Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio](https://aip.scitation.org/doi/10.1063/5.0090330)  
-Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
-J. Chem. Phys. 156 (24), 244501 (2022).  
-
-[Influence of thermalisation protocol on Poiseuille flow of confined soft glass](https://aip.scitation.org/doi/pdf/10.1063/5.0045302)  
-Vinay Vaibhav, and Pinaki Chaudhuri  
-Phys. of Fluids 33, 053103 (2021).
-
-[Response of glassy liquids to thermal gradients](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605)  
-Vinay Vaibhav, Juergen Horbach, and Pinaki Chaudhuri  
-Phys. Rev. E 101, 022605 (2020).
-
-[Equilibrium properties of blackbody radiation with an ultraviolet energy cut-off](https://doi.org/10.1016/j.aop.2017.08.004)  
-Dheeraj Kumar Mishra, Nitin Chandra, and Vinay Vaibhav  
-Annals of Phys. 385, 605 (2017).
-
-
-# News Coverage  
 ---
-[Unveiling Information Hidden in Glassy Liquids](https://synapsebyicts.blog/2024/06/07/unveiling-information-hidden-in-glassy-liquids/)  
 
-[A new atomistic route to viscosity—even near the glass transition](https://phys.org/news/2025-06-atomistic-route-viscosity-glass-transition.html)  
+## Peer-Reviewed Journal Articles
 
-[Physicists experimentally observe topological defects in glasses for the first time](https://phys.org/news/2025-01-physicists-experimentally-topological-defects-glasses.html)  
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://doi.org/10.1002/andp.202500247" target="_blank" rel="noopener noreferrer">Persistently Non-Gaussian Metastable Liquids</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Tamoghna Das, and Suman Dutta</div>
+  <div class="pub-journal"><em>Annalen der Physik</em> <strong>538</strong> (4), e00247 (2026)</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1002/andp.202500247" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
 
-[Scientists solve one of the hardest problems in the computational atomic-scale mechanics of materials](https://phys.org/news/2024-12-scientists-hardest-problems-atomic-scale.html)  
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://doi.org/10.1063/5.0272171" target="_blank" rel="noopener noreferrer">Viscosity of polymer melts using non-affine theory based on vibrational modes</a>
+  </div>
+  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Timothy W. Sirk, and Alessio Zaccone</div>
+  <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>162</strong>, 244504 (2025)</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1063/5.0272171" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
 
-[Condensed matter physics: topological defects discovered in amorphous solids](https://lastatalenews.unimi.it/condensed-matter-physics-topological-defects-discovered-amorphous-solids)
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://rdcu.be/d5pSW" target="_blank" rel="noopener noreferrer">Experimental identification of topological defects in 2D colloidal glass</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, and Alessio Zaccone</div>
+  <div class="pub-journal"><em>Nature Communications</em> <strong>16</strong>, 55 (2025)</div>
+  <div class="pub-links">
+    <a href="https://rdcu.be/d5pSW" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Article Link</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://doi.org/10.1021/acs.macromol.4c01360" target="_blank" rel="noopener noreferrer">Time-scale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Timothy W. Sirk, and Alessio Zaccone</div>
+  <div class="pub-journal"><em>Macromolecules</em> <strong>57</strong> (23), 10885 (2024)</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1021/acs.macromol.4c01360" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://doi.org/10.1103/PhysRevE.109.L062102" target="_blank" rel="noopener noreferrer">Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong> and Suman Dutta</div>
+  <div class="pub-journal"><em>Physical Review E</em> <strong>109</strong>, L062102 (2024)</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1103/PhysRevE.109.L062102" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601" target="_blank" rel="noopener noreferrer">Controlled Mechanical Failure in Heterogeneous Glasses</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
+  <div class="pub-journal"><em>Physical Review Materials</em> <strong>7</strong>, 095601 (2023)</div>
+  <div class="pub-links">
+    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K" target="_blank" rel="noopener noreferrer">Rheological response of a glass-forming liquid having large bidispersity</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
+  <div class="pub-journal"><em>Soft Matter</em> <strong>18</strong>, 4427–4436 (2022)</div>
+  <div class="pub-links">
+    <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://aip.scitation.org/doi/10.1063/5.0090330" target="_blank" rel="noopener noreferrer">Finite-size effects in the diffusion dynamics of a glass-forming binary mixture with large size ratio</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
+  <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>156</strong> (24), 244501 (2022)</div>
+  <div class="pub-links">
+    <a href="https://aip.scitation.org/doi/10.1063/5.0090330" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://aip.scitation.org/doi/pdf/10.1063/5.0045302" target="_blank" rel="noopener noreferrer">Influence of thermalisation protocol on Poiseuille flow of confined soft glass</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong> and Pinaki Chaudhuri</div>
+  <div class="pub-journal"><em>Physics of Fluids</em> <strong>33</strong>, 053103 (2021)</div>
+  <div class="pub-links">
+    <a href="https://aip.scitation.org/doi/pdf/10.1063/5.0045302" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605" target="_blank" rel="noopener noreferrer">Response of glassy liquids to thermal gradients</a>
+  </div>
+  <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
+  <div class="pub-journal"><em>Physical Review E</em> <strong>101</strong>, 022605 (2020)</div>
+  <div class="pub-links">
+    <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <a href="https://doi.org/10.1016/j.aop.2017.08.004" target="_blank" rel="noopener noreferrer">Equilibrium properties of blackbody radiation with an ultraviolet energy cut-off</a>
+  </div>
+  <div class="pub-authors">Dheeraj Kumar Mishra, Nitin Chandra, and <strong>Vinay Vaibhav</strong></div>
+  <div class="pub-journal"><em>Annals of Physics</em> <strong>385</strong>, 605 (2017)</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1016/j.aop.2017.08.004" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
+  </div>
+</div>
+
+---
+
+## Selected Media & News Coverage
+
+<ul style="list-style: none; padding-left: 0;">
+  <li style="margin-bottom: 12px;">
+    <a href="https://phys.org/news/2025-06-atomistic-route-viscosity-glass-transition.html" target="_blank" rel="noopener noreferrer" class="btn-link" style="width: 100%; justify-content: flex-start;">
+      <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>Phys.org:</strong> A new atomistic route to viscosity—even near the glass transition
+    </a>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <a href="https://phys.org/news/2025-01-physicists-experimentally-topological-defects-glasses.html" target="_blank" rel="noopener noreferrer" class="btn-link" style="width: 100%; justify-content: flex-start;">
+      <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>Phys.org:</strong> Physicists experimentally observe topological defects in glasses for the first time
+    </a>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <a href="https://phys.org/news/2024-12-scientists-hardest-problems-atomic-scale.html" target="_blank" rel="noopener noreferrer" class="btn-link" style="width: 100%; justify-content: flex-start;">
+      <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>Phys.org:</strong> Scientists solve one of the hardest problems in atomic-scale mechanics of materials
+    </a>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <a href="https://lastatalenews.unimi.it/condensed-matter-physics-topological-defects-discovered-amorphous-solids" target="_blank" rel="noopener noreferrer" class="btn-link" style="width: 100%; justify-content: flex-start;">
+      <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>La Statale News:</strong> Condensed matter physics: topological defects discovered in amorphous solids
+    </a>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <a href="https://synapsebyicts.blog/2024/06/07/unveiling-information-hidden-in-glassy-liquids/" target="_blank" rel="noopener noreferrer" class="btn-link" style="width: 100%; justify-content: flex-start;">
+      <i class="fa-solid fa-blog" aria-hidden="true"></i> <strong>ICTS Synapse Blog:</strong> Unveiling Information Hidden in Glassy Liquids
+    </a>
+  </li>
+</ul>
+
+---
+
+<div style="text-align: right; margin-top: 40px;">
+  <a href="#top" class="social-btn">
+    <i class="fa-solid fa-arrow-up" aria-hidden="true"></i> Back to Top
+  </a>
+</div>
