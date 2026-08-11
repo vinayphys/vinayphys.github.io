@@ -314,3 +314,58 @@ th {
     font-size: 12pt;
   }
 }
+
+/* Smooth Scrolling for Anchor Links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Back to Top Floating Button Styles */
+#back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 16px;
+  background-color: #1e293b;
+  color: #f1f5f9;
+  border: 1px solid #334155;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all 0.25s ease-in-out;
+  z-index: 1000;
+}
+
+/* Hover State matching your Crimson Theme */
+#back-to-top:hover {
+  background-color: #EF4444;
+  border-color: #EF4444;
+  color: #ffffff;
+  box-shadow: 0 0 12px rgba(239, 68, 68, 0.6);
+  transform: translateY(-2px);
+}
+
+/* Display Button on Scroll */
+#back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* Mobile Adjustments */
+@media screen and (max-width: 600px) {
+  #back-to-top {
+    bottom: 15px;
+    right: 15px;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+}
