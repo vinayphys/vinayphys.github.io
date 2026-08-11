@@ -79,7 +79,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Tamoghna Das, and Suman Dutta</div>
   <div class="pub-journal"><em>Annalen der Physik</em> <strong>538</strong> (4), e00247 (2026)</div>
-  <div class="pub-links">
 </div>
 
 <div class="pub-card">
@@ -88,7 +87,6 @@ title: Publications
   </div>
   <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Timothy W. Sirk, and Alessio Zaccone</div>
   <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>162</strong>, 244504 (2025)</div>
-  <div class="pub-links">
 </div>
 
 <div class="pub-card">
