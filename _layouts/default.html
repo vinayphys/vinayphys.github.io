@@ -106,5 +106,24 @@
 
       </section>
     </div>
+    
+    <!-- Back to Top Floating Button -->
+    <a href="#top" id="back-to-top" aria-label="Back to top" title="Back to top">
+      <i class="fa-solid fa-arrow-up" aria-hidden="true"></i> Top
+    </a>
+
+    <!-- Smooth Scrolling Script -->
+    <script>
+      const backToTop = document.getElementById('back-to-top');
+
+      window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) {
+          backToTop.classList.add('visible');
+        } else {
+          backToTop.classList.remove('visible');
+        }
+      });
+    </script>
+    
   </body>
 </html>
