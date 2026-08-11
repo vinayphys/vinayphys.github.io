@@ -163,29 +163,29 @@ title: Publications
 
 ## Selected Media & News Coverage
 
-<ul style="list-style: none; padding-left: 0;">
+<ul class="media-list" style="list-style: none; padding-left: 0;">
   <li style="margin-bottom: 12px;">
-    <a href="https://phys.org/news/2025-06-atomistic-route-viscosity-glass-transition.html" target="_blank" rel="noopener noreferrer" style="color: #f8fafc;">
+    <a href="https://phys.org/news/2025-06-atomistic-route-viscosity-glass-transition.html" target="_blank" rel="noopener noreferrer">
       <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>Phys.org:</strong> A new atomistic route to viscosity—even near the glass transition
     </a>
   </li>
   <li style="margin-bottom: 12px;">
-    <a href="https://phys.org/news/2025-01-physicists-experimentally-topological-defects-glasses.html" target="_blank" rel="noopener noreferrer" style="color: #f8fafc;">
+    <a href="https://phys.org/news/2025-01-physicists-experimentally-topological-defects-glasses.html" target="_blank" rel="noopener noreferrer">
       <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>Phys.org:</strong> Physicists experimentally observe topological defects in glasses for the first time
     </a>
   </li>
   <li style="margin-bottom: 12px;">
-    <a href="https://phys.org/news/2024-12-scientists-hardest-problems-atomic-scale.html" target="_blank" rel="noopener noreferrer" style="color: #f8fafc;">
+    <a href="https://phys.org/news/2024-12-scientists-hardest-problems-atomic-scale.html" target="_blank" rel="noopener noreferrer">
       <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>Phys.org:</strong> Scientists solve one of the hardest problems in atomic-scale mechanics of materials
     </a>
   </li>
   <li style="margin-bottom: 12px;">
-    <a href="https://lastatalenews.unimi.it/condensed-matter-physics-topological-defects-discovered-amorphous-solids" target="_blank" rel="noopener noreferrer" style="color: #f8fafc;">
+    <a href="https://lastatalenews.unimi.it/condensed-matter-physics-topological-defects-discovered-amorphous-solids" target="_blank" rel="noopener noreferrer">
       <i class="fa-solid fa-newspaper" aria-hidden="true"></i> <strong>La Statale News:</strong> Condensed matter physics: topological defects discovered in amorphous solids
     </a>
   </li>
   <li style="margin-bottom: 12px;">
-    <a href="https://synapsebyicts.blog/2024/06/07/unveiling-information-hidden-in-glassy-liquids/" target="_blank" rel="noopener noreferrer" style="color: #f8fafc;">
+    <a href="https://synapsebyicts.blog/2024/06/07/unveiling-information-hidden-in-glassy-liquids/" target="_blank" rel="noopener noreferrer">
       <i class="fa-solid fa-blog" aria-hidden="true"></i> <strong>ICTS Synapse Blog:</strong> Unveiling Information Hidden in Glassy Liquids
     </a>
   </li>
