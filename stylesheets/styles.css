@@ -7,6 +7,7 @@ body {
   font-weight: 400;
   margin: 0 auto;
   word-wrap: break-word;
+  overflow-x: hidden;
 }
 
 .wrapper {
@@ -173,7 +174,6 @@ ul.nav-bar li {
 
 /* Navigation Button Base Styles */
 ul.nav-bar a,
-ul.nav-bar li a,
 .social-btn,
 .btn-link,
 .social-link {
@@ -194,7 +194,6 @@ ul.nav-bar li a,
 
 /* Hover & Focus State */
 ul.nav-bar a:hover,
-ul.nav-bar li a:hover,
 .social-btn:hover,
 .btn-link:hover,
 .social-link:hover {
@@ -295,7 +294,6 @@ html {
   z-index: 1000;
 }
 
-/* Hover State matching your Crimson Theme */
 #back-to-top:hover {
   background-color: #EF4444;
   border-color: #EF4444;
@@ -304,7 +302,6 @@ html {
   transform: translateY(-2px);
 }
 
-/* Display Button on Scroll */
 #back-to-top.visible {
   opacity: 1;
   visibility: visible;
@@ -323,21 +320,7 @@ html.is-animating .transition-fade {
   transform: translateY(10px);
 }
 
-/* Publication Card Layout */
-.pub-card {
-  background-color: #0f172a;
-  border: 1px solid #334155;
-  border-radius: 8px;
-  padding: 16px 20px;
-  margin-bottom: 20px;
-  transition: border-color 0.2s ease, transform 0.2s ease;
-}
-
-.pub-card:hover {
-  border-color: #EF4444;
-  transform: translateY(-2px);
-}
-
+/* Publication Title Styling */
 .pub-title {
   font-size: 1.05rem;
   font-weight: 700;
@@ -360,7 +343,7 @@ html.is-animating .transition-fade {
 }
 
 .pub-authors strong {
-  color: #EF4444; /* Highlight your name in crimson */
+  color: #EF4444; /* Highlight name in crimson */
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -397,6 +380,16 @@ html.is-animating .transition-fade {
   background-color: #334155;
   border-color: #EF4444;
   color: #ffffff !important;
+}
+
+/* Media & News Link Colors */
+.media-list a {
+  color: #f8fafc;
+  transition: color 0.2s ease;
+}
+
+.media-list a:hover {
+  color: #EF4444;
 }
 
 /* Print Styles */
@@ -447,19 +440,18 @@ html.is-animating .transition-fade {
     gap: 8px;
     padding: 4px 5px 8px 5px;
     margin: 8px 0 0 0;
-    scrollbar-width: none; /* Hide Firefox scrollbar */
+    scrollbar-width: none;
   }
 
   ul.nav-bar::-webkit-scrollbar {
-    display: none; /* Hide Chrome/Safari scrollbar */
+    display: none;
   }
 
   ul.nav-bar li {
     flex: 0 0 auto;
   }
 
-  ul.nav-bar a,
-  ul.nav-bar li a {
+  ul.nav-bar a {
     padding: 7px 12px;
     font-size: 0.85rem;
     border-radius: 20px;
@@ -472,7 +464,6 @@ html.is-animating .transition-fade {
     gap: 12px;
   }
 
-  /* Keep profile photo rectangular on mobile */
   .media-header .profile-photo {
     width: 160px;
     height: auto;
@@ -481,11 +472,6 @@ html.is-animating .transition-fade {
 
   .media-header .gif-banner {
     max-height: 160px;
-  }
-
-  /* Cards & Buttons on Mobile */
-  .pub-card {
-    padding: 12px 14px;
   }
 
   .pub-links {
@@ -497,29 +483,10 @@ html.is-animating .transition-fade {
     font-size: 0.78rem;
   }
 
-  /* Fix News Coverage Buttons Overflow on Mobile */
-  .btn-link {
-    white-space: normal !important; /* Allow multi-line wrapping */
-    word-break: break-word;
-    text-align: left;
-    padding: 10px 14px;
-    line-height: 1.4;
-  }
-
   #back-to-top {
     bottom: 15px;
     right: 15px;
     padding: 8px 12px;
     font-size: 0.8rem;
   }
-}
-
-/* Media & News Link Colors */
-.media-list a {
-  color: #f8fafc;
-  transition: color 0.2s ease;
-}
-
-.media-list a:hover {
-  color: #EF4444;
 }
