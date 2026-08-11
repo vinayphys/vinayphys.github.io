@@ -22,7 +22,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-    <!-- MathJax for LaTeX Support -->
+    <!-- Conditional MathJax -->
+    {% if page.use_math or page.url contains '/Research' or page.url contains '/research' %}
     <script>
       MathJax = {
         tex: {
@@ -32,6 +33,7 @@
       };
     </script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    {% endif %}
 
     <!-- Google Analytics GA4 -->
     {% if site.google_analytics %}
