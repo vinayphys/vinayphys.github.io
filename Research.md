@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+use_math: true
 ---
 
 # Research
