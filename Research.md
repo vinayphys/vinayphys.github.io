@@ -20,7 +20,9 @@ I examine how dense active materials—comprising self-propelled units—undergo
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/dense_active_matter.png' | relative_url }}" 
-       alt="AOUP vs ABP dynamics, finite-size scaling collapse, and activity-induced fluidization" 
+       alt="AOUP vs ABP dynamics, finite-size scaling collapse, and activity-induced fluidization"
+       loading="lazy" 
+       decoding="async"
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #555; margin-top: 10px; line-height: 1.45;">
     <em><strong>Figure 1: Dense Active Matter Dynamics.</strong> Microscopic propulsion force configurations comparing Active Ornstein-Uhlenbeck (AOUP) and Active Brownian Particle (ABP) models. Finite-size scaling collapse of active rearrangement region sizes $S_{\text{RF}}$, demonstrating power-law kinetics. Spatiotemporal evolution of activity-induced fluidization from localized rearrangements in a jammed matrix (blue) to bulk flowing states (red).</em>
@@ -40,7 +42,9 @@ In collaboration with experimental and industrial research partners, I link atom
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/nald_viscoelasticity.png' | relative_url }}" 
-       alt="Polymer viscoelastic spectra across frequency decades via NALD framework" 
+       alt="Polymer viscoelastic spectra across frequency decades via NALD framework"
+       loading="lazy" 
+       decoding="async"
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #555; margin-top: 10px; line-height: 1.45;">
     <em><strong>Figure 2: Non-Affine Lattice Dynamics (NALD) of Polymers.</strong> Multiscale link between chemical structure (PMMA/Epoxy) and spectrum-wide viscoelasticity. Analytical formulations for complex viscoelastic modulus $G$ (also storage $G'$ and loss $G''$ moduli) capture molecular dissipation features across many decades of frequency ($\Omega$).</em>
@@ -59,7 +63,9 @@ I study how glass-forming systems respond to steady-state temperature gradients 
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/temperature_gradient.png' | relative_url }}" 
-       alt="Soret effect and local thermal response in glass-forming systems" 
+       alt="Soret effect and local thermal response in glass-forming systems"
+       loading="lazy" 
+       decoding="async"
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
     <em><strong>Figure 3: Thermal Response and Non-Equilibrium Transport.</strong> Soret coefficient $S_T$ temperature dependence in binary mixtures under imposed thermal gradients and localized thermal melting response.</em>
@@ -79,7 +85,9 @@ My research addresses the physics of mechanical deformation, flow localization, 
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/shear_rheology.png' | relative_url }}" 
-       alt="Shear deformation, Poiseuille flow, and shear banding failure" 
+       alt="Shear deformation, Poiseuille flow, and shear banding failure"
+       loading="lazy" 
+       decoding="async"
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
     <em><strong>Figure 4: Amorphous Rheology and Shear Banding.</strong> Shear deformation, non-uniform velocity/stress profiles in Poiseuille flow, and emergent shear-banding failure pathways.</em>
@@ -100,7 +108,9 @@ I analyze relaxation dynamics and dynamic heterogeneity near the glass transitio
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="{{ 'images/dynamic_heterogeneity.png' | relative_url }}" 
-       alt="Mean squared displacement and self-intermediate scattering function tails" 
+       alt="Mean squared displacement and self-intermediate scattering function tails"
+       loading="lazy" 
+       decoding="async"
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
   <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
     <em><strong>Figure 5: Dynamics in Supercooled Liquids.</strong> Mean squared displacements and self-part of the van Hove distribution function $G_s(x,t)$, highlighting non-Gaussian exponential tails that mark intermittent, heterogeneous structural relaxation.</em>
