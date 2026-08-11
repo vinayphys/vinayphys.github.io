@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-    <!-- Conditional MathJax -->
+    <!-- Conditional MathJax Configuration -->
     {% if page.use_math %}
     <script>
       MathJax = {
@@ -47,10 +47,10 @@
     </script>
     {% endif %}
   </head>
-  <body>
+  <body id="top">
     <div class="wrapper">
       
-      <!-- Top Section -->
+      <!-- Top Section (Static - Never Reloads) -->
       <header class="top-header-title">
         <h1>
           <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
@@ -88,27 +88,29 @@
         </nav>
       </header>
 
-      <section>
-        <!-- Subtitle Card -->
-        <div class="subtitle-box">
-          <h3>Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics</h3>
-          <p>
-            Georg-August-Universität Göttingen <span>|</span> Institut für Theoretische Physik
-          </p>
-        </div>
+      <!-- Subtitle Card (Static - Never Reloads) -->
+      <div class="subtitle-box">
+        <h3>Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics</h3>
+        <p>
+          Georg-August-Universität Göttingen <span>|</span> Institut für Theoretische Physik
+        </p>
+      </div>
 
-        <!-- Media Header -->
-        <div class="media-header">
-          <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
-          <video autoplay loop muted playsinline class="gif-banner" alt="Animation of active amorphous solids simulation">
+      <!-- Media Header (Static - Video plays continuously) -->
+      <div class="media-header">
+        <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
+        <video autoplay loop muted playsinline class="gif-banner" alt="Animation of active amorphous solids simulation">
           <source src="{{ 'images/abp.mp4' | relative_url }}" type="video/mp4">
-          </video>
-        </div>
+        </video>
+      </div>
 
-        <!-- Main Content -->
-        {{ content }}
+      <!-- Main Dynamic Content Container -->
+      <main id="swup" class="transition-fade">
+        <section>
+          {{ content }}
+        </section>
+      </main>
 
-      </section>
     </div>
     
     <!-- Back to Top Floating Button -->
@@ -116,16 +118,42 @@
       <i class="fa-solid fa-arrow-up" aria-hidden="true"></i> Top
     </a>
 
-    <!-- Smooth Scrolling Script -->
+    <!-- Scripts: Smooth Scroll & Swup Transitions -->
+    <script src="https://unpkg.com/swup@4"></script>
     <script>
+      // Back to top scroll handler
       const backToTop = document.getElementById('back-to-top');
-
       window.addEventListener('scroll', () => {
         if (window.scrollY > 300) {
           backToTop.classList.add('visible');
         } else {
           backToTop.classList.remove('visible');
         }
+      });
+
+      // Initialize Swup SPA Transitions
+      const swup = new Swup();
+
+      swup.hooks.on('page:view', () => {
+        // 1. Update Active Navigation Link State
+        const currentPath = window.location.pathname.toLowerCase();
+        document.querySelectorAll('.nav-bar a').forEach(link => {
+          const href = link.getAttribute('href').toLowerCase();
+          if ((href === '/' && (currentPath === '/' || currentPath === '/index.html')) ||
+              (href !== '/' && currentPath.includes(href))) {
+            link.classList.add('active');
+          } else {
+            link.classList.remove('active');
+          }
+        });
+
+        // 2. Re-render MathJax LaTeX formulas IF MathJax is loaded on the current page
+        if (window.MathJax && typeof window.MathJax.typesetPromise === 'function') {
+          window.MathJax.typesetPromise();
+        }
+
+        // 3. Reset scroll position to top
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     </script>
     
