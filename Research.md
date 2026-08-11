@@ -121,4 +121,5 @@ I analyze relaxation dynamics and dynamic heterogeneity near the glass transitio
   <p style="font-size: 0.85rem; color: #666; margin-top: 10px; line-height: 1.45;">
     <em><strong>Figure 5: Dynamics in Supercooled Liquids.</strong> Mean squared displacements and self-part of the van Hove distribution function $G_s(x,t)$, highlighting non-Gaussian exponential tails that mark intermittent, heterogeneous structural relaxation.</em>
   </p>
-</div>
+</div>   
+
