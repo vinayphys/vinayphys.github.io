@@ -513,3 +513,13 @@ html.is-animating .transition-fade {
     font-size: 0.8rem;
   }
 }
+
+/* Media & News Link Colors */
+.media-list a {
+  color: #f8fafc;
+  transition: color 0.2s ease;
+}
+
+.media-list a:hover {
+  color: #EF4444;
+}
