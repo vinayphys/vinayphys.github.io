@@ -100,7 +100,9 @@
         <!-- Media Header -->
         <div class="media-header">
           <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
-          <img src="{{ 'images/abp.gif' | relative_url }}" class="gif-banner" alt="Animation of active amorphous solids simulation"/>
+          <video autoplay loop muted playsinline class="gif-banner" alt="Animation of active amorphous solids simulation">
+          <source src="{{ 'images/abp.mp4' | relative_url }}" type="video/mp4">
+          </video>
         </div>
 
         <!-- Main Content -->
