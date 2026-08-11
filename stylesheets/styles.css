@@ -369,3 +369,15 @@ html {
     font-size: 0.8rem;
   }
 }
+
+/* Swup Page Transition Animations */
+.transition-fade {
+  transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+html.is-animating .transition-fade {
+  opacity: 0;
+  transform: translateY(10px);
+}
