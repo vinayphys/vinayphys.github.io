@@ -50,7 +50,7 @@
   <body id="top">
     <div class="wrapper">
       
-      <!-- Top Section (Sticky Navigation Header - Never Reloads) -->
+      <!-- Top Section (Sticky Navigation Header - Persistent Across Pages) -->
       <header class="top-header-title">
         <h1>
           <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
@@ -88,25 +88,24 @@
         </nav>
       </header>
 
-      <!-- Main Dynamic Content Container -->
+      <!-- Subtitle Card (Persistent - Never Reloads) -->
+      <div class="subtitle-box">
+        <h3>Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics</h3>
+        <p>
+          Georg-August-Universität Göttingen <span>|</span> Institut für Theoretische Physik
+        </p>
+      </div>
+
+      <!-- Media Header (Persistent Outside Swup - Continuous Video Playback) -->
+      <div class="media-header">
+        <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
+        <video autoplay loop muted playsinline class="gif-banner" alt="Animation of active amorphous solids simulation">
+          <source src="{{ 'images/abp.mp4' | relative_url }}" type="video/mp4">
+        </video>
+      </div>
+
+      <!-- Main Dynamic Content Container (Swup updates ONLY this block) -->
       <main id="swup" class="transition-fade">
-
-        <!-- Subtitle Card -->
-        <div class="subtitle-box">
-          <h3>Postdoctoral Researcher in Theoretical & Computational Soft Matter Physics</h3>
-          <p>
-            Georg-August-Universität Göttingen <span>|</span> Institut für Theoretische Physik
-          </p>
-        </div>
-
-        <!-- Media Header -->
-        <div class="media-header">
-          <img src="{{ 'images/photo_profile2.jpeg' | relative_url }}" class="profile-photo" alt="Vinay Vaibhav profile photo"/>
-          <video autoplay loop muted playsinline class="gif-banner" alt="Animation of active amorphous solids simulation">
-            <source src="{{ 'images/abp.mp4' | relative_url }}" type="video/mp4">
-          </video>
-        </div>
-
         <section>
           {{ content }}
         </section>
