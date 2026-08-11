@@ -82,11 +82,17 @@ a small {
   display: block;
 }
 
-/* Structural Layout */
+/* Structural Layout - Sticky Header */
 header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: rgba(1, 1, 1, 0.95);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 10px 0;
   margin-bottom: 20px;
-  float: none;
-  position: static;
+  border-bottom: 1px solid #1f2937;
   width: 100%;
 }
 
