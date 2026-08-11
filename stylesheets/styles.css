@@ -82,7 +82,7 @@ a small {
   display: block;
 }
 
-/* Sticky Header Setup */
+/* Unified Sticky Header Setup (Desktop & Mobile) */
 header {
   position: sticky;
   top: 0;
@@ -90,7 +90,7 @@ header {
   width: 100%;
   padding: 10px 0;
   margin-bottom: 20px;
-  background-color: transparent; /* Fully transparent when at top */
+  background-color: transparent; /* Fully transparent at top */
   backdrop-filter: blur(0px);
   -webkit-backdrop-filter: blur(0px);
   border-bottom: 1px solid transparent;
@@ -99,9 +99,9 @@ header {
 
 /* Translucent State Triggered on Scroll */
 header.scrolled {
-  background-color: rgba(1, 1, 1, 0.5); /* Translucent dark tint */
+  background-color: rgba(1, 1, 1, 0.5); /* Adjust opacity here (0.1 to 0.9) */
   backdrop-filter: blur(16px); /* Frosted glass effect */
-  -webkit-backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -429,16 +429,9 @@ html.is-animating .transition-fade {
     box-sizing: border-box;
   }
 
-  /* Sticky Navigation Header */
+  /* Compact Mobile Header Padding (Inherits Sticky & Translucency from Main Rules) */
   header.top-header-title {
-    position: sticky;
-    top: 0;
-    z-index: 999;
-    background-color: rgba(1, 1, 1, 0.92);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    padding: 10px 0 6px 0;
-    border-bottom: 1px solid #1f2937;
+    padding: 8px 0 4px 0;
   }
 
   .top-header-title h1 {
