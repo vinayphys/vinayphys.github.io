@@ -472,10 +472,11 @@ html.is-animating .transition-fade {
     gap: 12px;
   }
 
+  /* Keep profile photo rectangular on mobile */
   .media-header .profile-photo {
-    width: 130px;
-    height: 130px;
-    border-radius: 50%; /* Circular avatar on small viewports */
+    width: 160px;
+    height: auto;
+    border-radius: 8px;
   }
 
   .media-header .gif-banner {
@@ -494,6 +495,15 @@ html.is-animating .transition-fade {
   .btn-sm {
     padding: 6px 10px;
     font-size: 0.78rem;
+  }
+
+  /* Fix News Coverage Buttons Overflow on Mobile */
+  .btn-link {
+    white-space: normal !important; /* Allow multi-line wrapping */
+    word-break: break-word;
+    text-align: left;
+    padding: 10px 14px;
+    line-height: 1.4;
   }
 
   #back-to-top {
