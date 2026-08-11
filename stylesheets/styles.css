@@ -381,3 +381,79 @@ html.is-animating .transition-fade {
   opacity: 0;
   transform: translateY(10px);
 }
+
+/* Publication Card Layout */
+.pub-card {
+  background-color: #0f172a;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.pub-card:hover {
+  border-color: #EF4444;
+  transform: translateY(-2px);
+}
+
+.pub-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.pub-title a {
+  color: #f8fafc;
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  color: #EF4444;
+}
+
+.pub-authors {
+  color: #cbd5e1;
+  font-size: 0.92rem;
+  margin-bottom: 4px;
+}
+
+.pub-authors strong {
+  color: #EF4444; /* Highlight your name in crimson */
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.pub-journal {
+  color: #94a3b8;
+  font-size: 0.9rem;
+  margin-bottom: 12px;
+}
+
+/* Publication Button Row */
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.btn-sm {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 4px;
+  color: #e2e8f0 !important;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-sm:hover {
+  background-color: #334155;
+  border-color: #EF4444;
+  color: #ffffff !important;
+}
