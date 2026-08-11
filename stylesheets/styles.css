@@ -99,8 +99,8 @@ header {
 
 /* Translucent State Triggered on Scroll */
 header.scrolled {
-  background-color: rgba(1, 1, 1, 0.75); /* Translucent dark tint */
-  backdrop-filter: blur(10px); /* Frosted glass effect */
+  background-color: rgba(1, 1, 1, 0.5); /* Translucent dark tint */
+  backdrop-filter: blur(16px); /* Frosted glass effect */
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
