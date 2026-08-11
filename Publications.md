@@ -80,8 +80,6 @@ title: Publications
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Tamoghna Das, and Suman Dutta</div>
   <div class="pub-journal"><em>Annalen der Physik</em> <strong>538</strong> (4), e00247 (2026)</div>
   <div class="pub-links">
-    <a href="https://doi.org/10.1002/andp.202500247" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -91,8 +89,6 @@ title: Publications
   <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Timothy W. Sirk, and Alessio Zaccone</div>
   <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>162</strong>, 244504 (2025)</div>
   <div class="pub-links">
-    <a href="https://doi.org/10.1063/5.0272171" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -101,9 +97,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, and Alessio Zaccone</div>
   <div class="pub-journal"><em>Nature Communications</em> <strong>16</strong>, 55 (2025)</div>
-  <div class="pub-links">
-    <a href="https://rdcu.be/d5pSW" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Article Link</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -112,9 +105,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Timothy W. Sirk, and Alessio Zaccone</div>
   <div class="pub-journal"><em>Macromolecules</em> <strong>57</strong> (23), 10885 (2024)</div>
-  <div class="pub-links">
-    <a href="https://doi.org/10.1021/acs.macromol.4c01360" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -123,9 +113,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong> and Suman Dutta</div>
   <div class="pub-journal"><em>Physical Review E</em> <strong>109</strong>, L062102 (2024)</div>
-  <div class="pub-links">
-    <a href="https://doi.org/10.1103/PhysRevE.109.L062102" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -134,9 +121,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
   <div class="pub-journal"><em>Physical Review Materials</em> <strong>7</strong>, 095601 (2023)</div>
-  <div class="pub-links">
-    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.095601" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -145,9 +129,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
   <div class="pub-journal"><em>Soft Matter</em> <strong>18</strong>, 4427–4436 (2022)</div>
-  <div class="pub-links">
-    <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D2SM00326K" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -156,9 +137,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
   <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>156</strong> (24), 244501 (2022)</div>
-  <div class="pub-links">
-    <a href="https://aip.scitation.org/doi/10.1063/5.0090330" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -167,9 +145,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong> and Pinaki Chaudhuri</div>
   <div class="pub-journal"><em>Physics of Fluids</em> <strong>33</strong>, 053103 (2021)</div>
-  <div class="pub-links">
-    <a href="https://aip.scitation.org/doi/pdf/10.1063/5.0045302" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -178,9 +153,6 @@ title: Publications
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
   <div class="pub-journal"><em>Physical Review E</em> <strong>101</strong>, 022605 (2020)</div>
-  <div class="pub-links">
-    <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022605" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 <div class="pub-card">
@@ -189,9 +161,6 @@ title: Publications
   </div>
   <div class="pub-authors">Dheeraj Kumar Mishra, Nitin Chandra, and <strong>Vinay Vaibhav</strong></div>
   <div class="pub-journal"><em>Annals of Physics</em> <strong>385</strong>, 605 (2017)</div>
-  <div class="pub-links">
-    <a href="https://doi.org/10.1016/j.aop.2017.08.004" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="fa-solid fa-link"></i> Journal DOI</a>
-  </div>
 </div>
 
 ---
