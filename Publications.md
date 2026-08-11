@@ -24,7 +24,6 @@ title: Publications
 <div class="pub-card">
   <div class="pub-title">Theory of distribution skewness effect on polydisperse random close packing</div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Carmine Anzivino, and Alessio Zaccone</div>
-  <div class="pub-journal"><em>arXiv Preprint</em> (2026)</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2605.30185" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="ai ai-arxiv"></i> arXiv:2605.30185</a>
   </div>
@@ -33,7 +32,6 @@ title: Publications
 <div class="pub-card">
   <div class="pub-title">Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades</div>
   <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W. Sirk, and Alessio Zaccone</div>
-  <div class="pub-journal"><em>arXiv Preprint</em> (2025)</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2511.18406" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="ai ai-arxiv"></i> arXiv:2511.18406</a>
   </div>
