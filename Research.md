@@ -124,9 +124,3 @@ I analyze relaxation dynamics and dynamic heterogeneity near the glass transitio
 </div>
 
 ---
-
-<div style="text-align: right; margin-top: 40px;">
-  <a href="#top" class="social-btn">
-    <i class="fa-solid fa-arrow-up" aria-hidden="true"></i> Back to Top
-  </a>
-</div>
