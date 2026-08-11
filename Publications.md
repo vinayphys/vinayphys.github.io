@@ -225,11 +225,3 @@ title: Publications
     </a>
   </li>
 </ul>
-
----
-
-<div style="text-align: right; margin-top: 40px;">
-  <a href="#top" class="social-btn">
-    <i class="fa-solid fa-arrow-up" aria-hidden="true"></i> Back to Top
-  </a>
-</div>
