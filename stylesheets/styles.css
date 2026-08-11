@@ -266,55 +266,6 @@ th {
   font-weight: bold;
 }
 
-/* Mobile Responsiveness */
-@media screen and (max-width: 768px) {
-  .media-header {
-    flex-direction: column;
-  }
-  
-  .media-header .profile-photo {
-    width: 100%;
-    max-width: 200px;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  body {
-    padding: 10px;
-  }
-  
-  .wrapper {
-    width: 100%;
-    padding: 10px;
-  }
-  
-  ul.nav-bar,
-  .social-bar {
-    flex-direction: column;
-    gap: 6px;
-  }
-  
-  ul.nav-bar a,
-  ul.nav-bar li a,
-  .social-btn,
-  .btn-link,
-  .social-link {
-    width: 100%;
-    box-sizing: border-box;
-    justify-content: center;
-  }
-}
-
-/* Print Styles */
-@media print {
-  body {
-    background: #fff;
-    color: #000;
-    padding: 0.4in;
-    font-size: 12pt;
-  }
-}
-
 /* Smooth Scrolling for Anchor Links */
 html {
   scroll-behavior: smooth;
@@ -358,16 +309,6 @@ html {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);
-}
-
-/* Mobile Adjustments */
-@media screen and (max-width: 600px) {
-  #back-to-top {
-    bottom: 15px;
-    right: 15px;
-    padding: 8px 12px;
-    font-size: 0.8rem;
-  }
 }
 
 /* Swup Page Transition Animations */
@@ -456,4 +397,109 @@ html.is-animating .transition-fade {
   background-color: #334155;
   border-color: #EF4444;
   color: #ffffff !important;
+}
+
+/* Print Styles */
+@media print {
+  body {
+    background: #fff;
+    color: #000;
+    padding: 0.4in;
+    font-size: 12pt;
+  }
+}
+
+/* Mobile Responsiveness & Touch Optimization */
+@media screen and (max-width: 680px) {
+  body {
+    padding: 8px 0;
+  }
+
+  .wrapper {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  /* Sticky Navigation Header */
+  header.top-header-title {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: rgba(1, 1, 1, 0.92);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    padding: 10px 0 6px 0;
+    border-bottom: 1px solid #1f2937;
+  }
+
+  .top-header-title h1 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  /* Horizontal Swipeable Nav Bar (App-like Pills) */
+  ul.nav-bar {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    gap: 8px;
+    padding: 4px 5px 8px 5px;
+    margin: 8px 0 0 0;
+    scrollbar-width: none; /* Hide Firefox scrollbar */
+  }
+
+  ul.nav-bar::-webkit-scrollbar {
+    display: none; /* Hide Chrome/Safari scrollbar */
+  }
+
+  ul.nav-bar li {
+    flex: 0 0 auto;
+  }
+
+  ul.nav-bar a,
+  ul.nav-bar li a {
+    padding: 7px 12px;
+    font-size: 0.85rem;
+    border-radius: 20px;
+  }
+
+  /* Compact Media Header Layout */
+  .media-header {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .media-header .profile-photo {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%; /* Circular avatar on small viewports */
+  }
+
+  .media-header .gif-banner {
+    max-height: 160px;
+  }
+
+  /* Cards & Buttons on Mobile */
+  .pub-card {
+    padding: 12px 14px;
+  }
+
+  .pub-links {
+    gap: 6px;
+  }
+
+  .btn-sm {
+    padding: 6px 10px;
+    font-size: 0.78rem;
+  }
+
+  #back-to-top {
+    bottom: 15px;
+    right: 15px;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
 }
