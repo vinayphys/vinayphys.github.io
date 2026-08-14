@@ -65,7 +65,7 @@ title: Publications
 
 <div style="margin-bottom: 20px;">
   <div class="pub-title">
-    <a href="[https://doi.org/10.1002/andp.202500247](https://pubs.aip.org/aip/jcp/search-results?page=1&f_Subjects=Communications&_gl=1*hvehfj*_up*MQ..*_ga*MzI2NTYyODc5LjE3ODY3MDM4NDY.*_ga_N9Z0RY7XEN*czE3ODY3MDM4NDYkbzEkZzEkdDE3ODY3MDM5NzQkajQkbDAkaDA.)" target="_blank" rel="noopener noreferrer">Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades</a>
+    <a href="https://pubs.aip.org/aip/jcp/" target="_blank" rel="noopener noreferrer">Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades</a>
   </div>
   <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W. Sirk, and Alessio Zaccone</div>
   <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>xx</strong> (xx), in press (2026)</div>
