@@ -30,14 +30,6 @@ title: Publications
 </div>
 
 <div style="margin-bottom: 20px;">
-  <div class="pub-title">Atomistic Framework for Glassy Polymer Viscoelasticity Across 20 Frequency Decades</div>
-  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W. Sirk, and Alessio Zaccone</div>
-  <div class="pub-links" style="margin-top: 6px;">
-    <a href="https://arxiv.org/abs/2511.18406" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="ai ai-arxiv"></i> arXiv:2511.18406</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 20px;">
   <div class="pub-title">Jamming in dense active matter</div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Pinaki Chaudhuri, and Peter Sollich</div>
   <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
@@ -69,7 +61,15 @@ title: Publications
 
 ---
 
-## Peer-Reviewed Journal Articles
+## Peer-Reviewed Journal Articles  
+
+<div style="margin-bottom: 20px;">
+  <div class="pub-title">
+    <a href="https://doi.org/10.1002/andp.202500247" target="_blank" rel="noopener noreferrer">Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades</a>
+  </div>
+  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W. Sirk, and Alessio Zaccone</div>
+  <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>xx</strong> (xx), in press (2026)</div>
+</div>
 
 <div style="margin-bottom: 20px;">
   <div class="pub-title">
