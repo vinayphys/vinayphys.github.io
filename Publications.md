@@ -32,7 +32,7 @@ title: Publications
 
 <div style="margin-bottom: 20px;">
   <div class="pub-title">Glassy dynamics, crossover temperature and density scaling in fragile glass-formers</div>
-  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Swarn Lata Singh, and Yashwant Singh</div>
+  <div class="pub-authors">Ankit Singh*, <strong>Vinay Vaibhav</strong>*, Swarn Lata Singh, and Yashwant Singh</div>
   <div class="pub-links" style="margin-top: 6px;">
     <a href="https://arxiv.org/abs/2609.05159" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="ai ai-arxiv"></i> arXiv:2609.05159</a>
   </div>
