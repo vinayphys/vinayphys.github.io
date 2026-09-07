@@ -29,6 +29,15 @@ title: Publications
   </div>
 </div>
 
+
+<div style="margin-bottom: 20px;">
+  <div class="pub-title">Glassy dynamics, crossover temperature and density scaling in fragile glass-formers</div>
+  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Swarn Lata Singh, and Yashwant Singh</div>
+  <div class="pub-links" style="margin-top: 6px;">
+    <a href="https://arxiv.org/abs/2609.05159" target="_blank" rel="noopener noreferrer" class="btn-sm"><i class="ai ai-arxiv"></i> arXiv:2609.05159</a>
+  </div>
+</div>
+
 <div style="margin-bottom: 20px;">
   <div class="pub-title">Jamming in dense active matter</div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Pinaki Chaudhuri, and Peter Sollich</div>
@@ -50,12 +59,6 @@ title: Publications
 <div style="margin-bottom: 20px;">
   <div class="pub-title">Microtubule network as amorphous matter</div>
   <div class="pub-authors">Claudia Marcelli, Raffaele Mendozza, <strong>Vinay Vaibhav</strong>, Peter Sollich, and Sarah Köster</div>
-  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
-</div>
-
-<div style="margin-bottom: 20px;">
-  <div class="pub-title">Slowing down of dynamics and the density scaling in soft spheres glass formers</div>
-  <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Swarn Lata Singh, and Yashwant Singh</div>
   <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
 </div>
 
