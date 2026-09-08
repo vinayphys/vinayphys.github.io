@@ -58,7 +58,7 @@ title: Publications
 
 <div style="margin-bottom: 20px;">
   <div class="pub-title">Microtubule network as amorphous matter</div>
-  <div class="pub-authors">Claudia Marcelli, Raffaele Mendozza, <strong>Vinay Vaibhav</strong>, Peter Sollich, and Sarah Köster</div>
+  <div class="pub-authors">Claudia Marcelli, Raffaele Mendozza, <strong>Vinay Vaibhav</strong>, Kristian A. T. Pajanonot, Yuzhen Feng, Peter Sollich, and Sarah Köster</div>
   <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
 </div>
 
