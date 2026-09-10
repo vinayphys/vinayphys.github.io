@@ -39,6 +39,12 @@ title: Publications
 </div>
 
 <div style="margin-bottom: 20px;">
+  <div class="pub-title">Microtubule network as amorphous matter</div>
+  <div class="pub-authors">Claudia Marcelli, Raffaele Mendozza, <strong>Vinay Vaibhav</strong>, Kristian A. T. Pajanonot, Yuzhen Feng, Peter Sollich, and Sarah Köster</div>
+  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
+</div>
+
+<div style="margin-bottom: 20px;">
   <div class="pub-title">Jamming in dense active matter</div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Pinaki Chaudhuri, and Peter Sollich</div>
   <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
@@ -53,12 +59,6 @@ title: Publications
 <div style="margin-bottom: 20px;">
   <div class="pub-title">Local heating of glassy matter</div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Juergen Horbach, and Pinaki Chaudhuri</div>
-  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
-</div>
-
-<div style="margin-bottom: 20px;">
-  <div class="pub-title">Microtubule network as amorphous matter</div>
-  <div class="pub-authors">Claudia Marcelli, Raffaele Mendozza, <strong>Vinay Vaibhav</strong>, Kristian A. T. Pajanonot, Yuzhen Feng, Peter Sollich, and Sarah Köster</div>
   <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
 </div>
 
