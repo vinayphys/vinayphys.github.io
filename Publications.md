@@ -77,7 +77,7 @@ title: Publications
     <a href="https://doi.org/10.1063/5.0332872" target="_blank" rel="noopener noreferrer">Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades</a>
   </div>
   <div class="pub-authors">Ankit Singh, <strong>Vinay Vaibhav</strong>, Caterina Czibula, Astrid Macher, Petra Christöfl, Karin Bartl, Gregor Trimmel, Timothy W. Sirk, and Alessio Zaccone</div>
-  <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>xx</strong> (165), 101101 (2026)</div>
+  <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>165</strong> (10), 101101 (2026)</div>
 </div>
 
 <div style="margin-bottom: 20px;">
