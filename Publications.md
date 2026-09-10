@@ -45,6 +45,12 @@ title: Publications
 </div>
 
 <div style="margin-bottom: 20px;">
+  <div class="pub-title">Reduced-Order Learning and Predictions of Confined Run-and-Tumble Particle Dynamics</div>
+  <div class="pub-authors"> Moushika Sivaraman⁩, <strong>Vinay Vaibhav</strong>, and Suman Dutta</div>
+  <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
+</div>
+
+<div style="margin-bottom: 20px;">
   <div class="pub-title">Jamming in dense active matter</div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Pinaki Chaudhuri, and Peter Sollich</div>
   <div class="pub-journal"><em>Manuscript in preparation</em> (2026)</div>
