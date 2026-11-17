@@ -69,7 +69,7 @@ title: Publications
     <a href="https://arxiv.org/abs/2605.30185" target="_blank" rel="noopener noreferrer">Theory of distribution skewness effect on polydisperse random close packing</a>
   </div>
   <div class="pub-authors"><strong>Vinay Vaibhav</strong>, Carmine Anzivino, and Alessio Zaccone</div>
-  <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>xxx</strong> (xx), xxxxxx (2026)</div>
+  <div class="pub-journal"><em>Journal of Chemical Physics</em> <strong>xxx</strong> (xx), in press (2026)</div>
 </div>
 
 <div style="margin-bottom: 20px;">
