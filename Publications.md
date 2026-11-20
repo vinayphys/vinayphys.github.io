@@ -12,7 +12,7 @@ title: Publications
   <a href="https://www.researchgate.net/profile/Vinay_Vaibhav" target="_blank" rel="noopener noreferrer" class="social-btn">
     <i class="ai ai-researchgate"></i> ResearchGate
   </a>
-  <a href="https://orcid.org" target="_blank" rel="noopener noreferrer" class="social-btn">
+  <a href="[https://orcid.org](https://orcid.org/0009-0002-5243-3708)" target="_blank" rel="noopener noreferrer" class="social-btn">
     <i class="ai ai-orcid"></i> ORCID
   </a>
 </div>
